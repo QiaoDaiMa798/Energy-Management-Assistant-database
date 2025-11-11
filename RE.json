@@ -1,0 +1,1567 @@
+[
+  {
+  "process parameters": [
+    ["SGC761A type circular loom heald belt structure", "environmental parameters with workshop humidity 50%~55%"],
+    ["diamond metal mesh weaving machine flat plate", "weft insertion process with main nozzle pressure of 0.8MPa"],
+    ["energy-saving auxiliary nozzle", "forming process with steel wire diameter 6mm and pitch 80mm"],
+    ["optimized flat plate geometric parameters of diamond metal mesh weaving machine", "operating parameters with environmental vibration frequency ≤20Hz"],
+    ["weft insertion speed of air-jet loom", "environmental indicators with equipment operating temperature 40~60℃"],
+    ["lightweight heald frame of dobby machine", "drying parameters with compressed air dew point ≤-20℃"],
+    ["SGC761A type circular loom heald belt structure", "weft shrinkage fault frequency ≤0.5 times / 1000 wefts"],
+    ["diamond metal mesh weaving machine flat plate", "warp breakage rate 3 times / 10⁵ wefts"],
+    ["energy-saving auxiliary nozzle", "heald frame jamming fault frequency ≤0.2 times / month"]
+  ],
+  "environmental conditions": [
+    ["air-jet loom zoned air conditioning system", "weft insertion conditions with main nozzle pressure 0.3~0.35MPa"],
+    ["air compressor dryer", "forming environment requirements with pitch 120mm"],
+    ["main shaft of diamond metal mesh weaving machine", "control environment with warp tension stabilization time 8s"],
+    ["lightweight heald frame of dobby machine", "adaptive environment with steel wire diameter 5mm"],
+    ["stainless steel nozzle of auxiliary nozzle", "operating environment with loom speed 450r/min"],
+    ["air compressor compression efficiency", "environmental parameters corresponding to weft shrinkage fault types"],
+    ["air compressor compression efficiency", "environmental causes of surface scratch faults"],
+    ["compression efficiency", "high-temperature environment threshold for heald frame jamming"],
+    ["SGC761A type circular loom heald belt structure", "environmental conditions for airflow interference of auxiliary nozzles"],
+    ["ZAX9100 type let-off system", "environmental factors for unloading energy waste"],
+    ["weft insertion speed of air-jet loom", "environmental requirements with dryer dew point ≤-30℃"],
+    ["lightweight heald frame of dobby machine", "environmental standards with workshop humidity ≥80%"],
+    ["optimized flat plate geometric parameters of diamond metal mesh weaving machine", "forming environment without severe vibration"]
+  ],
+  "fault frequency": [
+    ["daily inspection of SGC761A type circular loom", "steel wire forming deviation fault frequency ≤1.2 times / 1000 wefts"],
+    ["weekly maintenance of air-jet loom air compressor", "weft shrinkage fault frequency ≤0.8 times / day"],
+    ["monthly inspection of flat plate wear of diamond metal mesh weaving machine", "air compressor overheating fault frequency ≤0.5 times / quarter"],
+    ["quarterly replacement of air-jet loom auxiliary nozzles", "heald frame jamming fault frequency ≤0.6 times / year"],
+    ["semi-annual calibration of heald frame movement trajectory of dobby machine", "surface scratch fault frequency ≤0.3 times / day"],
+    ["Picanol DELTA-190 type air-jet loom", "wear fault frequency ≤1.0 times / 1000 wefts"],
+    ["grinding the edges and corners of flat plates of diamond metal mesh weaving machine", "unloading energy waste fault frequency ≤0.4 times / month"],
+    ["GC761 type circular loom nylon guide block", "airflow diffusion fault frequency ≤0.7 times / day"],
+    ["air compressor with EV2000 type frequency converter", "steel wire forming deviation fault frequency ≤0.9 times / quarter"],
+    ["ZAX9100 type let-off system", "air compressor overheating fault frequency ≤0.3 times / 1000 wefts"]
+  ],
+  "fault type": [
+    ["grinding the edges and corners of flat plates of diamond metal mesh weaving machine", "fault type: heald frame jamming"],
+    ["adjusting the distance between auxiliary nozzles of air-jet loom", "fault type: steel wire wear"],
+    ["traditional single-hole auxiliary nozzle of air-jet loom", "jamming fault caused by low transmission efficiency"],
+    ["GC761 type circular loom nylon guide block", "airflow interference fault caused by pressure fluctuation"],
+    ["diamond metal mesh weaving machine flat plate", "unloading energy waste fault type"],
+    ["metal heald frame of dobby machine", "fault type: surface scratch"],
+    ["SGC761A type circular loom chain transmission", "weft shrinkage fault caused by sliding friction"],
+    ["air compressor with EV2000 type frequency converter", "excessive inertia force fault caused by high-speed movement"],
+    ["airflow diffusion fault", "fault type: heald frame movement trajectory deviation"],
+    ["ZAX9100 type let-off system", "energy waste fault with low transmission efficiency"],
+    ["daily inspection of SGC761A type circular loom", "fault type: air compressor overheating"],
+    ["weekly maintenance of air-jet loom air compressor", "jamming fault caused by excessive inertia force"],
+    ["semi-annual calibration of heald frame movement trajectory of dobby machine", "pressure fluctuation fault caused by airflow diffusion"]
+  ],
+  "state parameters": [
+    ["rapier loom bearing normal", "air consumption ≥1.2m³/min"],
+    ["Toyota JAT600-190 air-jet loom normal", "state parameter: cylinder wear degree ≥0.3mm"],
+    ["lightweight heald frame of dobby machine", "state parameter: weaving efficiency ≤70%"],
+    ["air compressor oil change every 3 months", "state parameter: pressure drop ≥0.5MPa"],
+    ["pressure drop increase fault caused by air compressor oil mist blockage", "state parameter: no abnormality when temperature ≤20℃"],
+    ["excessive opening energy consumption fault of dobby machine", "state parameter: no oil leakage and no jamming"],
+    ["excessive air consumption of auxiliary nozzle", "state parameter: warp breakage rate ≤1 time / 10⁵ wefts"]
+  ],
+  "fault cause": [
+    ["air compressor oil change every 3 months", "fault cause: airflow interference caused by heald frame jamming"],
+    ["pressure drop increase fault caused by air compressor oil mist blockage", "fault cause: unstable warp tension"],
+    ["energy consumption increase", "fault cause: excessive distance between auxiliary nozzles"],
+    ["excessive opening energy consumption fault of dobby machine", "fault cause: cylinder wear caused by lack of lubricating oil"],
+    ["increased movement resistance fault of SGC761A type circular loom heald belt", "fault cause: excessive efficiency due to short transmission chain"],
+    ["low main transmission efficiency fault of GC761 type circular loom", "fault cause: rapid airflow diffusion of auxiliary nozzles"],
+    ["excessive air consumption of auxiliary nozzle", "fault cause: too few heald frames + too small opening height"],
+    ["rapier loom bearing normal", "fault cause: increased pressure drop due to long transmission chain"],
+    ["Toyota JAT600-190 air-jet loom normal", "fault cause: increased air consumption due to abnormal oil separator"],
+    ["lightweight heald frame of dobby machine", "fault cause: increased energy consumption due to heald belt contamination"]
+  ],
+  "system defects": [
+    ["simplified main transmission system of SGC761A type circular loom", "defect of unstable tension in traditional let-off system"],
+    ["air-jet loom adopting RTC weft real-time control system", "defect of easy aging of original heald belt material"],
+    ["rigid connection between main shaft and flat plate of diamond metal mesh weaving machine", "defect of large deviation in traditional heald frame movement trajectory"],
+    ["air-jet loom auxiliary nozzle adopting 'central 1 large hole + 7 surrounding small holes' structure", "defect of rapid wear of original air compressor cylinder"],
+    ["dobby machine adopting swing mechanism", "defect of inconvenient adjustment of traditional auxiliary nozzle distance"],
+    ["connection node between heald lever and heald frame", "system defect: excessive air consumption of let-off system"],
+    ["dobby machine with differential gear added", "system defect: insufficient weft real-time control accuracy"],
+    ["ZAX9100 type let-off system", "defect of easy wear of original heald belt due to contamination"]
+  ],
+  "potential faults": [
+    ["excessive opening energy consumption fault of dobby machine", "transmission shaft torque exceeding 60N·m, motor current exceeding 15% of rated value"],
+    ["air compressor with EV2000 type frequency converter", "potential fault: energy waste during air compressor unloading"],
+    ["excessive number of heald frames of dobby machine", "potential fault: increased opening energy consumption"],
+    ["dobby machine transmission shaft", "potential fault: fluctuation of opening energy consumption"],
+    ["compressed air pressure fluctuation", "air storage tank outlet pipeline of air-jet loom air supply system"],
+    ["air-jet loom with auxiliary nozzle airflow early warning", "potential fault: weft shrinkage caused by airflow diffusion"],
+    ["middle and rear sections of air-jet loom reed slot", "potential fault: weft sinking"],
+    ["semi-annual inspection of connecting bolts between flat plate and main shaft of diamond metal mesh weaving machine", "potential fault: flat plate eccentricity caused by loose bolts"],
+    ["insufficiently timely inspection of heald lever connections of dobby machine", "potential fault: heald frame movement deviation caused by loose connections"],
+    ["air-jet loom air compressor with pressure early warning", "potential fault: increased air consumption of auxiliary nozzles "],
+    ["connection part between main shaft and coupling of SGC761A type circular loom", "potential fault: main shaft vibration"],
+    ["period of low loom start-up efficiency", "potential fault: energy waste during air compressor unloading"],
+    ["spiral surface of flat plate for winding steel wire of diamond metal mesh weaving machine", "potential fault: steel wire forming deviation"],
+    ["dobby machine differential gear", "potential fault: excessive energy peak"],
+    ["main nozzle of Picanol DELTA-190 type air-jet loom", "potential fault: flat plate eccentricity caused by loose bolts"]
+  ],
+  "characteristic phenomena": [
+    ["air compressor after frequency conversion transformation of air-jet loom", "characteristic phenomena: low loom start-up efficiency, large fluctuation of air consumption"],
+    ["running-in period of SGC761A type circular loom", "main shaft speed fluctuation ±2r/min, operating noise 75~80 decibels"],
+    ["coupling loosening fault of SGC761A type circular loom", "characteristic phenomena: lifting roller speed fluctuation ±3r/min, fabric width deviation ±5mm"],
+    ["ZAX9100 type let-off system", "lifting roller speed fluctuation ±3r/min"]
+  ],
+  "result in": [
+    ["steel wire forming deviation fault of diamond metal mesh weaving machine", "decreased production efficiency"],
+    ["quarterly calibration of injection angle of air-jet loom auxiliary nozzles", "airflow diffusion caused by angle deviation"],
+    ["low main transmission efficiency of GC761 type circular loom", "result in increased overall energy consumption"],
+    ["excessive pressure of air-jet loom auxiliary nozzles", "result in increased air consumption"],
+    ["excessive opening energy consumption of dobby machine", "result in motor overload"],
+    ["SGC761A type circular loom with main shaft speed early warning", "decreased production efficiency caused by excessively low main shaft speed "],
+    ["diamond metal mesh weaving machine with excessive tension setting", "result in increased energy consumption due to steel wire plastic deformation "],
+    ["weft stop of GC761 type circular loom", "decreased production efficiency"],
+    ["blockage fault of air-jet loom auxiliary nozzles", "increased air consumption"],
+    ["excessive number of heald frames of dobby machine", "result in air compressor pressure fluctuation"],
+    ["ZAX9100 type let-off system", "result in fabric width deviation"]
+  ],
+  "contain": [
+    ["air-jet loom air system", "contains heald frame, heald lever, pattern mechanism, differential gear, torque sensor"],
+    ["main transmission system of SGC761A type circular loom", "contains main nozzle, auxiliary nozzle, air compressor dryer filter element"],
+    ["forming system of diamond metal mesh weaving machine", "contains solenoid valve, special-shaped reed, reed slot, electronic clearer, frequency converter"],
+    ["opening system of dobby machine", "contains main shaft, flat plate, spiral sleeve, shearing device, constant tension mechanism Z₂/Z₃"],
+    ["air-jet loom auxiliary nozzle", "contains heald belt, pattern mechanism, differential gear, cylinder wear detection device"],
+    ["ZAX9100 type let-off system", "contains chain transmission device, air compressor dryer, weft real-time control system"],
+    ["torque sensor", "contains central 1 large hole + 7 surrounding small holes structure, special-shaped reed component"],
+    ["air compressor dryer", "contains heald frame, heald lever, warp guide component, tension sensor"],
+    ["constant tension mechanism Z₁/Z₂ of diamond metal mesh weaving machine", "contains solenoid valve, main and auxiliary spray pressure regulating device, cylinder lubricating oil circuit"],
+    ["lightweight heald frame", "contains main shaft, flat plate, shearing device, air compressor outlet dew point detection module"]
+  ],
+  "be applicable to": [
+    ["constant tension mechanism Z₁/Z₂ of diamond metal mesh weaving machine", "applicable to weft insertion air consumption control scenario of high-speed wide air-jet loom"],
+    ["energy-saving auxiliary nozzle of air-jet loom", "applicable to torque measurement scenario of dobby machine transmission shaft"],
+    ["lightweight heald frame of dobby machine", "applicable to flat spiral forming scenario with steel wire diameter 8mm and pitch 200mm"],
+    ["torque sensor", "applicable to energy consumption optimization scenario of low-speed narrow weaving"],
+    ["air compressor dryer", "applicable to high-speed opening low energy consumption demand scenario of dobby machine"],
+    ["main transmission system of SGC761A type circular loom", "applicable to auxiliary nozzle airflow bundling improvement scenario"],
+    ["chain transmission device", "applicable to weft real-time control accuracy optimization scenario of air-jet loom"],
+    ["central 1 large hole + 7 surrounding small holes energy-saving auxiliary nozzle", "applicable to contamination cleaning scenario of circular loom heald belt"],
+    ["shearing device", "applicable to compressed air dew point control scenario of air compressor"]
+  ],
+  "reduce": [
+    ["lightweight heald frame", "reduce air compressor dryer dew point value by 20%"],
+    ["2 heald frames + 58mm opening", "synergistically reduce warp breakage rate by 15 times / 10⁵ wefts"],
+    ["main and auxiliary spray pressure 0.4/0.45MPa", "synergistically reduce heald frame jamming fault frequency by 30%"],
+    ["ZAX9100 type let-off system", "reduce solenoid valve operating noise by 25%"],
+    ["diamond metal mesh weaving machine flat plate", "reduce dobby machine opening height by 10mm"],
+    ["solenoid valve", "reduce main and auxiliary spray pressure loss by 40%"],
+    ["heald belt", "synergistically reduce warp tension stabilization time to 2s"],
+    ["torque sensor", "reduce loom weaving efficiency by 8%"]
+  ],
+  "improve": [
+    ["replacing coupling of SGC761A type circular loom", "improve air-jet loom air consumption efficiency by 12%"],
+    ["application of electronic clearer in loom warp processing", "increase opening energy consumption of dobby machine by 5%"],
+    ["wavelet neural network", "increase tension fluctuation amplitude of let-off system by 15%"],
+    ["diamond metal mesh weaving machine flat plate", "increase air compressor pressure drop by 0.3MPa"],
+    ["synergistic regulation of main and auxiliary spray pressure", "increase weft shrinkage fault frequency by 0.2 times / 1000 wefts"],
+    ["heald lever optimization", "increase incidence rate of heald frame jamming fault by 10%"]
+  ],
+  "adopt": [
+    ["main transmission system of SGC761A type circular loom", "Y112M-4 type motor, pulley, chain transmission device, cam"],
+    ["main transmission system of SGC761A type circular loom", "chain transmission technology"],
+    ["forming system of diamond metal mesh weaving machine", "adopt constant tension control technology as core tension regulation technology"],
+    ["main drive of dobby machine", "adopt Sumo switched reluctance motor direct drive technology"],
+    ["rotary dobby machine", "adopt opening process with heald frame quantity ≤6 pieces and opening height ≤78mm"],
+    ["Sumo switched reluctance motor of air-jet loom", "adopt direct drive main shaft"],
+    ["dobby machine adopting lightweight heald frame", "opening speed"],
+    ["weft insertion efficiency", "adopt air-jet loom with RTC weft real-time control"],
+    ["air-jet loom auxiliary nozzle adopting energy-saving type", "auxiliary nozzle air consumption"],
+    ["air-jet loom air supply system", "adopt 1 Atlas GA37 type air compressor + 2 0.5m³ air storage tanks"],
+    ["air-jet loom air compressor", "adopt frequency conversion control technology to optimize its operating energy consumption"],
+    ["weft insertion efficiency", "adopt RTC weft real-time control"],
+    ["ZAX9100 type let-off system", "adopt chain transmission technology"]
+  ],
+  "test": [
+    ["testing main shaft speed of SGC761A type circular loom with tachometer", "main shaft speed"],
+    ["monitoring air compressor outlet pressure with pressure sensor", "testing air compressor outlet pressure"],
+    ["power meter", "testing warp tension of ZAX9100 type let-off system"]
+  ],
+  "process influence energy consumption components": [
+    ["frequency conversion transformation process of air-jet loom air compressor", "process influence energy consumption component: air compressor power consumption"],
+    ["auxiliary spray pressure + distance of air-jet loom", "total air consumption"],
+    ["heald frame quantity process of dobby machine", "process influence opening energy consumption component"],
+    ["opening frequency adjustment process of dobby machine", "process influence energy consumption component: unit weft density energy consumption"],
+    ["total energy consumption of diamond metal mesh weaving machine forming process", "wire feeding energy consumption P₁ accounts for 29.2%, plastic deformation energy consumption P₂ accounts for 10.8%, friction energy consumption P₃ accounts for 15.2%, slope pushing energy consumption P₄ accounts for 20.4%"],
+    ["weaving speed of air-jet loom", "unit fabric air consumption"],
+    ["dobby machine adopting lightweight heald frame", "process influence unit weft density energy consumption"],
+    ["ZAX9100 type let-off system", "process influence opening energy consumption component"]
+  ],
+  "energy consumption composition ratio": [
+    ["total energy consumption of dobby machine", "inertia energy consumption of opening mechanism accounts for 40%, transmission friction energy consumption accounts for 30%, pattern mechanism energy consumption accounts for 20%, heald lever energy consumption accounts for 10%"],
+    ["total energy consumption of SGC761A type circular loom", "main transmission energy consumption accounts for 16%, warp opening energy consumption accounts for 24%, winding energy consumption accounts for 10%, other energy consumption accounts for 50%"],
+    ["total energy consumption of air-jet loom", "air consumption related energy consumption of air compressor accounts for 60%, loom operation power consumption accounts for 30%, auxiliary equipment energy consumption accounts for 10%"],
+    ["ZAX9100 type let-off system", "inertia energy consumption of opening mechanism accounts for 40%"]
+  ],
+  "multi-component synergistic influence on energy consumption": [
+    ["multi-component synergistic simplified design of SGC761A type circular loom main transmission system", "multi-component synergistic simplified design synergistically influences main transmission system energy consumption"],
+    ["synergy between coupling and related components of SGC761A type circular loom", "multi-component synergy influences energy consumption, core related energy consumption component: transmission energy consumption"],
+    ["synergy among lifting roller - transmission - coupling of SGC761A type circular loom", "multi-component synergy influences energy consumption, corresponding energy consumption component: invalid friction energy consumption"],
+    ["main shaft speed + heald belt + coupling of SGC761A type circular loom", "overall total energy consumption"],
+    ["opening system of dobby machine", "6 cellulose-reinforced plastic heald frames + 1 set of differential gear"],
+    ["heald frame of dobby machine", "opening energy consumption"],
+    ["dobby machine with differential gear added", "opening energy consumption peak"],
+    ["synergy between steel wire tension system and related components of diamond metal mesh weaving machine", "multi-component synergy influences energy consumption, corresponding energy consumption component: plastic deformation energy consumption P₂"],
+    ["auxiliary nozzle pressure of air-jet loom", "auxiliary nozzle air consumption"],
+    ["heald frame lifting height of dobby machine", "inertia energy consumption of opening mechanism"],
+    ["synergy between tension system and steel wire components of diamond metal mesh weaving machine", "multi-component synergy influences energy consumption, corresponding energy consumption component: invalid plastic deformation energy consumption"],
+    ["heald frame quantity + height + lightweight heald frame of dobby machine", "multi-component synergy influences total opening energy consumption"],
+    ["stable period of dobby machine", "opening energy consumption stable at 800~1000W, heald frame movement error ≤0.1mm"],
+    ["opening frequency of dobby machine", "fabric weft density"],
+    ["diamond metal mesh weaving machine with tension F optimized to 427N", "multi-component synergy influences energy consumption per formed part"],
+    ["excessively high flat plate rotation speed of diamond metal mesh weaving machine", "increased wire feeding energy consumption P₁"],
+    ["heald frame jamming fault of dobby machine", "running-in period of dobby machine"],
+    ["ZAX9100 type let-off system + heald frame of dobby machine", "opening energy consumption peak"]
+  ]
+},
+
+  {
+  "process parameters": [
+    ["Toyota JAT600-190 air-jet loom", "gasket aging frequency ≥5 times/month"],
+    ["Toyota JAT600-190 air-jet loom", "humid environment humidity ≥85%"],
+    ["weaving speed process parameters of Toyota JAT600-190 air-jet loom", "process parameter value: gasket thickness 2mm"],
+    ["Toyota JAT600-190 air-jet loom", "weft shrinkage fault frequency ≤0.3 times/1000 wefts"],
+    ["weaving speed 550r/min", "main nozzle material: plastic"],
+    ["spring return type dobby machine", "stable supply voltage 220V±10V"],
+    ["rapier loom bearing", "air consumption ≥0.8m³/min"],
+    ["PAT type air-jet loom slow mechanism", "warp breakage rate 3 times/10⁵ wefts"],
+    ["dobby opening mechanism", "high-temperature environment threshold 60℃"],
+    ["weft breakage fault", "pitch 80mm forming process"]
+  ],
+  "environmental conditions": [
+    ["rapier loom bearing", "high-temperature and dusty environment (dust concentration ≥10mg/m³)"],
+    ["dobby opening mechanism", "humid and corrosive environment (humidity ≥90%)"],
+    ["PAT type air-jet loom slow mechanism", "voltage fluctuation environment (fluctuation range ±20V)"],
+    ["Toyota JAT600-190 air-jet loom", "non-lubricated dry friction environment"],
+    ["spring return type dobby machine", "stable air supply environment (air pressure 0.8MPa)"],
+    ["weft breakage fault", "regular cleaning environment (cleaning cycle 12h/time)"],
+    ["gasket aging", "stable power supply environment (voltage 380V±5V)"]
+  ],
+  "fault frequency": [
+    ["warp fault of Toyota JAT600-190 air-jet loom", "gasket aging fault frequency: 800 times"],
+    ["weft fault of Toyota JAT600-190 air-jet loom", "opening mechanism jamming fault frequency: 2000 times"],
+    ["rapier loom bearing", "warp fault frequency: 1200 times"],
+    ["dobby opening mechanism", "gasket aging fault frequency: 500 times"],
+    ["PAT type air-jet loom slow mechanism", "weft fault frequency: 1500 times"],
+    ["main nozzle pressure 0.4MPa", "warp fault frequency: 900 times"]
+  ],
+  "fault type": [
+    ["PAT type air-jet loom", "fault type: gasket aging fault"],
+    ["weft breakage fault", "fault type: opening mechanism jamming fault"],
+    ["Toyota JAT600-190 air-jet loom", "fault type: excessive air consumption fault"],
+    ["rapier loom bearing", "fault type: stable power supply abnormal fault"],
+    ["stable power supply environment", "fault type: main nozzle pressure abnormal fault"],
+    ["weaving efficiency 85%", "fault type: weft breakage fault"]
+  ],
+  "state parameters": [
+    ["rapier loom bearing normal", "state parameter: air consumption ≥1.2m³/min"],
+    ["Toyota JAT600-190 air-jet loom normal", "state parameter: temperature ≥90℃"],
+    ["PAT type air-jet loom slow mechanism", "state parameter: weaving efficiency ≤65%"],
+    ["weft breakage fault", "state parameter: normal temperature and no oil leakage"],
+    ["dobby opening mechanism", "state parameter: air consumption ≤0.3m³/min"],
+    ["gasket aging", "state parameter: opening height 58mm"]
+  ],
+  "fault cause": [
+    ["main cause of rapier loom bearing oil leakage", "excessively high weaving speed (700r/min)"],
+    ["weft breakage fault", "excessively low main nozzle pressure (0.2MPa)"],
+    ["loose fit fault of Toyota JAT600-190 air-jet loom", "gasket aging"],
+    ["slow mechanism fault of PAT type air-jet loom", "excessive warp tension"],
+    ["normal temperature and no oil leakage", "insufficient stable air supply (air pressure 0.3MPa)"]
+  ],
+  "system defects": [],
+  "potential faults": [
+    ["rapier loom bearing", "potential fault: electronic clearer fault"],
+    ["Toyota JAT600-190 air-jet loom", "potential fault: bearing overheating"],
+    ["rapier loom bearing", "potential fault: solenoid valve no signal received"],
+    ["PAT type air-jet loom slow mechanism", "potential fault: warp breakage"],
+    ["rapier loom bearing", "potential fault: fabric weft shrinkage, with fault recognition accuracy 30%"],
+    ["rapier loom bearing", "potential fault: insufficient weft single strength"],
+    ["bearing outer ring", "potential fault: gasket aging"],
+    ["Toyota JAT600-190 air-jet loom", "potential fault: insufficient diagnosis accuracy"],
+    ["frequent weft stops", "potential fault: loose fit"],
+    ["main nozzle pressure 0.4MPa", "potential fault: excessive bearing temperature"],
+    ["wavelet neural network", "potential fault: gasket aging"],
+    ["regular lubrication of loom bearing", "potential fault: electronic clearer fault"]
+  ],
+  "characteristic phenomena": [
+    ["excessive bearing temperature", "characteristic phenomenon: obvious fabric weft shrinkage"],
+    ["insufficient lubrication of rapier loom", "characteristic phenomenon: sudden drop in weaving efficiency"],
+    ["PAT type air-jet loom slow mechanism", "characteristic phenomenon: decreased weft single strength"],
+    ["loose fit fault", "characteristic phenomenon: solenoid valve no signal received"],
+    ["solenoid valve no signal received", "characteristic phenomenon: bearing outer ring cold"],
+    ["electronic clearer", "characteristic phenomenon: excessive bearing temperature"],
+    ["imbalance of main and auxiliary spray pressure", "characteristic phenomenon: no obvious fabric defects"]
+  ],
+  "result in": [
+    ["frequent weft stops", "result in warp breakage"],
+    ["Toyota JAT600-190 air-jet loom", "result in gasket aging"],
+    ["Toyota JAT600-190 air-jet loom", "result in electronic clearer fault"],
+    ["main cause of weft stop of Toyota JAT600-190 air-jet loom", "result in loose fit"],
+    ["weft breakage", "result in excessive bearing temperature"],
+    ["weft single strength up to 12cNtex", "result in increased weft stop rate"],
+    ["insufficient weft single strength", "result in main nozzle pressure abnormality"],
+    ["loose fit of rapier loom bearing", "result in insufficient diagnosis accuracy"],
+    ["excessive bearing temperature", "result in imbalance of main nozzle pressure"],
+    ["wavelet neural network diagnosis", "result in increased weaving efficiency"],
+    ["regular lubrication of loom bearing", "result in increased weft stop rate"],
+    ["main nozzle blockage", "result in improved warp single strength"]
+  ],
+  "contain": [
+    ["Toyota JAT600-190 air-jet loom", "contains 4 weft feelers"],
+    ["rapier loom main shaft", "contains spherical plain bearing"],
+    ["Toyota JAT600-190 air-jet loom", "contains PAT type air-jet loom"],
+    ["rapier loom main shaft", "contains spherical plain bearing"],
+    ["weft insertion system of Toyota JAT600-190 air-jet loom", "contains main nozzle, auxiliary nozzle"],
+    ["rapier loom", "contains 1 set of spherical plain bearing"],
+    ["rapier loom", "contains spherical plain bearing"],
+    ["electronic clearer", "contains air-jet loom weft winding"],
+    ["PAT type air-jet loom slow mechanism", "contains spherical plain bearing"],
+    ["frequent weft stops", "contains weft feeler fault module"],
+    ["wavelet neural network", "contains spherical plain bearing component"],
+    ["regular lubrication of loom bearing", "contains main nozzle pressure regulating device"],
+    ["fabric weft shrinkage", "contains solenoid valve control unit"]
+  ],
+  "be applicable to": [
+    ["wavelet neural network", "adopt rapier loom bearing diagnosis"],
+    ["electronic clearer", "adopt rapier loom bearing diagnosis"],
+    ["main and auxiliary spray pressure 0.4/0.45MPa", "applicable to bearing fault diagnosis scenario"],
+    ["lightweight heald frame", "applicable to weft single strength detection"],
+    ["PAT type air-jet loom slow mechanism", "applicable to warp clearing efficiency optimization"],
+    ["gasket aging", "applicable to high-speed weaving scenario"]
+  ],
+  "reduce": [
+    ["lightweight heald frame", "reduce unit energy consumption of dobby machine by 10%"],
+    ["2 heald frames + 58mm opening", "synergistically reduce invalid energy consumption by 40%"],
+    ["main and auxiliary spray pressure 0.4/0.45MPa", "synergistically reduce air consumption by 15%"],
+    ["auxiliary spray pressure 0.45MPa", "reduce air consumption of air-jet loom by 15%"],
+    ["regular lubrication of loom bearing", "reduce loom bearing failure rate by 75%"],
+    ["main and auxiliary spray pressure 0.4/0.45MPa", "reduce invalid air consumption by 46.7%"],
+    ["regular lubrication of rapier loom bearing", "reduce air consumption of air-jet loom"],
+    ["wavelet neural network", "reduce weaving efficiency by 8%"],
+    ["electronic clearer", "reduce auxiliary spray pressure by 0.1MPa"],
+    ["loose fit fault", "reduce warp clearing efficiency by 10%"],
+    ["excessive bearing temperature", "reduce weft stop rate by 5%"]
+  ],
+  "improve": [
+    ["application of electronic clearer in loom warp processing", "improve loom warp clearing efficiency by 3%"],
+    ["wavelet neural network", "improve bearing diagnosis accuracy to 100%"],
+    ["regular lubrication of loom bearing", "improve loom warp clearing efficiency"],
+    ["weft breakage", "increase gasket aging rate"],
+    ["main nozzle blockage", "increase probability of loose fit fault"],
+    ["solenoid valve no signal received", "increase weaving efficiency by 12%"],
+    ["fabric weft shrinkage", "improve diagnosis accuracy of wavelet neural network"]
+  ],
+  "adopt": [
+    ["anti-bearing fault diagnosis scenario", "adopt wavelet neural network as fault diagnosis model"],
+    ["anti-weft breakage fault scenario", "adopt wavelet neural network as fault diagnosis model"],
+    ["warp fault handling", "adopt lightweight heald frame as solution"],
+    ["gasket aging repair", "adopt main and auxiliary spray pressure regulation scheme"],
+    ["improvement of insufficient weft single strength", "adopt PAT type air-jet loom slow mechanism"],
+    ["control of excessive bearing temperature", "adopt electronic clearer monitoring"]
+  ],
+  "test": [
+    ["rapier loom bearing", "vibration signal test"],
+    ["rapier loom bearing diagnosis", "test method: Db3 wavelet decomposition"],
+    ["PAT type air-jet loom slow mechanism", "vibration signal test"]
+  ],
+  "process influence energy consumption components": [
+    ["dobby machine 500r/min", "unit opening energy consumption increases by 40%"],
+    ["shed forming process of dobby machine", "process influence energy consumption component: shed forming energy consumption, accounting for over 50%"],
+    ["weft insertion process of air-jet loom", "process influence energy consumption component: auxiliary spray air consumption, accounting for 75%"],
+    ["rapier loom bearing", "process influence energy consumption component: auxiliary spray air consumption"]
+  ],
+  "energy consumption composition ratio": [],
+  "multi-component synergistic influence on energy consumption": [
+    ["spring return type dobby machine", "multi-component synergy influences energy consumption with large energy loss at high speed"],
+    ["synergistic working condition of dobby machine transmission gear + control module + executive mechanism", "multi-component synergistic degradation influences energy consumption, unit weaving energy consumption is 20% higher than that in stable operation period"],
+    ["6 heald frames + 78mm opening", "energy consumption of dobby machine increases by 100%"],
+    ["multi-component synergistic adjustment speed of loom 750r/min", "multi-component synergy influences energy consumption of dobby machine exceeding 50% of total energy consumption"],
+    ["excessive energy consumption of dobby machine", "when loom speed ＞500r/min"],
+    ["opening height 78mm", "lifting energy consumption of dobby machine increases by 40%"],
+    ["multi-component synergistic operation of dobby machine under loom 500r/min working condition", "multi-component synergistic operation influences energy consumption"],
+    ["6 heald frames", "energy consumption of dobby machine increases by 50%"],
+    ["diamond metal mesh weaving machine with tension F optimized to 427N", "energy consumption per formed part"],
+    ["synergy between bearing and related transmission components", "multi-component synergistic performance decreases due to bearing degradation, resulting in 30% increase in energy consumption"],
+    ["simplified main transmission system of SGC761A type circular loom", "multi-component synergy influences unit fabric energy consumption"],
+    ["Toyota JAT600-190 air-jet loom + rapier loom bearing", "multi-component synergy influences energy consumption"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Diamond Metal Mesh Weaving Machine", "Voltage fluctuation ±20%, dust concentration 20mg/m³, friction coefficient 0.4"],
+    ["Diamond Metal Mesh Weaving Machine", "Air consumption 12m³/h, pressure fluctuation ±0.1MPa, heald frame movement jitter"],
+    ["Air-jet Loom Auxiliary Nozzle", "Steel wire yield limit 300MPa, insufficient flat plate wear resistance, lack of differential mechanism"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate Rotating Speed 600r/min", "Process parameters: humidity 85%, temperature 40℃"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate Rotating Speed 550r/min", "Power ratio 1.8:1, rotating speed fluctuation ±50r/min"],
+    ["Dobby Machine Weaving Process Parameters", "Process parameters: textile fiber dust ≤5mg/m³, no severe vibration"],
+    ["Air-jet Loom Auxiliary Nozzle Pressure 0.45MPa", "Flat plate thickness 10mm, width 80mm, pitch 150mm"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate Rotating Speed 550r/min", "Process parameter: air flow diffusion fault frequency ≤0.5 times/week"],
+    ["Diamond Metal Mesh Weaving Machine", "Process parameters: voltage fluctuation ±20%, amplitude ＞0.5mm"],
+    ["Dobby Machine Drive Motor", "Pressure 0.6MPa, spacing 40mm, long spacing 60~80mm"],
+    ["Dobby Machine Traditional Transmission", "Daily forming quantity 1600 pieces, wire feeding energy consumption P₁ increased by 10%"],
+    ["Middle and Rear Sections of Air-jet Loom Reed Slot", "Steel wire diameter 6mm, flat plate thickness 7mm, yield limit 400MPa"],
+    ["System Defect: No Differential Mechanism", "Process parameters: air consumption 8.5m³/h, pressure 0.45MPa"],
+    ["Potential Fault: Surface Wear", "Rotating speed 297~750r/min, input/output power ratio 1.2:1"]
+  ],
+  "Environmental Conditions": [
+    ["Diamond Metal Mesh Weaving Machine Spindle", "High temperature and high humidity (humidity 90%, temperature 50℃) + severe vibration environment"],
+    ["Air-jet Loom Auxiliary Nozzle", "Harsh power supply environment with amplitude ＞0.5mm and voltage fluctuation ±30%"],
+    ["Dobby Machine Testing Equipment", "Environment with textile fiber dust ≥20mg/m³ and no spring simulation tension"],
+    ["Dobby Machine Drive Motor", "Clean environment with humidity 60%, temperature 25℃ + fiber dust ≤5mg/m³"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate", "Low-dust environment with no vibration and stable voltage ±5%"],
+    ["Dobby Machine High Energy Consumption", "Optimized environment with no severe vibration and dust concentration ≤3mg/m³"],
+    ["Central 1 Large Hole + 7 Small Holes Energy-saving Auxiliary Nozzle", "High temperature and high humidity (humidity 85%, temperature 40℃) + dusty environment"],
+    ["System Defect: Excessive High-speed Inertial Force", "Stable environment with no vibration and dust concentration ≤5mg/m³"]
+  ],
+  "Fault Frequency": [
+    ["Diamond Metal Mesh Weaving Machine Flat Plate", "Air flow diffusion fault frequency ≤0.8 times/day, high energy consumption fault frequency ≤0.6 times/week"],
+    ["Dobby Machine Drive Motor", "Surface wear fault frequency ≤0.5 times/batch, steel wire forming deviation fault frequency ≤0.3 times/month"],
+    ["Air-jet Loom Auxiliary Nozzle", "High energy consumption fault frequency ≤0.7 times/day, surface wear fault frequency ≤0.4 times/week"],
+    ["System Defect: No Differential Mechanism", "Steel wire forming deviation fault frequency ≤0.6 times/day, air flow diffusion fault frequency ≤0.2 times/month"]
+  ],
+  "Fault Types": [
+    ["Diamond Metal Mesh Weaving Machine P₂ Too High", "Fault types: abnormal friction coefficient, movement jitter"],
+    ["Dobby Machine Rotating Speed ＞700r/min", "Fault types: surface wear, excessive wire feeding energy consumption"],
+    ["Middle and Rear Sections of Air-jet Loom Reed Slot", "Fault types: air flow diffusion, abnormal increase in steel wire diameter"],
+    ["Dobby Machine Traditional Transmission", "Fault types: poor bunching, excessive pressure fluctuation"]
+  ],
+  "Status Parameters": [
+    ["Dobby Machine Normal", "Status parameters: air consumption 15m³/h, pressure fluctuation ±0.3MPa, rotating speed fluctuation ±100r/min"],
+    ["Dobby Machine", "Status parameters: humidity 85%, temperature 40℃, dust concentration 20mg/m³"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate", "Status parameters: amplitude ＞0.5mm, voltage fluctuation ±20%, movement jitter"],
+    ["Air-jet Loom Auxiliary Nozzle Spacing ＜60mm", "Status parameters: input/output power ratio 1.8:1, heald frame jamming"],
+    ["Potential Fault: Drive Motor Overload", "Status parameters: steel wire diameter 4mm, pitch 100mm, flat plate thickness 7mm"],
+    ["System Defect: Excessive High-speed Inertial Force", "Status parameters: air consumption 8.5m³/h, pressure 0.45MPa, spacing 60mm"],
+    ["Characteristic Phenomenon: Air Flow Diffusion Fault", "Status parameters: daily forming quantity 1600 pieces, wire feeding energy consumption P₁=1.323kW"]
+  ],
+  "Fault Causes": [
+    ["Diamond Metal Mesh Weaving Machine Steel Wire Forming Deviation", "Fault causes: heald frame jamming, drive motor overload"],
+    ["Dobby Machine Heald Frame Jamming", "Fault causes: no differential mechanism, air flow diffusion fault"],
+    ["Air-jet Loom Auxiliary Nozzle High Air Consumption", "Fault causes: flat plate surface wear, abnormal pressure in middle and rear sections of reed slot"],
+    ["Dobby Machine Abnormal Input/Output Power Ratio", "Fault causes: drive motor overload, steel wire forming deviation"]
+  ],
+  "System Defects": [
+    ["Dobby Machine Traditional Transmission", "System defects: poor bunching, easy air flow diffusion, lack of pressure compensation mechanism"],
+    ["Dobby Machine Metal Heald Frame", "System defects: no differential mechanism, lack of wire feeding energy consumption adjustment function"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate", "System defects: excessive inertial force at high speed, poor bunching"],
+    ["Air-jet Loom Auxiliary Nozzle Pressure 0.45MPa", "System defects: insufficient surface wear resistance, no differential mechanism"],
+    ["Dobby Machine Drive Motor", "System defects: easy air flow diffusion, excessive high-speed inertial force"],
+    ["Diamond Metal Mesh Weaving Machine Rotating Speed 550r/min", "System defects: excessive wire feeding energy consumption, lack of pressure compensation mechanism"],
+    ["Characteristic Phenomenon: Air Flow Diffusion Fault", "System defects: excessive high-speed inertial force, lack of wire feeding energy consumption adjustment function"]
+  ],
+  "Potential Faults": [
+    ["Diamond Metal Mesh Weaving Machine F＞427N", "Increased wear between steel wire and flat plate"],
+    ["Air-jet Loom Auxiliary Nozzle Spacing ＜60mm", "Potential fault: air flow superposition interference with weft insertion"],
+    ["Diamond Metal Mesh Weaving Machine", "Steel wire forming deviation, excessive friction energy consumption"],
+    ["Air-jet Loom Auxiliary Nozzle", "Air flow diffusion, high air consumption"],
+    ["Dobby Machine", "High opening energy consumption, heald frame jamming"],
+    ["Traditional Air-jet Loom Auxiliary Nozzle", "Potential fault: poor bunching of single-hole/porous nozzles"],
+    ["Dobby Machine Drive Motor", "Potential fault: high energy consumption"],
+    ["Dobby Machine Rotating Speed ＞700r/min", "Potential fault: drive motor overload"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate", "Potential fault: surface wear"],
+    ["Central 1 Large Hole + 7 Small Holes Energy-saving Auxiliary Nozzle", "Potential fault: resistance to air-jet loom air flow diffusion"],
+    ["Middle and Rear Sections of Air-jet Loom Reed Slot", "Potential fault: air flow diffusion"],
+    ["Dobby Machine Drive Motor", "Potential fault: surface wear"],
+    ["Dobby Machine Input/Output Power Ratio 1.2:1", "Potential fault: heald frame jamming"],
+    ["System Defect: No Differential Mechanism", "Potential fault: steel wire forming deviation"],
+    ["Fault Cause: Flat Plate Wear", "Potential fault: drive motor overload"]
+  ],
+  "Characteristic Phenomena": [
+    ["Air-jet Loom Weft Insertion System", "Characteristic phenomenon: surface overheating"],
+    ["Dobby Machine Drive Motor", "Characteristic phenomenon: power ratio imbalance"],
+    ["Increased Steel Wire Diameter of Diamond Metal Mesh Weaving Machine", "Characteristic phenomenon: air flow diffusion fault"],
+    ["Dobby Machine High Energy Consumption", "Characteristic phenomenon: sudden increase in air consumption"],
+    ["System Defect: Excessive High-speed Inertial Force", "Characteristic phenomenon: surface wear"],
+    ["Potential Fault: Drive Motor Overload", "Characteristic phenomenon: heald frame movement jitter"]
+  ],
+  "Lead to": [
+    ["Traditional Single-hole Auxiliary Nozzle of Air-jet Loom", "Lead to 10% reduction in wire feeding energy consumption P₁"],
+    ["Diamond Metal Mesh Weaving Machine P₂ Too High", "Lead to 15% increase in weaving efficiency"],
+    ["Dobby Machine High Energy Consumption", "Lead to 20% decrease in steel wire yield limit σₛ"],
+    ["Dobby Machine Drive Motor", "Lead to aggravation of air flow diffusion fault"],
+    ["Surface Wear of Diamond Metal Mesh Weaving Machine Flat Plate", "Lead to 5% reduction in wire feeding energy consumption P₁"],
+    ["Dobby Machine Heald Frame Jamming", "Lead to flat plate rotating speed stabilizing at 800r/min"],
+    ["System Defect: No Differential Mechanism", "Lead to 8% improvement in steel wire forming precision"],
+    ["Characteristic Phenomenon: Air Flow Diffusion", "Lead to optimization of dobby machine input/output power ratio to 1.0:1"]
+  ],
+  "Include": [
+    ["Diamond Metal Mesh Weaving Machine Forming System", "Include solenoid valve, heald frame, air storage tank"],
+    ["Diamond Metal Mesh Weaving Machine Tension Mechanism", "Include spindle, flat plate, stroboscope"],
+    ["Dobby Machine", "Include central 1 large hole + surrounding 7 small holes auxiliary nozzle, air storage tank"],
+    ["Air-jet Loom Auxiliary Nozzle", "Include Z₁/Z₂ constant tension mechanism, cellulose-reinforced plastic heald frame"],
+    ["Stroboscope", "Include Staubli2511 type dobby machine, KaiserK1000 type dobby machine"],
+    ["Dobby Machine", "Include spindle, flat plate, wire feeding mechanism"],
+    ["Diamond Metal Mesh Weaving Machine", "Include 6 cellulose-reinforced plastic heald frames, solenoid valve"],
+    ["Dobby Machine Drive Motor", "Include stroboscope, micrometer, power meter"]
+  ],
+  "Applicable to": [
+    ["Auxiliary nozzle, solenoid valve, air storage tank", "Applicable to energy consumption control of dobby machine opening system"],
+    ["Dobby Machine Drive Motor", "Applicable to steel wire forming scenario of diamond metal mesh weaving machine"]
+  ],
+  "Reduce": [
+    ["Diamond Metal Mesh Weaving Machine F=427N", "Reduce steel wire forming precision by 30%"],
+    ["Diamond Metal Mesh Weaving Machine F=427N", "Reduce pitch dimension stability by 15%"],
+    ["Diamond Metal Mesh Weaving Machine F=427N adapted to σₛ=400MPa", "Reduce opening speed adaptability by 40%"],
+    ["Diamond Metal Mesh Weaving Machine n=550r/min + F=427N", "Reduce steel wire yield limit σₛ by 25%"],
+    ["Dobby Machine 2 heald frames + opening 58mm", "Collaboratively reduce invalid energy consumption by 40%"],
+    ["Dobby Machine Drive Motor", "Reduce air consumption optimization effect by 18%"]
+  ],
+  "Improve": [
+    ["Diamond Metal Mesh Weaving Machine F=427N", "Improve total forming energy consumption by 25%"],
+    ["Dobby Machine Lightweight Heald Frame", "Improve heald frame jamming fault frequency by 12%"],
+    ["Dobby Machine Transmission Part衰退期", "Improve steel wire forming precision by 10%"],
+    ["Diamond Metal Mesh Weaving Machine Flat Plate衰退期", "Improve wire feeding stability by 8%"],
+    ["Dobby Machine Drive Motor", "Improve air flow diffusion fault occurrence rate by 15%"]
+  ],
+  "Adopt": [],
+  "Test": [
+    ["Power Meter", "Test diamond metal mesh weaving machine flat plate thickness"],
+    ["Micrometer", "Test dobby machine opening energy consumption"],
+    ["Power Meter", "Test air-jet loom auxiliary nozzle pressure"]
+  ],
+  "Process-affected Energy Consumption Components": [
+    ["Application Process of Energy-saving Auxiliary Nozzle for Air-jet Loom", "Process-affected energy consumption component: total air consumption"],
+    ["Weaving Process of Diamond Metal Mesh Weaving Machine", "Process-affected energy consumption component: plastic deformation energy consumption P₂ increased by 15.6%"],
+    ["Dobby Machine 6 heald frames + opening 78mm", "Opening energy consumption increased by 100%"],
+    ["Diamond Metal Mesh Weaving Machine F＞427N", "Process-affected energy consumption component: total forming energy consumption increased by 12.9%"],
+    ["6 Heald Frames Opening Process of Dobby Machine", "Process-affected energy consumption component: opening energy consumption"],
+    ["Traditional Transmission Process of Diamond Metal Mesh Weaving Machine", "Process-affected energy consumption component: transmission energy consumption loss"],
+    ["Total Air Consumption of Air-jet Loom", "Process-affected energy consumption component: auxiliary nozzle air consumption accounts for more than 75%"],
+    ["Dobby Machine Drive Motor", "Process-affected energy consumption component: plastic deformation energy consumption P₂"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of Dobby Machine", "Energy consumption composition ratio: opening energy consumption accounts for 30%~40%"],
+    ["Forming Energy Consumption of Diamond Metal Mesh Weaving Machine", "Energy consumption composition ratio: P₁ accounts for 29.2%, P₂ accounts for 10.8%, P₃ accounts for 15.2%, P₄ accounts for 20.4%"],
+    ["Dobby Machine Drive Motor", "Energy consumption composition ratio: P₁ accounts for 29.2%"]
+  ],
+  "Multi-component Synergistic Impact on Energy Consumption": [
+    ["Dobby Machine", "Opening energy consumption accounts for more than 50% of total energy consumption"],
+    ["Air-jet Loom", "Auxiliary nozzle air consumption accounts for more than 75% of total air consumption"],
+    ["Air-jet Loom Auxiliary Nozzle Pressure 0.5MPa", "Air consumption increased by 18.75%"],
+    ["Air-jet Loom", "3 independent air storage tanks"],
+    ["Resist High Energy Consumption of Dobby Machine", "Cellulose-reinforced plastic heald frame, differential gear"],
+    ["Dobby Machine Differential Gear", "Opening energy consumption peak reduced by 60%~70%"],
+    ["Dobby Machine", "Heald frame"],
+    ["High Air Consumption of Air-jet Loom Auxiliary Nozzle", "Pressure exceeding 0.5MPa, spacing ＜60mm"],
+    ["Spring Return Type Dobby Machine", "Energy consumption of driving heald lever + pattern mechanism is 600W"],
+    ["Dobby Machine High Energy Consumption", "Transmission shaft torque exceeding 60N·m"],
+    ["Air-jet Loom Auxiliary Nozzle", "Injection angle 15°~20°, 1 solenoid valve controlling 2 nozzles"],
+    ["Dobby Machine Opening System", "Heald frame, heald lever, differential gear"],
+    ["Dobby Machine", "Cellulose-reinforced plastic heald frame"],
+    ["Multi-component Synergy of Dobby Machine", "Multi-component synergy affects energy consumption, corresponding unit weft density energy consumption is 0.5kW·h/(10cm)"],
+    ["Dobby Machine", "Heald frame quantity 2 pieces/6 pieces, opening height 58mm/78mm"],
+    ["Dobby Machine 6 Heald Frames", "Opening energy consumption is 50% higher than that of 2 pieces"],
+    ["Dobby Machine High Energy Consumption", "6 heald frames + opening height 78mm"],
+    ["Air-jet Loom Auxiliary Nozzle Spacing 60mm", "Reduce air consumption ratio by 8%"],
+    ["Multi-component Synergy between Energy-saving Auxiliary Nozzle and Weft Insertion System of Air-jet Loom", "Multi-component synergy adapts to high-speed weft insertion conditions, optimizes air flow synergy control through energy-saving auxiliary nozzles, and reduces comprehensive energy consumption of weft insertion system"],
+    ["High Opening Energy Consumption of Dobby Machine", "Heald frame quantity ＞6 pieces, opening height ＞78mm"],
+    ["Dobby Machine Drive Motor + Heald Frame", "Opening energy consumption peak reduced by 60%~70%"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Toyota JAIS-150T-T Air-jet Loom", "Dust concentration 15mg/m³, vibration amplitude ＞0.3mm"],
+    ["SGC761A Circular Loom", "Weft break setting times 500~20000 picks, compression efficiency 88%"],
+    ["GC761 Circular Loom", "Grid voltage 220V±5%, relative humidity ≤50%"],
+    ["SGC761A Circular Loom", "Weft arrival time at right side yarn 240°~245°, noise 90~95 decibels"],
+    ["Right Weft Detector of Toyota JAIS-150T-T Air-jet Loom", "Normal working rotating speed 120r/min, transmission efficiency 85%"],
+    ["Air Compressor of Modern Air-jet Loom", "Grid voltage 380V±10%, frequency 60Hz±2Hz"],
+    ["Weft Insertion System of Air-jet Loom", "Weft break setting times 2000~15000 picks, temperature ≤10℃"],
+    ["Air Compressor Room Temperature Exceeding 40℃", "Grid voltage 220V±5%, frequency 50Hz±1Hz"],
+    ["System Defect: Sliding Friction of Warp Opening System", "Weft arrival time at right side yarn 230°~235°, humidity 60%~65%"],
+    ["Fault Type: Coupling Wear", "Normal working rotating speed 85r/min, energy consumption increased by 12%"]
+  ],
+  "Environmental Conditions": [
+    ["Environmental Temperature Change Conditions of Modern Air-jet Loom Air Compressor Room", "Low humidity environment with relative humidity ≤50%, vibration amplitude ＞0.3mm"],
+    ["Modern Air-jet Loom Workshop", "Low temperature (≤10℃) dry environment, dust concentration 15mg/m³"],
+    ["Frequency Conversion Air Conditioning Energy Saving of Modern Air-jet Loom", "Grid voltage 380V±10%, frequency 50Hz±1Hz"],
+    ["Air Compressor Room Temperature Exceeding 40℃", "Working area relative humidity ≥75%, operating area relative humidity 60%~65%"],
+    ["Air Compressor Room Temperature Exceeding 40℃", "Weft break setting times 500~20000 picks, weft arrival time 240°~245°"],
+    ["Toyota JAIS-150T-T Air-jet Loom", "Dusty environment with dust concentration 15mg/m³, temperature exceeding 40℃"],
+    ["SGC761A Circular Loom Spindle", "Local high humidity in working area, voltage fluctuation ±10%"],
+    ["Fault Cause: Excessively High Main and Auxiliary Nozzle Pressure", "Workshop environment without severe vibration, frequency 60Hz±2Hz"],
+    ["System Defect: Lag of Auxiliary Nozzle Air Supply Time", "Low humidity environment with relative humidity ≤50%, compression efficiency 88%"],
+    ["Weft Insertion Fault", "High temperature (≥40℃) and high humidity environment, vibration amplitude ≤0.1mm"]
+  ],
+  "Fault Frequency": [
+    ["SGC761A Circular Loom", "Warp opening fault frequency ≤0.3 times/month"],
+    ["Air Compressor of Modern Air-jet Loom", "Weft break fault frequency ≤0.4 times/1000 picks"],
+    ["Right Weft Detector of Toyota JAIS-150T-T Air-jet Loom", "Auxiliary nozzle air flow diffusion fault frequency ≤0.1 times/day"],
+    ["Weft Insertion System of Air-jet Loom", "Overall machine fault frequency ≤0.2 times/week"],
+    ["System Defect: Sliding Friction of Warp Opening System", "Coupling wear fault frequency ≤0.3 times/month"]
+  ],
+  "Fault Types": [
+    ["Toyota JAIS-150T-T Air-jet Loom", "Fault type: grid voltage abnormality"],
+    ["Weft Insertion System of Air-jet Loom", "Fault type: weft breakage"],
+    ["SGC761A Circular Loom Spindle", "Fault type: frequency conversion air conditioning fault"],
+    ["Air Compressor of Modern Air-jet Loom", "Fault type: warp opening fault"],
+    ["Air Compressor Room Temperature Exceeding 40℃", "Fault type: auxiliary nozzle air flow diffusion"],
+    ["Normal Working Rotating Speed of GC761 Circular Loom", "Fault type: coupling wear"],
+    ["System Defect: Lag of Auxiliary Nozzle Air Supply Time", "Fault type: weft insertion fault"],
+    ["Status Parameter: Transmission Efficiency 92%", "Fault type: weft break fault"]
+  ],
+  "Status Parameters": [
+    ["Normal State of SGC761A Circular Loom", "Rotating speed 80r/min, transmission efficiency 85%, noise 90~95 decibels"],
+    ["Air Compressor of Modern Air-jet Loom", "Rotating speed 85r/min, transmission efficiency 88%, humidity ≤50%"],
+    ["Weft Breakage of Toyota JAIS-150T-T Air-jet Loom", "Rotating speed 100r/min, noise 80~85 decibels, compression efficiency 92%"],
+    ["Fault Type: Coupling Wear", "Transmission efficiency 92%, grid voltage 220V±5%, frequency 60Hz±2Hz"],
+    ["Environmental Condition: High Humidity in Working Area", "Status parameters: rotating speed 120r/min, weft break setting times 500~20000 picks"]
+  ],
+  "Fault Causes": [
+    ["Weft Breakage of Toyota JAIS-150T-T Air-jet Loom", "Fault cause: air compressor room temperature exceeding 40℃"],
+    ["Air Compressor of Modern Air-jet Loom", "Fault cause: grid voltage fluctuation"],
+    ["Spindle Coupling Wear of SGC761A Circular Loom", "Fault cause: insufficient humidity in working area"],
+    ["Weft Insertion Fault of Air-jet Loom", "Fault cause: excessively high main and auxiliary nozzle pressure"],
+    ["System Defect: Sliding Friction of Warp Opening System", "Fault cause: lag of auxiliary nozzle air supply time"]
+  ],
+  "System Defects": [
+    ["GC761 Circular Loom", "System defect: sliding friction of warp opening system"],
+    ["Weft Shrinkage Fault of Air-jet Loom", "System defect: auxiliary nozzle air supply time lags behind weft arrival time"],
+    ["Air Compressor of Modern Air-jet Loom", "System defect: sliding friction of warp opening system"],
+    ["Right Weft Detector of Toyota JAIS-150T-T Air-jet Loom", "System defect: insufficient temperature control precision of frequency conversion air conditioning"],
+    ["Normal Working Rotating Speed of SGC761A Circular Loom", "System defect: poor wear resistance of coupling"],
+    ["Status Parameter: Noise 80~85 Decibels", "System defect: lag of auxiliary nozzle pressure adjustment"]
+  ],
+  "Potential Faults": [
+    ["Modern Air-jet Loom", "Potential fault: coupling loosening"],
+    ["Auxiliary Nozzle Air Flow Diffusion of Air-jet Loom", "Potential fault: weft storage device yarn stop pin fault"],
+    ["Low Transmission Efficiency", "Potential fault: increased risk of weft breakage"],
+    ["Auxiliary Nozzle Pressure of Modern Air-jet Loom Exceeding 0.5MPa", "Potential fault: air compressor oil separator blockage"],
+    ["Air Supply System Pipeline", "Potential fault: lifting roller eccentricity fault"],
+    ["Sliding Friction of Warp Opening of GC761 Circular Loom", "Potential fault: air flow diffusion"],
+    ["SGC761A Circular Loom Coupling", "Potential fault: 5% increase in warp breakage rate"],
+    ["When Rotating Speed ＞80r/min", "Potential fault: air compressor unloading energy waste"],
+    ["Connection End of Lifting Roller Shaft of SGC761A Circular Loom", "Potential fault: unstable weft flight"],
+    ["Weft Length Fixing of Toyota JAIS-150T-T Air-jet Loom", "Potential fault: coupling wear"],
+    ["Middle and Rear Sections of Special-shaped Reed Slot of Modern Air-jet Loom", "Potential fault: warp breakage"],
+    ["Weft Insertion Channel of Toyota JAIS-150T-T Air-jet Loom", "Potential fault: lifting roller eccentricity fault"],
+    ["Toyota JAIS-150T-T Air-jet Loom", "Potential fault: air compressor oil separator blockage"],
+    ["Air Compressor of Modern Air-jet Loom", "Potential fault: unstable weft flight"]
+  ],
+  "Characteristic Phenomena": [
+    ["Toyota JAIS-150T-T Air-jet Loom", "Characteristic phenomenon: 10% decrease in transmission efficiency"],
+    ["Main Nozzle Pressure Adjustment of Toyota JAIS-150T-T Air-jet Loom", "Characteristic phenomenon: increase in warp breakage rate"],
+    ["Air Compressor of Modern Air-jet Loom", "Characteristic phenomenon: 8° extension of weft arrival angle"]
+  ],
+  "Lead to": [
+    ["Rotating Speed Fluctuation of Toyota JAIS-150T-T Air-jet Loom", "Lead to coupling wear"],
+    ["Long Transmission Chain of GC761 Circular Loom", "Lead to 20% increase in weft insertion air consumption"],
+    ["Frequent Weft Shrinkage Faults of Air-jet Loom", "Lead to main transmission efficiency as low as 71%"],
+    ["Air Compressor of Modern Air-jet Loom", "Lead to 8% increase in weft breakage rate"]
+  ],
+  "Include": [
+    ["Weft Insertion System of Toyota JAIS-150T-T Air-jet Loom", "Include nylon guide block, oil separator, heald belt"],
+    ["Auxiliary Nozzle of Toyota JAIS-150T-T Air-jet Loom", "Include mechanical weft storage device, weft detector, lifting roller"],
+    ["SGC761A Circular Loom Coupling", "Include main nozzle, solenoid valve, special-shaped reed"],
+    ["Air Compressor of Modern Air-jet Loom", "Include 4 groups of single-hole auxiliary nozzles, weft storage device yarn stop pin, heald belt"],
+    ["GC761 Circular Loom", "Include single R-type special-shaped reed, oil separator, weft detector"],
+    ["Toyota JAIS-150T-T Air-jet Loom", "Include nylon guide block, coupling, lifting roller shaft"],
+    ["High-speed Air-jet Loom", "Include worm gear reducer, weft storage device yarn stop pin, oil separator"],
+    ["Air Compressor of Modern Air-jet Loom", "Include warp opening mechanism, heald belt, solenoid valve group control"]
+  ],
+  "Applicable to": [
+    ["PID Closed-loop Frequency Conversion Control", "Applicable to warp opening system of GC761 circular loom"],
+    ["Nylon Guide Block", "Applicable to auxiliary nozzle pressure control of Toyota JAIS-150T-T air-jet loom"]
+  ],
+  "Reduce": [
+    ["Auxiliary Nozzle Spacing of Modern Air-jet Loom", "Reduce shift output by 15%"],
+    ["Auxiliary Nozzle Spacing Optimization of Toyota JAIS-150T-T Air-jet Loom", "Reduce transmission efficiency by 8%"],
+    ["Modern Air-jet Loom Main Nozzle 0.4MPa + Auxiliary Nozzle 0.45MPa + Spacing 70mm", "Collaboratively reduce warp breakage rate by 5%"],
+    ["SGC761A Circular Loom Chain Transmission + Heald Belt + Coupling", "Reduce auxiliary nozzle pressure by 0.1MPa"],
+    ["Modern Air-jet Loom Frequency Conversion Air Compressor + Zoned Air Conditioning", "Reduce shift output by 22%"],
+    ["Air Compressor of Modern Air-jet Loom", "Reduce transmission efficiency by 10%"]
+  ],
+  "Improve": [
+    ["Spindle Rotating Speed of SGC761A Circular Loom", "Improve weft insertion air consumption by 18%"],
+    ["Modern Air-jet Loom Adopting Sumo Motor", "Improve warp breakage rate by 12%"],
+    ["Toyota JAIS-150T-T Air-jet Loom", "Improve fault frequency by 0.3 times/day"],
+    ["Air Compressor of Modern Air-jet Loom", "Improve risk of auxiliary nozzle air flow diffusion by 25%"]
+  ],
+  "Adopt": [
+    ["Sumo Switched Reluctance Motor", "Main drive of Picanol OMNI-plus air-jet loom"],
+    ["Toyota JAIS-150T-T Air-jet Loom", "Adopt single-hole type auxiliary nozzle"],
+    ["Traditional Air-jet Loom Auxiliary Nozzle", "Adopt single-hole type structural design"],
+    ["Modern Air-jet Loom Adopting RTC Control", "Adopt weft insertion air consumption 10%~40%"],
+    ["EV2000 Frequency Converter", "250kW screw air compressor of modern air-jet loom"],
+    ["Air Compressor of Modern Air-jet Loom", "Adopt frequency conversion sleep control with minimum frequency 20Hz"],
+    ["Pressure Sensor", "Auxiliary nozzle pressure of modern air-jet loom"],
+    ["Air Supply System of Modern Air-jet Loom", "Adopt screw air compressor, dryer, precision filter, air storage tank"],
+    ["Main Transmission System of SGC761A Circular Loom", "Y112M-4 motor, pulley, chain transmission, cam"],
+    ["Stroboscope", "Adopt weft arrival angle of Toyota JAIS-150T-T air-jet loom"],
+    ["Main Transmission of SGC761A Circular Loom", "Chain transmission"],
+    ["Weaving Efficiency of Modern Air-jet Loom", "Adopt RTC control"],
+    ["Weft Insertion System of Toyota JAIS-150T-T Air-jet Loom", "Adopt 1 mechanical weft storage device + 1 main nozzle + 24 single-hole auxiliary nozzles"],
+    ["Weft Insertion System of Modern Air-jet Loom", "Adopt RTC weft real-time control"],
+    ["Air Compressor of Modern Air-jet Loom", "Adopt single-hole type auxiliary nozzle"]
+  ],
+  "Test": [],
+  "Process-affected Energy Consumption Components": [
+    ["Rotating Speed of Toyota JAIS-150T-T Air-jet Loom", "Process-affected energy consumption: unit weft air consumption"],
+    ["Air Compressor Room Temperature of Modern Air-jet Loom", "3% decrease in compression efficiency"],
+    ["Installation Optimization Process of Right Weft Detector of Toyota JAIS-150T-T Air-jet Loom", "Process-affected energy consumption component: weft utilization rate 3.15%"],
+    ["Auxiliary Nozzle of Toyota JAIS-150T-T Air-jet Loom", "Air consumption"],
+    ["Frequency Conversion Transformation of Modern Air-jet Loom Air Compressor", "Annual power consumption 15%~20%"],
+    ["Process of Auxiliary Nozzle Spacing ＜60mm of Toyota JAIS-150T-T Air-jet Loom", "Process-affected energy consumption component: air consumption"],
+    ["Process of Increased Pressure Drop of Air Compressor", "Process-affected energy consumption component: hourly power consumption"],
+    ["Auxiliary Nozzle Pressure of Modern Air-jet Loom", "Auxiliary nozzle air consumption"],
+    ["Main and Auxiliary Nozzle Pressure Adaptation Process of Modern Air-jet Loom", "Process-affected energy consumption component: invalid air consumption"],
+    ["Zoned Air Conditioning Process of Modern Air-jet Loom", "Process-affected energy consumption component: air conditioning system efficiency 20%"],
+    ["Spindle Rotating Speed Process of SGC761A Circular Loom", "Process-affected energy consumption component: main transmission energy consumption"],
+    ["Toyota JAIS-150T-T Air-jet Loom RTC Control + Single R Special-shaped Reed", "25% reduction in weft insertion air consumption"],
+    ["Air Compressor of Modern Air-jet Loom", "Process-affected energy consumption: unit weft air consumption"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of Modern Air-jet Loom", "Air compressor air consumption accounts for 60%, loom power consumption accounts for 30%, auxiliary equipment energy consumption accounts for 10%"],
+    ["Total Energy Consumption of SGC761A Circular Loom", "Energy consumption composition ratio: main transmission energy consumption accounts for 16%, warp opening energy consumption accounts for 24%, winding energy consumption accounts for 10%"],
+    ["Air Compressor of Modern Air-jet Loom", "Energy consumption composition ratio: main transmission energy consumption accounts for 16%"]
+  ],
+  "Multi-component Synergistic Impact on Energy Consumption": [
+    ["SGC761A Circular Loom Coupling Clearance Exceeding 0.3mm", "Spindle vibration amplitude exceeding 0.2mm"],
+    ["Auxiliary Nozzle Pressure of Modern Air-jet Loom Exceeding 0.5MPa", "Air consumption increased by 20%"],
+    ["Multi-component Synergy of SGC761A Circular Loom Main Transmission", "Multi-component synergy affects energy consumption corresponding to production efficiency of 22.2%"],
+    ["Simplified Transmission of SGC761A Circular Loom", "Multi-component synergy affects energy consumption: unit fabric energy consumption"],
+    ["Weft Insertion Air Consumption of Air-jet Loom", "Auxiliary nozzle air consumption accounts for 75%, main nozzle air consumption accounts for 25%"],
+    ["Auxiliary Nozzle of Modern Air-jet Loom", "Installation spacing 60~80mm"],
+    ["Synergistic Operation of Multiple Auxiliary Nozzle Components of Air-jet Loom", "Synergistic operation of multiple auxiliary nozzle components affects energy consumption"],
+    ["Modern Air-jet Loom Air Compressor + Auxiliary Nozzle", "Synergistic operation of multiple components affects energy consumption"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["ZAX9100 air-jet loom", "Process parameters: ambient humidity ≤ 50%, vibration amplitude ＞ 0.3mm"],
+    ["Heald frame KM", "Process parameters: assembly clearance 0.8~1.0mm, number of locking screws 4"],
+    ["Heald frame KM", "Process parameters: component manufacturing error ± 0.5mm, fabric bar疵 rate 5%"],
+    ["ZAX9100 let-off system", "Process parameters: swing back beam adjustment range 20~30mm, acceleration peak 200mm/s²"],
+    ["GA731 rapier loom tie rod assembly", "Process parameters: shaft and screw fit clearance 1.0~1.2mm, reverse speed peak -100mm/s"]
+  ],
+  "Environmental Conditions": [
+    ["ZAX9100 electronic let-off system", "High temperature and high humidity (humidity 85%, temperature 40℃) + dusty environment"],
+    ["GA731 rapier loom tie rod assembly", "Environmental conditions: warp tension stable value ± 5% set value, speed peak 80mm/s"],
+    ["ZAX9100 air-jet loom", "Environmental conditions: component manufacturing error ± 0.3mm, assembly error 0.2mm"]
+  ],
+  "Fault Frequency": [
+    ["GA731 rapier loom", "When weaving 7.5m extra-wide fabrics, the frequency of tension fluctuation faults ≥ 8 times/shift"],
+    ["GA731 rapier loom", "After improvement, the frequency of heald frame impact faults when weaving extra-wide fabrics is 5 times/shift"],
+    ["ZAX9100 let-off system", "Tie rod disengagement fault frequency ≥ 6 times/day"],
+    ["GA731 tie rod improvement", "Tension abnormal fault frequency reduced by 50%"],
+    ["ZAX9100 air-jet loom", "Heald frame impact fault frequency ≥ 4 times/shift"]
+  ],
+  "Fault Type": [
+    ["GA731 rapier loom", "Fault types: warp tension abnormality, fabric bar疵"],
+    ["ZAX9100 air-jet loom", "Fault type: disengagement of tie rod assembly 1 and 2"],
+    ["Tie rod disengagement fault", "Fault type: superposition of assembly error and manufacturing error"],
+    ["Tension abnormal fault", "Fault types: heald frame impact, insufficient dynamic transmission of mating surface"],
+    ["Heald frame and heddle components of planar six-bar shedding mechanism", "Fault type: improper fit clearance between shaft and screw"],
+    ["Mating surface of GA731 tie rod assembly 1 and 2", "Fault type: unqualified assembly environment"],
+    ["ZAX9100 let-off system", "Fault types: fabric bar疵, warp breakage"]
+  ],
+  "State Parameters": [],
+  "Fault Cause": [
+    ["ZAX9100 tension abnormality", "Insufficient ambient humidity (≤ 40%), excessive vibration amplitude"],
+    ["ZAX9100 tension abnormality", "Planar contact of mating surface, excessive number of locking screws"],
+    ["Main cause of ZAX9100 tension abnormality", "Fluctuation of warp tension stable value, excessive peak speed of heald frame"],
+    ["ZAX9100 air-jet loom", "Fault causes: increased fabric bar疵 rate, excessive frequency of tie rod disengagement"],
+    ["GA731 tie rod disengagement", "Fault causes: high dust concentration in assembly environment, temperature exceeding 35℃"],
+    ["ZAX9100 tension abnormality", "Fault cause: too small clearance between moving frame and tension measuring connecting seat (0.1mm)"],
+    ["ZAX9100 tension abnormality", "Fault causes: large impact of heald frame movement, excessive acceleration peak"],
+    ["GA731 tie rod disengagement", "Fault causes: too small fit clearance between shaft and screw, improper adjustment of swing back beam"]
+  ],
+  "System Defects": [
+    ["ZAX9100 air-jet loom", "System defects: excessive acceleration peak of heald frame, abnormal reverse speed peak"],
+    ["GA731 original tie rod connection", "System defects: fluctuation of warp tension stable value ± 3%, assembly error 0.3mm"],
+    ["ZAX9100 original let-off system", "System defects: insufficient dynamic transmission of mating surface, loose locking screws"],
+    ["Improper matching of rod parameters of shedding mechanism", "System defect: excessive fit clearance between shaft and GB/T80-2007 screw"],
+    ["ZAX9100 let-off system", "System defects: poor adaptability to ambient humidity, easy failure at high temperature"]
+ ],
+  "Potential Faults": [
+    ["Tension abnormality", "Potential faults: tie rod disengagement, heald frame impact"],
+    ["GA731 original tie rod design", "Potential faults: stable warp tension, no shaft窜动"],
+    ["ZAX9100 air-jet loom", "Potential faults: reduced wear of heald frame components, reduced shedding energy consumption"],
+    ["Improper adaptation of ZAX9100 original screw specifications", "Potential faults: improved tension stability, no fabric bars"],
+    ["GA731 original tie rod assembly", "Potential faults: reduced impact of heald frame movement, improved weaving efficiency"],
+    ["ZAX9100 moving frame with chamfer", "Potential faults: severe shaft窜动, locking of tie rod mating surface"],
+    ["Planar six-bar shedding mechanism", "Potential faults: reduced let-off energy consumption, reduced warp breakage rate"],
+    ["Large impact of heald frame movement", "Potential faults: continuous operation of loom without shutdown, no fabric defects"],
+    ["Optimization of planar six-bar mechanism", "Potential faults: improved dynamic transmission capacity, elimination of tension abnormality"],
+    ["Connection end of upper and lower limit positions of heald frame of planar six-bar mechanism", "Potential faults: no shaft窜动, stable let-off system"],
+    ["Improved tie rod assembly", "Potential fault: 50% increase in disengagement frequency of GA731 tie rod"],
+    ["ZAX9100 let-off system", "Potential faults: small acceleration at limit positions of heald frame, stable shedding"]
+  ],
+  "Characteristic Phenomena": [
+    ["GA731 tie rod disengagement", "Characteristic phenomena: no fabric defects, regular warp opening, continuous operation of loom"],
+    ["Large impact of heald frame movement", "Characteristic phenomena: stable warp tension, flat fabric surface, reduced energy consumption"],
+    ["Planar six-bar shedding mechanism", "Characteristic phenomena: no impact of heald frame movement, reduced weaving efficiency"],
+    ["Planar six-bar shedding mechanism", "Characteristic phenomena: severe impact of heald frame, frequent warp breakage, fabric bars"],
+    ["ZAX9100 let-off system", "Characteristic phenomena: stable warp tension, no fabric defects, reduced let-off energy consumption"]
+  ],
+  "Lead to": [
+    ["GA731 tie rod disengagement", "Lead to reduced let-off energy consumption, improved tension stability, increased weaving efficiency"],
+    ["ZAX9100 tension abnormality", "Lead to stable warp tension, no fabric bars, no faults in let-off system"],
+    ["GA731 tie rod disengagement", "Lead to improved dynamic transmission capacity, enhanced adaptability to extra-wide weaving"],
+    ["ZAX9100 tension abnormality", "Lead to stable heald frame movement, reduced shedding energy consumption, improved fabric quality"],
+    ["ZAX9100 tension abnormality", "Lead to no shaft窜动, reasonable screw fit clearance, reduced component wear"],
+    ["ZAX9100 let-off system", "Lead to elimination of tie rod disengagement faults, reduced warp breakage rate"]
+  ],
+  "Include": [
+    ["ZAX9100 electronic let-off system", "Include tie rod assembly 1, tie rod assembly 2, locking screws, heald frame KM"],
+    ["ZAX9100 air-jet loom", "Include mating surface, locking screws, planar six-bar shedding mechanism"],
+    ["Picanol air-jet loom", "Include tension measuring sensor, servo motor, tie rod assembly"],
+    ["Planar six-bar shedding mechanism", "Include let-off control unit, AC servo driver, tension measuring sensor"],
+    ["Heald frame", "Include let-off system, electronic control unit, servo driver"],
+    ["GA731 rapier loom shedding mechanism", "Include crank AB, connecting rod BD, swing arm FG, servo motor"],
+    ["44-inch air-jet loom", "Include JAT type electronic let-off mechanism, PAT type electronic let-off mechanism"],
+    ["Planar six-bar shedding mechanism", "Include locking screws, mating surface, tie rod assembly"],
+    ["ZAX9100 let-off system", "Include heald frame KM, swing arm FG, connecting rod BD"],
+    ["Toyota air-jet loom", "Include planar six-bar shedding mechanism, tie rod assembly 1, tie rod assembly 2"],
+    ["GA731 original tie rod assembly", "Include tension measuring sensor, servo driver, let-off control unit"],
+    ["ZAX9100 let-off system", "Include crank AB, connecting rod BD, AC servo motor"]
+  ],
+  "Be Suitable for": [
+    ["Improved GA731 tie rod assembly", "Be suitable for narrow 3m fabric weaving, low tension scenarios"],
+    ["GA731 rapier loom", "Be suitable for narrow 2m fabric weaving, low dynamic transmission demand"],
+    ["ZAX9100 let-off system", "Be suitable for narrow 4m fabric weaving, low stability requirement scenarios"]
+  ],
+  "Reduce": [
+    ["ZAX9100 servo motor + tension measuring sensor", "Synergistically reduce the dynamic transmission capacity of ZAX9100 loom by 30%"],
+    ["Crank + connecting rod + heald frame of planar six-bar mechanism", "Shedding energy consumption synergistically increase by 20%, reduce motion stability"],
+    ["Optimization of planar six-bar mechanism", "Reduce heald frame motion stability to 60%, increase unit shedding energy consumption to 0.6kW·h/(10cm)"],
+    ["ZAX9100 let-off optimization", "Reduce tension stability to 40%, increase unit fabric let-off energy consumption to 0.2kW·h/m"],
+    ["ZAX9100 let-off optimization", "Reduce ZAX9100 loom let-off efficiency by 50%, increase tension abnormal frequency"],
+    ["ZAX9100 let-off optimization", "Reduce fabric flatness, increase bar疵 rate to 10%"],
+    ["GA731 tie rod tooth surface adaptation", "Reduce extra-wide weaving efficiency, increase invalid power loss by 30%"],
+    ["ZAX9100 screw adaptation", "Reduce shaft stability, increase fault frequency caused by窜动"],
+    ["ZAX9100 let-off optimization", "Reduce warp tension control precision, increase breakage rate"]
+  ],
+  "Increase": [
+    ["GA731 tie rod improvement", "Dynamic transmission capacity reduce by 30%, increase tie rod disengagement fault frequency"],
+    ["ZAX9100 let-off optimization", "Increase shaft窜动 frequency by 80%, reduce tension stability"],
+    ["Optimization of planar six-bar mechanism", "Heald frame motion impact increase by 35%, increase fabric defect rate"],
+    ["Change of ZAX9100 screw specifications", "Shaft窜动 intensify → tension stability rate decrease by 60%"],
+    ["GA731 tie rod tooth surface contact", "Dynamic transmission capacity reduce by 40%, increase invalid energy consumption"],
+    ["GA731 tie rod improvement", "Extra-wide weaving efficiency decrease from 95% to 50%, increase fault shutdown times"],
+    ["ZAX9100 let-off optimization", "Increase fabric bar疵 rate to 8%, reduce dynamic transmission capacity"]
+ ],
+ "Adopt": [
+   ["Analysis of shedding mechanism", "Adopt rod group method, SolidWorks simulation technology"],
+   ["ZAX9100 air-jet loom", "AC servo motor + AC servo driver"],
+   ["ZAX9100 air-jet loom", "Adopt servo-type electronic let-off system"],
+   ["Improved GA731 tie rod assembly", "Adopt 7.5m extra-wide, high tension fabric weaving"],
+   ["44-inch air-jet loom","Adopt planar six-bar shedding mechanism"],
+   ["ZAX9100 let-off system", "Adopt rod group method, SolidWorks simulation technology"]
+ ],
+ "Test": [
+   ["Tension sensor", "Test warp tension of ZAX9100 let-off system"],
+   ["Tension sensor", "Test GA731 tie rod assembly"]
+ ],
+ "Process Impact on Energy Consumption Components": [
+   ["Operation process of planar six-bar shedding mechanism", "Energy consumption component affected by process is heald frame motion energy consumption"],
+   ["ZAX9100 air-jet loom", "Electronic let-off system energy consumption accounts for 30% of shedding mechanism energy consumption"],
+   ["ZAX9100 tension stability", "Energy consumption per unit output decrease from 0.15kW·h/m to 0.12kW·h/m"],
+   ["GA731 tie rod assembly", "Energy consumption component affected by process is heald frame motion energy consumption"]
+ ],
+ "Energy Consumption Composition Ratio": [],
+ "Multi-component Synergistic Impact on Energy Consumption": [
+   ["ZAX9100 original let-off system", "Fitting of moving frame and tension measuring connecting seat surface"],
+   ["Large heald frame impact", "Friction energy consumption of shedding mechanism increase by 10%"],
+   ["Multi-component synergy of ZAX9100 let-off system", "Multi-component synergy affect energy consumption by controlling the synchronization of motion on both sides of the swing back beam"],
+   ["ZAX9100 let-off system + GA731 tie rod assembly", "Multi-component synergy affect energy consumption"]
+ ]
+},
+
+  {
+
+  "Process Parameters": [
+    ["Process parameters of conjugate cam beating-up mechanism for single-layer variable-height spacer fabric loom", "Process parameters: dust concentration ≤ 8mg/m³, relative humidity 70%~80%"],
+    ["Large gauge spacer fabric loom", "Process parameters: yarn dragging rod vibration deformation ≥ 10mm, fabric falling frequency 2 times/shift"],
+    ["Conjugate cam beating-up mechanism for single-layer variable-height spacer fabric loom", "Process parameters: working temperature -20~50℃, clamping mechanism clearance 0.8mm"],
+    ["Let-off system of large gauge spacer fabric loom", "Process parameters: spindle vibration frequency 30~50Hz, cam wear 0.5mm"],
+    ["Conjugate cam beating-up mechanism for single-layer variable-height spacer fabric loom", "Process parameters: pile warp tension fluctuation ≥ 15%, fabric clamping falling rate 8%"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Process parameters: first 10 natural frequencies 20~80Hz, cam rise angle 90°"]
+  ],
+  "Environmental Conditions": [
+    ["Let-off system of large gauge spacer fabric loom", "Working environment of yarn dragging rod: spindle speed 500r/min, weaving speed 5 picks/r"],
+    ["Conjugate cam beating-up mechanism for single-layer variable-height spacer fabric loom", "Cam working environment: yarn dragging rod length 1500mm, center distance 150mm"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Environmental conditions: first 10 natural frequencies 100~200Hz, main cam rise angle 60°"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Working environment of yarn dragging rod: cam material hardness HRC30, follower swing angle error 5°"]
+  ],
+  "Fault Frequency": [
+    ["Let-off system of large gauge spacer fabric loom", "Fabric clamping falling fault frequency ≥ 5 times/shift, cam wear fault frequency ≥ 3 times/day"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Vibration fault frequency of yarn dragging rod in T₁ stage ≥ 6 times/day, cam wear frequency ≥ 2 times/week"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Pile warp quality defect frequency ≥ 4 times/shift, follower swing angle error fault frequency ≥ 1 time/day"]
+  ],
+  "Fault Type": [
+    ["Pile warp quality of large gauge spacer fabric loom", "Fault types: fabric clamping falling, cam wear"],
+    ["Winding efficiency of large-width three-dimensional flat fabric loom", "Fault types: yarn dragging rod vibration fault, insufficient wear resistance of cam material"],
+    ["Winding efficiency of large-width three-dimensional flat fabric loom", "Fault types: follower swing angle error, excessive pile warp tension fluctuation"]
+  ],
+  "State Parameters": [
+    ["Normal let-off system of large gauge spacer fabric loom", "State parameters: relative humidity 40%~60%, working temperature -10~40℃, dust concentration ≤ 5mg/m³"],
+    ["Original state parameters of yarn dragging rod of large gauge let-off system", "State parameters: center distance 128mm, main cam rise angle 70°, weaving speed 2 picks/r"],
+    ["45# steel reed of single-layer variable-height beating-up mechanism", "State parameters: yarn dragging rod length 1320mm, spindle speed 400r/min, fabric falling rate ≤ 1%"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "State parameters: first 10 natural frequencies 42.43~179.05Hz, cam wear ≤ 0.2mm"]
+  ],
+  "Fault Cause": [
+    ["Cam wear of single-layer variable-height spacer fabric loom", "Fault causes: excessive vibration deformation of yarn dragging rod, insufficient fabric clamping force"],
+    ["Conjugate cam beating-up mechanism of single-layer variable-height spacer fabric loom", "Fault causes: solid structure of yarn dragging rod, excessive dust concentration"],
+    ["Conjugate cam beating-up mechanism of single-layer variable-height spacer fabric loom", "Fault causes: excessive spindle speed, weaving speed 3 picks/r"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Fault causes: follower swing angle error, pile warp tension fluctuation ≤ 5%"]
+  ],
+  "System Defects": [
+    ["Original let-off system of large gauge spacer fabric loom", "System defects: improper cam center distance, mismatched rise angles of main/return cams"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "System defects: insufficient wear resistance of follower material, cam rise angle 70°"]
+  ],
+  "Potential Faults": [
+    ["Yarn dragging rod of large gauge spacer fabric loom", "Potential fault: easy vibration of head overhanging section"],
+    ["Let-off system of large gauge spacer fabric loom", "Potential fault: pile warp tension fluctuation"],
+    ["Yarn dragging rod of large gauge spacer fabric loom", "Resonance when rotating speed exceeds 300r/min"],
+    ["Conjugate cam of single-layer variable-height spacer fabric loom", "Center distance deviation exceeds 0.2mm"],
+    ["Clamping block of large-width three-dimensional flat fabric loom", "Planar contact easy to wear"],
+    ["ADAMS software", "Potential fault: contact collision of single-layer variable-height beating-up mechanism"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Fabric clamping falling"],
+    ["Fabric clamping falling of large-width three-dimensional flat fabric loom", "When fabric thickness exceeds 40mm"],
+    ["Planar contact clamping block of large-width three-dimensional flat fabric loom", "Potential fault: fabric clamping falling"],
+    ["Normal beating-up mechanism of single-layer variable-height spacer fabric loom", "Potential faults: reed deformation ≤ 1mm, pressure angle ≤ 26.1°"],
+    ["Head of yarn dragging rod of large gauge let-off system","Potential fault: yarn dragging rod vibration"],
+    ["Compression bolt of large-width three-dimensional flat fabric loom", "Potential fault: overload of 8.8 grade M12 bolt"],
+    ["Normal winding mechanism of large-width three-dimensional flat fabric loom", "Potential faults: clamping force ≥ 1.0×10⁵N, no fabric falling"],
+    ["Beating-up precision of single-layer variable-height spacer fabric loom","Potential fault: cam wear"],
+    ["Yarn dragging rod of large gauge spacer fabric loom", "Potential fault: easy vibration of head overhanging section"],
+    ["Vibration of yarn dragging rod of large gauge spacer fabric loom", "Potential fault: insufficient major axis radius of elliptical yarn dragging rod"],
+    ["Conjugate cam beating-up mechanism of single-layer variable-height spacer fabric loom", "Potential fault: reed deformation"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Potential fault: easy vibration of head overhanging section"]
+  ],
+  "Characteristic Phenomena": [
+    ["Insufficient clamping of large-width winding mechanism", "Characteristic phenomenon: yarn friction coefficient 0.486"],
+    ["Pile warp tension fluctuation of large gauge spacer fabric loom", "Characteristic phenomenon: edge sagging during fabric winding"],
+    ["Large beating-up resistance of single-layer variable-height spacer fabric loom", "Characteristic phenomenon: mismatch between yarn dragging speed and let-off speed"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Characteristic phenomenon: reed deformation 0.1008mm"]
+  ],
+  "Lead to": [
+    ["Fabric clamping falling of large-width winding mechanism", "Lead to increased maximum deformation of yarn dragging rod in T₁ stage"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Lead to 15% increase in unit winding energy consumption"]
+  ],
+  "Include": [
+    ["Reed of single-layer variable-height spacer fabric loom", "Include servo motor, fuzzy PID control system"],
+    ["Let-off system of large gauge spacer fabric loom", "Include conjugate cam, polyurethane block"],
+    ["Beating-up mechanism of single-layer variable-height spacer fabric loom", "Include yarn dragging rod, compression bolt"],
+    ["Let-off system of large gauge spacer fabric loom", "Include Cr5Mo1V steel reed, support beam"],
+    ["Sword wheel and belt feeding mechanism", "Include conjugate cam, steel reed"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Include fuzzy PID pile warp tension control system, steel reed"],
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Include conjugate cam, support beam"]
+  ],
+  "Be Suitable for": [],
+  "Reduce": [
+    ["Synergy of feeding + dragging + yarn dragging rod of large gauge let-off system", "Synergistically reduce clamping friction by 20%"],
+    ["Optimization of support beam of large-width winding mechanism", "Reduce yarn dragging rod stiffness by 15%"],
+    ["Adaptation of let-off and yarn dragging speed of large gauge let-off system", "Reduce daily output by 25%"],
+    ["Synergy of clamping and cycle winding of large-width winding mechanism", "Reduce pressure angle control precision by 10%"],
+    ["Synergy of main and auxiliary clamping of large-width winding mechanism", "Reduce clamping friction by 30%"],
+    ["Optimization of yarn dragging rod of large gauge let-off system", "Reduce let-off speed adaptability by 8%"],
+    ["Optimization of yarn dragging rod of large gauge let-off system", "Reduce anti-vibration ability of yarn dragging rod"],
+    ["Optimization of support beam of large-width winding mechanism", "Reduce clamping stability to 60%"],
+    ["Synergy of cam and reed of single-layer variable-height beating-up mechanism", "Synergistically reduce beating-up efficiency by 18%"],
+    ["Material replacement of reed of single-layer variable-height beating-up mechanism", "Reduce reed hardness by HRC10"],
+    ["Large gauge let-off system", "Reduce adaptability between yarn dragging speed and let-off speed"],
+    ["Material replacement of reed of single-layer variable-height beating-up mechanism", "Reduce pressure angle control precision"]
+  ],
+  "Increase": [
+    ["Sawtooth clamping block of large-width winding mechanism", "Increase unit winding energy consumption by 12%"],
+    ["Structural optimization of yarn dragging rod of large gauge let-off system", "Increase maximum deformation in T₁ stage by 20%"],
+    ["Design of conjugate cam of single-layer variable-height beating-up mechanism", "Increase invalid beating-up energy consumption by 30%"],
+    ["Shore hardness 65C polyurethane block of large-width winding mechanism", "Increase fabric falling fault frequency by 15%"],
+    ["Spindle speed 400r/min of single-layer variable-height beating-up mechanism", "Increase beating-up resistance to 0.55"],
+    ["Cycle winding of large-width winding mechanism", "Increase deformation of winding mechanism by 0.02mm"]
+  ],
+  "Adopt": [
+    ["Original beating-up mechanism of single-layer variable-height spacer fabric loom", "Adopt cycle winding mechanism"],
+    ["Let-off system of large gauge spacer fabric loom", "Adopt Cr5Mo1V steel reed, support beam"],
+    ["Finite element analysis of yarn dragging rod of large gauge let-off system", "Adopt 45# steel material"],
+    ["For solving the problem of anti-vibration deformation of yarn dragging rod", "Adopt fuzzy PID tension control system"],
+    ["High winding efficiency of large-width three-dimensional flat fabric loom", "Adopt ANSYS Workbench to optimize reed"],
+    ["Original winding mechanism of large-width three-dimensional flat fabric loom", "Adopt sword wheel and belt transmission"]
+  ],
+  "Test": [
+    ["Fuzzy PID tension control system", "Test unit energy consumption of large-width winding mechanism"]
+  ],
+  "Process Impact on Energy Consumption Components": [
+    ["Process of yarn dragging rod operation over 1000h of large gauge let-off system", "Energy consumption component affected by process is yarn dragging rod operation energy consumption"],
+    ["Spindle 400r/min of single-layer variable-height beating-up mechanism", "Conjugate cam transmission energy consumption accounts for 30% of total beating-up energy consumption"],
+    ["Synergy of cam + reed + swing arm of single-layer variable-height beating-up mechanism", "Total beating-up energy consumption reduce by 20%"],
+    ["Process of daily output 1000m of large-width winding mechanism", "Energy consumption component affected by process is unit fabric winding energy consumption"],
+    ["Process of 90% weaving efficiency of large gauge let-off system", "Energy consumption component affected by process is unit weft let-off energy consumption"],
+    ["Cam process of single-layer variable-height beating-up mechanism", "Energy consumption component affected by process is 15% increase in process energy consumption"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Winding mechanism of large-width three-dimensional flat fabric loom", "Energy consumption composition ratio: cycle winding energy consumption accounts for 60% of total winding energy consumption, clamping energy consumption accounts for 30%"],
+    ["Yarn dragging rod speed 0.5m/s of large gauge let-off system", "Dragging mechanism energy consumption accounts for 25% of total let-off energy consumption"],
+    ["Let-off system of large gauge spacer fabric loom", "Dragging mechanism energy consumption accounts for 45% of total let-off energy consumption, feeding mechanism accounts for 30%"],
+    ["Beating-up mechanism of single-layer variable-height spacer fabric loom", "Energy consumption composition ratio: conjugate cam transmission energy consumption accounts for 50% of total beating-up energy consumption, reed motion accounts for 25%"]
+  ],
+  "Multi-component Synergistic Impact on Energy Consumption": [
+    ["Fuzzy PID control of large gauge let-off system", "Pile warp tension stabilization time reduce from 8s to 5.5s"],
+    ["Synergy of yarn dragging rod and width adaptation components of large gauge let-off system", "Multi-component synergy affect let-off system energy consumption"],
+    ["Clamping force 1.06×10⁵N of large-width winding mechanism", "Compression bolt energy consumption accounts for 15% of total winding energy consumption"],
+    ["Synergistic control of let-off motor + tension sensor + fuzzy PID control module + pile warp transmission mechanism of large gauge spacer fabric loom", "Multi-component synergistic control affect energy consumption, reduce unit weaving energy consumption by 6%"],
+    ["Synergy of conjugate cam beating-up mechanism and related transmission components of single-layer variable-height spacer fabric loom", "Multi-component synergy ensure beating-up force through conjugate cam beating-up mechanism, optimize transmission synergy efficiency, reduce comprehensive energy consumption of beating-up system"],
+    ["Synergistic working condition of heald frame + shedding mechanism rods", "Improper matching of multi-component synergistic parameters affect energy consumption"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Main Nozzle Operating Angle of Domestic Air-Jet Looms", "Before optimization: 120~220°, 130~230°; After optimization: 80~150°, 90~160° (including a pipeline diameter of 50mm and 8 elbows)"],
+    ["Main Nozzle Operating Angle of Imported Air-Jet Looms", "Before optimization: 50~180°, 60~190°, etc.; After optimization: 70~160°, 80~170° (including 45# steel for reed material and a Shore hardness of 55C)"],
+    ["Auxiliary Nozzle Operating Angle of Imported Air-Jet Looms", "Before optimization: 100~220°, 110~230°, etc.; After optimization: 130~240°, 140~250° (including a heald frame weight of 8kg and an impact acceleration of 150mm/s²)"],
+    ["Rotational Speed of Air-Jet Looms", "Domestic: 650r/min, Imported: 600r/min (including a supply pipeline pressure loss of 0.3MPa)"],
+    ["Weft Insertion Process Parameters of Domestic Air-Jet Looms", "Process parameters: 10% decrease in weaving efficiency, rotational speed of 571r/min, reed deformation of 0.8mm"],
+    ["Optimized Imported Air-Jet Looms", "5% decrease in weaving efficiency, rotational speed of 720r/min, heald frame jamming frequency of 0.2 times/shift"],
+    ["Misunderstandings in Adjusting Weft Insertion Parameters by Weaving Manufacturers", "Only focusing on air consumption while ignoring the selection of reed material"],
+    ["Unoptimized Weft Insertion Parameters", "Low overall machine air consumption, abnormal weft yarn flight but up-to-standard energy consumption"],
+    ["Methods for Optimizing Weft Insertion Parameters", "When replacing reeds for various air-jet looms"],
+    ["Optimized Weft Insertion Parameters of Air-Jet Looms", "Increased air consumption, 8% decrease in weaving efficiency"],
+    ["High Energy Consumption of Anti-Weft Insertion Systems", "Optimize the number of elbows in the supply pipeline"],
+    ["Weft Insertion Process Parameters of Air-Jet Looms", "Process parameter: weft insertion parameter optimization, corresponding to low overall machine air consumption (including a solenoid valve response time of 0.5s)"],
+    ["Weft Insertion Process Parameters of Domestic Air-Jet Looms", "Process parameters: heald frame impact acceleration of 120mm/s², heald breakage frequency of 0.3 times/day"],
+    ["Optimized Weft Insertion Parameters of Imported Air-Jet Looms", "Overall machine air consumption of 1.05m³/min (including unreasonable pipeline design and a pressure loss of 0.4MPa)"],
+    ["High Energy Consumption Caused by Unoptimized Weft Insertion Parameters", "When the supply pipeline material is ordinary carbon steel"],
+    ["Unoptimized Weft Insertion Parameters", "Long-term low-energy operation leads to accelerated reed wear"],
+    ["Optimization of Weft Insertion Parameters", "10% decrease in weaving efficiency (including an air pressure fluctuation of ±0.2MPa)"]
+  ],
+  "Environmental Conditions": [],
+  "Fault Frequency": [
+    ["Heald Breakage Fault Caused by High Heald Frame Impact", "Fault frequency is manifested as an air supply pressure fluctuation frequency ≥0.5 times/hour"]
+  ],
+  "Fault Types": [
+    ["Weft Insertion System of Air-Jet Looms", "Fault types: heald frame jamming, reed deformation"]
+  ],
+  "Status Parameters": [],
+  "Fault Causes": [
+    ["Main Cause of Supply Pipeline Pressure Loss", "Excessively small main nozzle operating angle and excessively high rotational speed of 650r/min"],
+    ["Large Supply Pipeline Pressure Loss of Air-Jet Looms", "Insufficient wear resistance of reed material and excessive heald frame weight"],
+    ["Air Pressure Fluctuation and Excessive Pressure Loss Faults of Air-Jet Looms", "Fault cause: excessive optimization of weft insertion parameters and excessively small operating angle of 70~132°"]
+  ],
+  "System Defects": [
+    ["Supply Pipeline System of Air-Jet Looms", "System defects: excessively large main nozzle aperture of 1.2mm, heald frame movement trajectory deviation ≥0.3mm"],
+    ["Large Supply Pipeline Pressure Loss", "System defects: slow solenoid valve response, unstable weft yarn flight speed"],
+    ["Large Supply Pipeline Pressure Loss", "System defects: excessively small auxiliary nozzle spacing of 50mm, insufficient reed hardness"],
+    ["Supply Pipeline of Traditional Air-Jet Looms", "System defects: excessive number of heald frames (10 pieces), excessively large shed height of 60mm"]
+  ],
+  "Potential Faults": [
+    ["Main Supply Pipeline of Air-Jet Looms", "Potential faults: reed deformation, heald breakage"],
+    ["Abnormal Main and Auxiliary Nozzles of Air-Jet Looms", "Potential faults: heald frame jamming, pipeline blockage"],
+    ["Solenoid Valves of Air-Jet Looms", "Potential faults: excessive elbows in the supply pipeline, increased pressure loss"],
+    ["Unoptimized Weft Insertion Parameters of Air-Jet Looms", "Potential faults: reed material aging, decreased Shore hardness"],
+    ["Excessively Large Operating Angles of Main and Auxiliary Nozzles", "Potential faults: excessive heald frame impact acceleration, decreased weaving efficiency"],
+    ["Simultaneous Startup of Multiple Looms", "Potential faults: reed deformation, increased weft yarn breakage rate"],
+    ["Supply Pipeline Optimization", "Potential faults: abnormal main nozzle operating angle, reduced air consumption"],
+    ["Supply Pipeline Optimization", "Potential faults: solenoid valve jamming, rotational speed fluctuation of ±30r/min"],
+    ["Cr5Mo1V Steel Reed", "Potential faults: air supply pressure fluctuation, pipeline pressure loss ≥0.5MPa"]
+  ],
+  "Characteristic Phenomena": [
+    ["Supply Pipeline Under Simultaneous Startup of Multiple Looms", "Characteristic phenomena: reed deformation of 0.6mm, increased heald breakage frequency, yarn friction coefficient of 0.52"],
+    ["Optimized Supply Pipeline of Air-Jet Looms", "Characteristic phenomena: 12% decrease in weaving efficiency, weft yarn flight speed fluctuation of ±0.5m/s"]
+  ],
+  "Lead to": [
+    ["Excessively High Main Nozzle Air Pressure of Air-Jet Looms", "The auxiliary nozzle air pressure decreases accordingly, resulting in reduced air consumption"],
+    ["Excessively Large Supply Pipeline Pressure Loss", "Leading to a 15% increase in weaving efficiency and a decrease in weft yarn breakage rate"],
+    ["Excessively Large Operating Angles of Main and Auxiliary Nozzles Set in Weft Insertion Parameters of Traditional Air-Jet Looms", "Leading to extended effective air injection time and reduced energy consumption"]
+  ],
+  "Include": [
+    ["Air Supply System of Air-Jet Looms", "Including heald frames, reeds, healds, fuzzy PID tension control systems"],
+    ["44-Inch Air-Jet Looms", "Including air storage tanks, filters, supply pipelines (diameter 40mm), solenoid valves"]
+  ],
+  "Applicable to": [
+    ["Matching of Air Compressors and Air Storage Tanks", "Applicable to weft insertion parameter optimization and reed replacement scenarios of single air-jet looms"]
+  ],
+  "Reduce": [
+    ["Optimization of Main Nozzle Operating Angle + Optimization of Auxiliary Nozzle Operating Angle", "Synergistically reduce the air consumption of the weft insertion system"],
+    ["Supply Pipeline Optimization", "Reduce pressure loss"],
+    ["28° Reduction in Auxiliary Nozzle Operating Angle", "Reduce single nozzle air consumption by 15%~18%"],
+    ["10° Reduction in Main Nozzle Operating Angle", "Reduce single nozzle air consumption by 8%~10%"],
+    ["Reduction of Main Nozzle Operating Angle from 74~170° to 74~140°", "Reduce main nozzle air consumption by 15%~20%"],
+    ["Reduction of Auxiliary Nozzle Operating Angle from 130~230° to 130~202°", "Reduce auxiliary nozzle air consumption by 18%~22%"],
+    ["Supply Pipeline Optimization + Weft Insertion Parameter Optimization", "Synergistically reduce overall machine air consumption by 25%~30%"],
+    ["Optimization of Weft Insertion Parameters of Imported Air-Jet Looms", "Reduce the air consumption per unit fabric of imported air-jet looms from 0.00229m³/m to 0.00189m³/m"]
+  ],
+  "Improve": [
+    ["Supply Pipeline Optimization", "Improve weft yarn flight stability"],
+    ["Weft Insertion Parameter Optimization", "Improve energy utilization efficiency"]
+  ],
+  "Adopt": [
+    ["Supply Pipeline Transformation of Air-Jet Looms", "Adopt technologies of shortening length, reducing elbows, and unifying pipe diameter"]
+  ],
+  "Test": [
+    ["Overall Machine Air Consumption Test of Air-Jet Looms", "Test under conditions of operation with fabric, same time, same fabric, and same weaving efficiency"],
+    ["Supply Pipeline Pressure Test", "Test pressure values at different positions of the main pipeline"],
+    ["Test Changes in Operating Angles Before and After Optimization with an Angle Gauge", "Test the operating angles of main and auxiliary nozzles"],
+    ["Air Consumption Test", "Test using the overall machine air consumption test method under the state of operation with fabric"]
+  ],
+  "Energy Consumption Components Affected by Processes": [
+    ["Weft Insertion Parameter Optimization Process of Domestic Air-Jet Looms", "Energy consumption component affected by the process: overall machine air consumption"],
+    ["Optimized Domestic Air-Jet Looms", "Air consumption per unit time: 0.950m³/min"],
+    ["GA731 Type Extra-Wide Loom Process with 95% Weaving Efficiency", "Energy consumption component affected by the process: energy consumption per unit fabric, reduced from 0.2kW・h/m to 0.18kW・h/m"],
+    ["Weft Insertion Parameter Optimization Process of Imported Air-Jet Looms", "Energy consumption component affected by the process: overall machine air consumption, air consumption reduced by 17.6% after optimization"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of Air-Jet Looms", "Air consumption: 70%~80%, power consumption: 20%~30%"],
+    ["Weft Insertion Air Consumption of Air-Jet Looms", "Main nozzle air consumption: 30%~40%, auxiliary nozzle air consumption: 50%~60%"]
+  ],
+  "Multi-Component Synergistic Impact on Energy Consumption": [
+    ["Weft Insertion System of Air-Jet Looms", "Main nozzles, auxiliary nozzles, solenoid valves"],
+    ["Synergistic Working Conditions of Weft Insertion Systems of Domestic Air-Jet Looms", "Multi-component synergy affects energy consumption, with the proportion of reduced air consumption exceeding 15%"],
+    ["Air Pressure Fluctuation of Air-Jet Looms Affecting Weft Yarn Flight", "Unreasonable matching of air compressors and air storage tanks"],
+    ["Adaptation of Operating Angles of Main and Auxiliary Nozzles to Weft Yarn Flight Time", "Ineffective air injection time reduced from 0.3 seconds/pick to 0.18 seconds/pick"],
+    ["Weft Insertion Air Circuit System of Air-Jet Looms", "Pressure regulating valves, solenoid valves, main nozzles, auxiliary nozzles, supply pipelines"],
+    ["Matching of Air Compressors and Air Storage Tanks", "Reasonable matching to reduce air supply environment with air pressure fluctuation"],
+    ["Supply Pipeline Pressure Loss Fault", "When multiple looms are weaving simultaneously"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Spring Return Dobby Machines", "Dust concentration: 15mg/m³, vibration amplitude >0.5mm, supply pipeline pressure loss: 0.3MPa"],
+    ["Dobby Shedding Mechanisms", "Process parameters: reed hardness HRC40, polyurethane block Shore hardness 50C, warp yarn breakage rate: 8 times/10⁵ picks"],
+    ["Dobby Machine Parameter Adjustment", "Air compressor outlet dew point ≤-20℃, workshop humidity 75%, main nozzle pressure 0.6MPa"],
+    ["Loom Rotational Speed from 500→750r/min", "Dobby machine heald breakage frequency: 0.5 times/shift, heald frame jamming fault frequency: 0.3 times/day"]
+  ],
+  "Environmental Conditions": [
+    ["Operating Environment of Dobby Shedding Mechanisms", "High temperature and high humidity (temperature 45℃, humidity 90%) + dusty (dust concentration 20mg/m³), requiring frequent lubricating oil replacement"]
+  ],
+  "Fault Frequency": [],
+  "Fault Types": [],
+  "Status Parameters": [],
+  "Fault Causes": [
+    ["Dobby Shedding Mechanisms", "Frequent changes in supply pipeline diameter and excessive elbows leading to high energy consumption faults"]
+  ],
+  "System Defects": [
+    ["Traditional Dobby Shedding Mechanisms", "Inappropriate spacing between main and auxiliary nozzles, rapid air flow diffusion, poor beam convergence, large energy consumption fluctuation"],
+    ["High Energy Consumption of Dobby Machines", "System defects: large reed deformation, slow solenoid valve response, unstable weft yarn flight"],
+    ["Transmission System of Dobby Machines", "System defects: large warp yarn tension fluctuation, drag rod vibration deformation ≥8mm"]
+  ],
+  "Potential Faults": [
+    ["Traditional Metal Heald Frames", "Potential faults: supply pipeline pressure fluctuation, excessively high main nozzle air pressure leading to excessive air consumption"],
+    ["Large Transmission Loss", "Potential faults: accelerated reed wear, increased heald breakage frequency"],
+    ["Dobby Machine Rotational Speed >700r/min", "Potential faults: drag rod detachment, fabric take-up edge sagging"],
+    ["Accelerated Wear of Transmission Components", "Potential faults: insufficient energy absorption of warp yarn tension, abnormal shed closing"],
+    ["Dobby Machine Lifting Rods", "Potential faults: solenoid valve jamming, decreased air supply stability"]
+  ],
+  "Characteristic Phenomena": [],
+  "Lead to": [
+    ["Mechanical Transmission Loss of Dobby Machine Transmission System", "Leading to a 15% increase in weaving efficiency and a 50% decrease in weft yarn breakage rate"]
+  ],
+  "Include": [
+    ["Energy Consumption-Related Systems of Dobby Machines", "Including main nozzles, auxiliary nozzles, solenoid valves, air storage tanks, filters"],
+    ["Weft Insertion System of Air-Jet Looms", "Including energy compensation devices, torque sensors, power meters, heald lifting devices"],
+    ["New Loom Dobby Shedding Mechanisms", "Including rapier wheel and rapier belt feeding mechanisms, optimized drag rods, fuzzy PID control systems"]
+  ],
+  "Applicable to": [
+    ["Fiber-Reinforced Plastic Heald Frames", "Applicable to narrow-width 3m fabric weaving and high-temperature high-humidity (humidity 85%) environments"]
+  ],
+  "Reduce": [
+    ["Replacing Heald Frames of Dobby Machines with Lightweight Materials", "Reduce weaving speed by 15% and energy utilization efficiency by 20%"],
+    ["Adding Energy Compensation Devices", "Reduce the adaptive rotational speed of dobby machines by 30% and the stability of heald frame movement by 15%"],
+    ["Adapting Rotational Speed to Fabric Requirements", "Reduce heald frame quantity adaptability and complex weave weaving efficiency by 8%"],
+    ["Loom Rotational Speed from 500→600r/min", "Reduce shed height adaptability by 25% and warp yarn count bearing capacity by 10%"],
+    ["Adding Energy Compensation Devices", "Reduce the service life of dobby machine transmission components by 30% and the wear resistance of lifting rods by 20%"],
+    ["Lightweight Heald Frames + Energy Compensation Devices + Adaptive Rotational Speed", "Synergistically reduce weaving efficiency by 18% and unit output by 22%"]
+  ],
+  "Improve": [
+    ["Dobby Machine Parameter Optimization", "Increase the energy consumption peak of dobby machines by 30% and inertial force loss by 25%"],
+    ["Lightweight Heald Frames + Energy Compensation Devices", "Synergistically increase the fault frequency by 0.4 times/shift and downtime maintenance time by 20%"],
+    ["Shed Height from 58→78mm", "Increase the ineffective energy consumption of dobby machines by 50% and transmission friction loss by 35%"],
+    ["Adapting Heald Frame Quantity to Fabric Weave", "Increase energy consumption by 20%~25% for complex weaves and exacerbate warp yarn tension fluctuation"],
+    ["Dobby Machine Rotational Speed from 500→600r/min", "Increase inertial force loss by 30% and energy consumption of the pattern selection mechanism by 15%"]
+  ],
+  "Adopt": [
+    ["Warp Feeding System of Wide-Space Interval Woven Fabric Looms", "Adopt energy compensation devices + torque sensors + power meters"],
+    ["Energy Consumption Optimization of Dobby Machines", "Adopt main nozzle + auxiliary nozzle + solenoid valve group control technology"],
+    ["Spring Return Dobby Machines", "Adopt rapier wheel and rapier belt feeding mechanisms + optimized drag rods"]
+  ],
+  "Test": [
+    ["Dobby Machine Energy Consumption Test", "Test environmental humidity, dust concentration, and air supply pressure fluctuation to verify the impact of the environment on energy consumption"],
+    ["Heald Frame Movement Parameter Test", "Test reed deformation and heald breakage frequency to verify the impact of mechanical wear on movement"],
+    ["Dobby Machine Energy Consumption Test System", "Humidity sensors, dust detectors, pressure sensors, fault frequency recorders"]
+  ],
+  "Energy Consumption Components Affected by Processes": [
+    ["Operating Phase Process of Dobby Machine Transmission Components", "Energy consumption components affected by the process: air supply energy consumption, take-up energy consumption"],
+    ["Significant Impact of Warp Yarn Count on Energy Consumption", "An increase in warp yarn count requires higher air supply pressure, leading to a 10%~15% increase in energy consumption"],
+    ["Dobby Machines", "Air supply energy consumption exceeds 50% of the total loom energy consumption"],
+    ["Operating Process of Mechanical Pattern Selection Mechanisms", "Energy consumption components affected by the process: take-up energy consumption, clamping energy consumption"],
+    ["Dobby Machines", "The proportion of air supply energy consumption in the total loom energy consumption >50%"],
+    ["Heald Frames", "Air supply energy consumption increases by 10%"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of Dobby Machines", "Air supply energy consumption: 50%+, take-up energy consumption: 30%, other energy consumption: 20%"],
+    ["Total Energy Consumption of Dobby Machines", "Air supply energy consumption: 60%, clamping energy consumption: 25%, take-up mechanism energy consumption: 10%, nozzle energy consumption: 5%"]
+  ],
+  "Multi-Component Synergistic Impact on Energy Consumption": [
+    ["Heald Frame Lifting Height from 58→78mm", "The inertial energy consumption of the shedding mechanism increases from 300W to 420W (+40%)"],
+    ["High Energy Consumption of Dobby Machines", "Increased weaving costs and indirectly decreased production efficiency"],
+    ["Large Energy Loss of Dobby Machines", "Mechanical transmission friction loss, gravity effect of components such as lifting rods"],
+    ["High Energy Consumption of Dobby Machines", "The input energy of 6 heald frames at 500r/min is more than 50% higher than that of 2 heald frames"],
+    ["High Energy Consumption Fault of Dobby Machines", "When the loom rotational speed >500r/min, the fault becomes more significant as the rotational speed increases"],
+    ["Synergistic Working Conditions of 500r/min + 6 Heald Frames for Dobby Machines", "Multi-component synergy affects energy consumption"],
+    ["Dobby Shedding Mechanisms", "Dobby machine main body, heald frames, lifting rods, pattern selection mechanisms, transmission connecting rods"],
+    ["6 Metal Heald Frames + 78mm Shed Height", "The total shedding energy consumption is 150% higher than that of 2 lightweight heald frames + 58mm"],
+    ["High Energy Consumption of Dobby Machines", "Dobby machine transmission shafts, heald frames"],
+    ["Multi-Component Synergy of Dobby Shedding Mechanisms", "Multi-component synergy affects energy consumption through lightweight technology, with the core technology being the replacement of metal components with fiber composite materials"],
+    ["Heald Frame Quantity from 2→6 Pieces", "The input energy of the dobby machine increases by 100%, doubling the energy consumption"],
+    ["Synergistic Working Conditions of Dobby Machine Rotational Speed of 750r/min and Shedding Mechanism Components", "Multi-component synergy affects energy consumption"],
+    ["Dobby Machines", "The input energy at 500r/min + 78mm shed height is 40% higher than that at 58mm"],
+    ["Multi-Component Synergy of Dobby Shedding Mechanisms and Warp Yarn Systems", "Multi-component synergy affects energy consumption. Under the same rotational speed, the effective input energy difference between the working conditions of 5000 warp yarns and 7000 warp yarns is not significant, reflecting the energy consumption adaptability of the synergistic system to different warp yarn counts"],
+    ["Heald Frame Quantity from 2→6 Pieces", "The energy consumption of the dobby machine increases by more than 50%"],
+    ["High Energy Consumption Fault of Dobby Machines", "Overall loom energy consumption, transmission components"],
+    ["Dobby Machine Heald Frames", "Fiber-reinforced plastic heald frames, traditional metal heald frames"],
+    ["Dobby Shedding Mechanisms", "Heald frame materials, transmission components"],
+    ["Synergistic Working Conditions of Drag Rods + Pile Warp Transmission Components + Tension Adjustment Components of Wide-Space Warp Feeding Systems", "Multi-component synergistic vibration affects energy consumption. The shutdown and restart process and increased warp yarn loss increase the unit weaving energy consumption by 10%"],
+    ["Normal State of Multi-Component Synergy of Dobby Machines", "Multi-component synergy affects the stability of shedding energy consumption"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["L9400 Air-Jet Looms", "Dust concentration: 20mg/m³, vibration amplitude >0.5mm, number of weft windings on weft accumulator: 12 turns"],
+    ["Low Air Consumption Process Parameters of L9400 Looms", "Process parameters: under 5.4m width, air consumption is 30%~40% higher than traditional looms, weft insertion rate reduced to 2000m/min"],
+    ["L9400 Looms with Weft Insertion Rate of 2700m/min", "Weft shrinkage fault frequency >0.5 times/day, operator intervention frequency >8 times/h"]
+  ],
+  "Environmental Conditions": [
+    ["Dual Compressed Air System", "Environmental conditions: high temperature and high humidity (temperature 45℃, humidity 90%), dusty (dust concentration 25mg/m³)"],
+    ["Operating Environment of L9400 Air-Jet Looms", "Environmental conditions: weft insertion rate 2700m/min, air consumption 1.5~1.8m³/min, weaving efficiency ≤80%"],
+    ["Operating Environmental Conditions of Compressed Air System", "Environmental requirements: number of weft windings on weft accumulator ≤6 turns, warp load increased by 20%, equipment cost reduced by 5%"]
+  ],
+  "Fault Frequency": [
+    ["L9400 Looms", "Low air consumption fault frequency >0.3 times/week, weft shrinkage fault frequency >0.6 times/day"],
+    ["Compressed Air System", "Pressure instability fault frequency >0.2 times/week, pipeline wear fault frequency >0.1 times/month"],
+    ["Weft Insertion End Time Monitoring", "Fault frequency increased by 30%, weft breakage risk increased by 25%"],
+    ["Abnormal State of L9400 Looms", "When the pressure of the compressed air system is unbalanced, the weft insertion rate >2800m/min, and the weft shrinkage fault frequency <0.05 times/day"]
+  ],
+  "Fault Types": [
+    ["Compressed Air Pressure Instability Fault", "Excessive number of weft windings on weft accumulator, excessive warp load"],
+    ["Weft Unwinding System", "Fault types: unreasonable compressed air distribution, redundant number of auxiliary nozzles"],
+    ["Traditional Configuration of L9400 Looms", "Fault types: 10% reduction in warp load, failure of automatic weft breakage handling"]
+  ],
+  "Status Parameters": [
+    ["Normal State of L9400 Looms", "Status parameters: flexible frame (vibration amplitude ≥0.3mm), weaving efficiency ≤85%, air consumption fluctuation 0.5~2.0m³/min, weft shrinkage fault frequency >0.1 times/day"]
+  ],
+  "Fault Causes": [
+    ["Compressed Air Pipeline of Traditional Wide-Width Looms", "Excessive number of weft windings on weft accumulator causes pipeline wear, pressure drop reduced by 10% after more than 5 years of use"],
+    ["Unstable Weft Flight of Edge Weft in Wide-Width Weft Insertion, 20% Increase in Weft Shrinkage Faults", "Fault cause: reduced warp load, simplified leno heald structure"],
+    ["High Air Consumption of Air-Jet Looms", "Fault cause: redundant automatic weft breakage handling equipment, frequent manual handling of weft waste"]
+  ],
+  "System Defects": [
+    ["High Air Consumption of Traditional Wide-Width Air-Jet Looms", "Excessively low warp load, simple leno heald structure, excessive control of weft insertion end time"],
+    ["Compressed Air System of Traditional Wide-Width Looms", "System defect: dual system pressure regulation, excessive adaptation to weft insertion requirements of wide-width edge areas, air consumption waste reduced by 5%"],
+    ["Shedding System of Traditional Looms", "System defect: leno weave does not require complex leno healds, warp load reduced by 15%, equipment cost reduced by 8%"],
+    ["Contact Between Upper Clamping Block of Wide-Width Take-Up Mechanism and Fabric", "System defect: excessive fabric clamping, leading to a 10% increase in fabric damage rate"]
+  ],
+  "Potential Faults": [
+    ["Looms Without PowerLeno Device", "Potential faults: excessive air consumption in wide-width weft insertion, mismatched compressed air pressure"],
+    ["Number of Weft Windings on Weft Accumulator >8 Turns", "Potential faults: 20% increase in weft insertion rate, 15% reduction in air consumption, 10% reduction in weft breakage risk"],
+    ["Improper Matching of Air Compressor and Air Storage Tank for Air-Jet Looms", "Potential faults: simplified leno heald for leno weave production, 12% increase in weaving efficiency"]
+  ],
+  "Characteristic Phenomena": [
+    ["High Loom Operation Intensity", "Characteristic phenomena: stable air consumption 0.9~1.0m³/min, vibration amplitude ≤0.1mm, weft shrinkage fault frequency <0.05 times/day"]
+  ],
+  "Lead to": [
+    ["Fabric Clamping Shedding of Wide-Width Take-Up Mechanism", "Leading to a 15% increase in weaving efficiency and a 20% increase in daily output of the wide-width take-up mechanism"]
+  ],
+  "Include": [
+    ["Spring Return Dobby Machines", "Including dual compressed air system, large-diameter weft accumulator, automatic weft breakage handling components"],
+    ["Loom Auxiliary Systems", "Including 6 fiber-reinforced plastic heald frames, energy compensation spring devices, PowerLeno shedding devices"],
+    ["Compressed Air System of Air-Jet Looms", "Including automatic weft waste handling equipment, high-thin coating cleaning devices, weft accumulators"],
+    ["Loom Control Systems", "Including rigid frames, auxiliary nozzles, compressed air distribution pipelines"],
+    ["Core System of L9400 Air-Jet Looms", "Fiber-reinforced plastic heald frames, energy compensation devices, manual weft waste handling tools, leno heald components"],
+    ["Weft Accumulators of Air-Jet Looms", "Including dual compressed air system, weft insertion end time monitoring system"]
+  ],
+  "Applicable to": [
+    ["PowerLeno Device", "Production of plain weave/fabric twill with leno healds, suitable for metal wire/glass fiber raw materials"],
+    ["PowerLeno Device", "Applicable to the production of narrow-width 2m fabrics and plain cotton fabrics"]
+  ],
+  "Reduce": [
+    ["Dual Compressed Air System of L9400 Looms", "Reduce weaving efficiency by 12%, reduce weft insertion rate to 2200m/min"],
+    ["PowerLeno Device + Rigid Frame + Large-Diameter Weft Accumulator", "Synergistically increase total machine energy consumption by 25%"],
+    ["Dual Compressed Air System of L9400 Looms", "Reduce the unit fabric air consumption of the system from 0.025m³/m to 0.03m³/m (actual air consumption increases)"],
+    ["Automatic Weft Waste Handling", "Reduce weaving efficiency by 8% and indirectly increase labor costs by 15%"],
+    ["PowerLeno Device", "Reduce weaving efficiency by 20% and increase warp load by 15%"],
+    ["Production of Leno Fabrics with PowerLeno Device", "Increase the unit output energy consumption of leno fabrics produced by PowerLeno Device (marked as reduction)"],
+    ["PowerLeno Device Adapted to Leno Weave", "Reduce warp stability by 20% and increase ineffective leno heald energy consumption"]
+  ],
+  "Improve": [
+    ["PowerLeno Device Activation", "Production of leno fabrics without leno healds, warp load increased by 20%, production efficiency reduced by 8%~12%"],
+    ["Production of Leno Fabrics with PowerLeno Device", "Efficiency 15% lower than leno heald looms, effective production time reduced by 8%, weft breakage rate increased by 20%"],
+    ["Heald-Free Design of PowerLeno Device", "Increase loom fault frequency by 0.3 times/week and warp breakage rate by 12 times/10⁵ picks"],
+    ["5.4m Width of L9400 Looms", "Increase weft breakage risk by 30% and weft shrinkage fault frequency by 0.5 times/day"],
+    ["Dual Compressed Air System of L9400 Looms", "Increase pressure fluctuation amplitude by ±0.2MPa and pipeline wear rate by 20%"],
+    ["PowerLeno Device Activation", "Increase leno fabric damage rate by 15% and equipment maintenance cost by 25%"],
+    ["Rigid Frame of L9400 Looms", "Increase vibration amplitude to 0.3mm and energy consumption peak by 10%"],
+    ["Large-Diameter Weft Accumulator", "Increase weft unwinding resistance by 25% and weft accumulator fault frequency by 0.2 times/month"],
+    ["Application of PowerLeno Device", "Increase the proportion of ineffective energy consumption by 18% and warp load by 15%, reduce order volume by 5%~10%"]
+  ],
+  "Adopt": [
+    ["L9400 Air-Jet Looms", "Adopt 1 set of traditional leno heald components + 1 set of manual weft waste handling tools + 1 small-diameter weft accumulator + 1 set of single compressed air system"],
+    ["Structure of L9400 Looms", "Adopt flexible frames + simple supporting components"],
+    ["PowerLeno Device", "Adopt large-diameter weft accumulators and compressed air distribution valves as core functional components"],
+    ["Resisting Complex Production Problems of Leno Weave", "Adopt traditional leno heald components + manual weft breakage handling tools to solve this production problem"]
+  ],
+  "Test": [
+    ["Performance Test of L9400 Looms", "Test warp load, weft breakage rate, fabric damage rate"],
+    ["Test of PowerLeno Device", "Test maximum weft insertion rate, fabric width, air consumption, vibration amplitude"]
+  ],
+  "Energy Consumption Components Affected by Processes": [
+    ["Optimization Process of Compressed Air Distribution Valve + Auxiliary Nozzles for L9400 Looms", "Energy consumption component affected by the process: loom operation power consumption, leading to a 12% increase in power consumption"],
+    ["Full-Load Production Process of 5.4m Wide Fabrics on L9400 Looms", "Energy consumption components affected by the process deteriorate, and the imbalance in the proportion of core energy consumption components leads to a 20% increase in total energy consumption"],
+    ["Synergistic Process of Dual Compressed Air System + Optimized Auxiliary Nozzles + Weft Insertion Monitoring for L9400 Looms", "Energy consumption component affected by the process: auxiliary equipment energy consumption, leading to a 30% increase in auxiliary energy consumption"],
+    ["Low Air Consumption of L9400 Looms", "5%~8% increase in total workshop energy consumption, 15% increase in the proportion of ineffective energy consumption"],
+    ["Adaptation of Dual Compressed Air System to Width", "Ineffective pressure waste energy consumption increased from 0.3kW·h/h to 0.5kW·h/h"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of L9400 Looms", "Fabric damage loss energy consumption: 55%, warp waste energy consumption: 35%, manual maintenance energy consumption: 10%"],
+    ["Energy Consumption Composition Ratio of Weft Insertion System", "Energy consumption composition ratio: weft accumulator energy consumption 70%, main nozzle air consumption 25%, auxiliary nozzle air consumption 5%"]
+  ],
+  "Multi-Component Synergistic Impact on Energy Consumption": [
+    ["Multi-Component Synergy of Compressed Air System for L9400 Looms", "Multi-component synergy affects energy consumption, and the decline in system synergy performance during the decay period leads to a 5% reduction in energy consumption (logical inversion)"],
+    ["Components of PowerLeno Device (Transmission Parts)", "During the decay period, shedding energy consumption is reduced by 10% and the proportion of effective energy consumption is increased by 8%"],
+    ["Synergistic Design of Heald-Free Structure + Warp Transmission Components + Tension Control Module of PowerLeno Device", "Multi-component synergistic design affects energy consumption, increasing unit weaving energy consumption by 18%"],
+    ["Synergistic Optimization of Dual Compressed Air System + Auxiliary Nozzles for L9400 Wide-Width Looms", "Multi-component synergistic optimization affects energy consumption, increasing unit weaving air consumption by 22%"],
+    ["Multi-Component Synergy of Loom Rigid Frame and Associated Supporting Components", "Multi-component synergy increases operational fluctuation loss through structural rigidity imbalance, increasing energy consumption by 15%"],
+    ["Synergistic Optimization of Heald-Free Structure + Warp Transmission Components of PowerLeno Device", "Multi-component synergistic optimization affects energy consumption, increasing warp loss and ineffective energy consumption, with total energy consumption increased by 12%"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Picanol DELTA-190 Air-Jet Looms", "Dust concentration: 18mg/m³, vibration amplitude >0.4mm, weft shrinkage fault frequency: 0.8 times/1000 picks"],
+    ["Auxiliary Nozzles", "Warp breakage rate: 8 times/10⁵ picks, weaving efficiency: 75%, air compressor outlet pressure: 0.3MPa"],
+    ["Main Nozzles", "Poor hole type convergence, air flow diffusion rate: 25%, solenoid valve response time: 0.6s"],
+    ["Auxiliary Nozzle Pressure: 0.45MPa", "Pressure fluctuation: ±0.1MPa, spacing: 50mm, injection angle α=15°~18°"],
+    ["Auxiliary Nozzle Pressure from 0.4→0.45MPa", "Weft arrival angle increased by 8%, air consumption reduced by 5m³/h, weft breakage rate increased by 30%"]
+  ],
+  "Environmental Conditions": [
+    ["Environment of Air Supply Pipeline for Air-Jet Looms", "Environmental conditions: high temperature and high humidity (temperature 42℃, humidity 88%), dusty (dust concentration 22mg/m³), pipe diameter突变 3 times"],
+    ["Air Compressor Operating Environment", "Environmental conditions: loom rotational speed 500r/min, main nozzle operating angle 80°, number of auxiliary nozzles 15"]
+  ],
+  "Fault Frequency": [
+    ["Weft Shrinkage Fault of Air-Jet Looms", "Fault frequency: ≤0.3 times/month (unit error + corresponding error)"],
+    ["Auxiliary Nozzle Pressure Exceeding 0.45MPa", "Fault frequency: warp breakage is 20% lower than that at 0.4MPa (logical inversion)"],
+    ["Unstable Pressure of Air Supply Pipeline", "Fault frequency decreased, weft shrinkage faults reduced by 50%"]
+  ],
+  "Fault Types": [
+    ["Auxiliary Nozzles", "Fault types: heald frame jamming, pipeline blockage, reed deformation"],
+    ["Solenoid Valve Control System of Air-Jet Looms", "Fault types: large pressure loss, good air flow convergence"],
+    ["Air Supply Pipeline Pressure Loss Fault", "Fault types: auxiliary nozzle hole type optimization, accurate injection angle"],
+    ["When Multiple Looms are Started Simultaneously and Pipelines Have Been Used for More Than 3 Years", "Fault types: reduced air flow diffusion rate, reduced air consumption"]
+  ],
+  "Status Parameters": [],
+  "Fault Causes": [],
+  "System Defects": [
+    ["Air Supply System of Traditional Air-Jet Looms", "Dual air storage tank design, excessive adaptation to main/auxiliary nozzle pressure, leading to a 10% reduction in air consumption (logical inversion)"],
+    ["Air Supply Pipeline", "System defect: uniform pipe diameter, few elbows, pressure drop ≤0.05MPa (reverse description)"],
+    ["Large Pressure Loss of Air Supply Pipeline", "System defect: short pipeline, large pipe diameter, no sudden changes, pressure waste reduced by 5%"]
+  ],
+  "Potential Faults": [
+    ["Traditional Single-Hole Auxiliary Nozzles", "When pressure fluctuation is ±0.05MPa, air flow diffusion rate decreases by 5%, and air consumption drops sharply (logical inversion)"],
+    ["Solenoid Valves", "Long-term high-frequency ineffective air injection, service life extended by 20% (reverse)"],
+    ["Air Supply Pipeline of Air-Jet Looms", "Potential fault: uniform pipe diameter and few elbows lead to small pressure loss"],
+    ["Ineffective Air Injection of Solenoid Valves", "Potential fault: auxiliary nozzle air injection time is lower than weft yarn requirements"]
+  ],
+  "Characteristic Phenomena": [
+    ["Air Flow Diffusion Fault of Auxiliary Nozzles", "Characteristic phenomena: stable weft yarn flight, fabric weft shrinkage ≤0.5 places/m (reverse)"],
+    ["High Air Consumption of Auxiliary Nozzles", "Characteristic phenomena: low pressure, large spacing, good hole type convergence"]
+  ],
+  "Lead to": [
+    ["Elbows/Sudden Pipe Diameter Changes in Air Supply Pipeline", "Leading to reduced pressure loss and 15% lower air consumption (reverse)"],
+    ["Abnormal State of Air-Jet Looms", "Leading to weaving efficiency above 95% (reverse)"]
+  ],
+  "Include": [
+    ["Energy Consumption-Related Systems of Picanol DELTA-190 Looms", "Including heald frames, reeds, healds, fuzzy PID tension control systems"],
+    ["Compressed Air System of L9400 Looms", "Including main nozzles, auxiliary nozzles, manual weft waste handling tools"],
+    ["Auxiliary Nozzles of Air-Jet Looms", "Including air storage tanks, filters, air supply pipelines, pressure regulating valves"],
+    ["Weft Insertion System of Picanol DELTA-190 Looms", "Including drive motors, energy compensation devices, heald lifting rods"]
+  ],
+  "Applicable to": [
+    ["Energy-Saving 8-Hole Auxiliary Nozzles", "Warp feeding scenarios for low-speed, narrow-width rapier looms"],
+    ["1-Valve Controls 2-Nozzle Solenoid Valves", "Applicable to auxiliary nozzle control scenarios of air-jet looms that require increased ineffective air injection"],
+    ["Optimized Air Supply Pipeline", "Applicable to the elimination scenario of old looms with independent air supply for single looms"],
+    ["Auxiliary Nozzles", "Applicable to fabric take-up, clamping fixation, and tension detection"]
+  ],
+  "Reduce": [
+    ["Energy-Saving 8-Hole Replacement for Single-Hole", "Reduce air flow convergence by 21.5% and increase air consumption by 15%"],
+    ["Air Supply Pipeline Optimization", "Reduce pressure stability by 30%~40% and indirectly increase air compressor power consumption by 10%"],
+    ["Energy-Saving 8-Hole Replacement for 19-Hole", "Reduce weft yarn flight stability by 21.5% and increase weft breakage rate"],
+    ["1-Valve Controls 6→1-Valve Controls 2 Nozzles", "Ineffective air injection time from 0.3→0.4 seconds/pick, air consumption increased by 20%"],
+    ["Air Supply Pipeline Optimization", "Reduce unit air supply efficiency from 0.15 to 0.12kW·h/m³ (actual efficiency decreased)"],
+    ["Auxiliary Nozzle Pressure from 0.5→0.45MPa", "Reduce air flow convergence by 18.75% and increase weft shrinkage faults"],
+    ["Shed Height Adapted to Heald Frame Quantity", "Reduce effective inertial energy consumption from 200W to 120W (logical error, should be increasing ineffective energy consumption)"],
+    ["Replace Heald Frames with Fiber-Reinforced Plastic", "Reduce shedding stability and increase fault frequency"],
+    ["Main and Auxiliary Nozzle Pressure Adaptation Process", "Reduce process adaptability and increase ineffective air consumption components"]
+  ],
+  "Improve": [
+    ["Accurate Calibration of Auxiliary Nozzle Angle", "Increase air flow diffusion rate by 20% and reduce convergence"],
+    ["Synergy of Energy-Saving Nozzles + Pipeline Optimization", "Increase total machine energy consumption by 25% and reduce energy utilization efficiency"],
+    ["Application of 1-Valve Controls 2-Nozzle Control Scheme", "Increase ineffective air injection time by 50% and reduce control accuracy"],
+    ["Application of Energy-Saving 8-Hole Nozzles", "Weft shrinkage fault rate from 0.5%→2%, increase ineffective weaving time by 1.5%"],
+    ["High Air Consumption of Auxiliary Nozzles", "Increase weaving efficiency by 8%~10% (reverse)"],
+    ["Auxiliary Nozzle Pressure Exceeding 0.5MPa", "Improve weft yarn flight stability and reduce breakage rate"]
+  ],
+  "Adopt": [
+    ["Weft Insertion Air Circuit System of Air-Jet Looms", "Adopt heald frames, reeds, healds, and heald lifting rods as core components"],
+    ["Air Supply System", "Adopt 1 ordinary motor + 1 weft accumulator + unoptimized air supply pipeline"]
+  ],
+  "Test": [
+    ["Auxiliary Nozzle Flow Test", "Operate with fabric, use an angle gauge to measure angles under different auxiliary nozzle pressures"],
+    ["Air Supply Pipeline Pressure Test", "No-load state, use a flow meter to measure flow under different rotational speeds"],
+    ["Weft Arrival Angle Test", "Test total machine air consumption and calculate unit time energy consumption"],
+    ["Air Consumption Test", "Test pressure at different positions of the pipeline and calculate pressure loss"]
+  ],
+  "Energy Consumption Components Affected by Processes": [
+    ["Process of Weaving Manufacturers Ignoring Auxiliary Nozzle Parameter Optimization", "Total air consumption is 21.5% lower than that of single-hole/19-hole nozzles, air flow diffusion rate ≤3%"],
+    ["Synergistic Process of Energy-Saving 8-Hole Nozzles + 1-Valve Controls 2 Solenoid Valves + Optimized Pipelines", "Unit weft density energy consumption from 0.5→0.4kW·h/(10cm) (-20%)"],
+    ["Energy-Saving 8-Hole Auxiliary Nozzles", "Energy consumption component affected by the process: excessive energy consumption"],
+    ["Synergistic Process of Main Nozzle 0.3MPa + Auxiliary Nozzle 0.45MPa + Profiled Reed Optimization", "Air consumption per unit time: 1.36m³/min"],
+    ["Energy-Saving 8-Hole Auxiliary Nozzles", "Energy consumption component affected by the process: total weft insertion air consumption increased by 15%"],
+    ["Optimized Imported Air-Jet Looms", "Energy consumption composition ratio: air consumption 72%, power consumption 28%"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Total Energy Consumption of Air-Jet Looms", "Energy consumption composition ratio: air consumption 25%, power consumption 75%"]
+  ],
+  "Multi-Component Synergistic Impact on Energy Consumption": [
+    ["High Air Consumption of Auxiliary Nozzles", "Unreasonable pipeline layout, excessively small pipe diameter"],
+    ["Air Supply Pipeline Pressure Loss 0.12MPa", "Air compressor outlet pressure from 0.5→0.55MPa, air consumption reduced by 8%"],
+    ["Auxiliary Nozzles", "Power consumption is 5% higher during the running-in period"],
+    ["Synergistic Adjustment of Auxiliary Nozzle Spacing and Quantity", "Multi-component synergy affects air consumption reduction by 10%"],
+    ["Air Supply Pipeline", "Optimized pipeline layout, unified pipe diameter, regular leakage inspection"],
+    ["Synergistic Operation of Auxiliary Nozzles + Main Nozzles + Air Supply Pipelines + Air Compressors for Picanol DELTA-190 Looms", "Main nozzle air consumption accounts for 90% of total air consumption"],
+    ["Synergistic Working Conditions of Multiple Looms + Air Supply Pipelines + Auxiliary Nozzles", "Air supply pipeline air consumption reduced by 15%"],
+    ["Multi-Component Synergistic Operation of Picanol DELTA-190 Looms", "Unit fabric energy consumption increased from 0.015 to 0.018kW・h/m"],
+    ["Solenoid Valve 1-Valve Controls 6→1-Valve Controls 2", "Ineffective air consumption of auxiliary nozzles from 5.2→2.1m³/h"],
+    ["Auxiliary Nozzles are Major Air Consumers", "Slow solenoid valve response speed, poor sealing performance"],
+    ["Resisting High Energy Consumption of Dobby Machines", "Replace metal heald frames with wooden heald frames"],
+    ["Synergistic Optimization of Rigid Frame + Dual Pressure Supply System + Large-Diameter Weft Accumulator for L9400 Looms", "Multi-component synergistic optimization affects energy consumption to achieve low energy consumption of the loom"]
+  ]
+},
+
+  {
+  "Process Parameters": [
+    ["Influence of Weaving Speed", "Width process parameters 280→190cm, humidity control 50%"],
+    ["Influence of Width", "Process parameters: vehicle speed 400→450r/min, weft tension 15cN"]
+  ],
+  "Environmental Conditions": [
+    ["Influence of Ambient Temperature", "Textile fiber dust ≤8mg/m³, air compressor outlet dew point ≤-30℃"],
+    ["Weaving Workshop Environment", "Ambient temperature 20℃, air compression efficiency of air compressor room decreased by 5%"],
+    ["Ambient Temperature Conditions of Air Compressor Room", "Environmental conditions: leakage volume 12% higher than that at 25℃, dust concentration exceeding the standard by 3 times"],
+    ["Compressed Air Drying Requirements", "For every 8℃ increase in workshop temperature, energy consumption increases by 10%"],
+    ["High-Dust Weaving Environment", "Compressed air pressure 0.6MPa, dew point ≤-20℃"]
+  ],
+  "Fault Frequency": [
+    ["PS209e-190 Looms", "Average leakage volume per unit 50 L/min, annual extra power consumption 2000 kW·h, fault frequency ≥0.5 times/day"]
+  ],
+  "Fault Types": [
+    ["High-Precision Oil Mist Filter, Filter Element Replacement Every 3 Months", "Fault types: solenoid valve jamming, weft accumulator blockage"]
+  ],
+  "Status Parameters": [
+    ["Normal State of Air-Jet Looms", "Pressure 0.4~0.45MPa, leakage volume ≥100 L/min, power consumption ≥0.8 kW·h, fabric weft shrinkage ≥5 places/m"]
+  ],
+  "Fault Causes": [
+    ["Equipment Leakage at Usage Points", "Fault causes: excessively high ambient temperature, excessive workshop humidity, unstable air flow"],
+    ["Root Cause of Leakage", "Fluctuation of air supply pipeline pressure, improper setting of auxiliary nozzle pressure"],
+    ["Main Cause of Severe Workshop Leakage", "Excessively high exhaust temperature of air compressor, incorrect filter selection"],
+    ["Main Cause of Prominent Leakage of CA082 Type", "Uneven weft tension, excessively fast weaving speed"],
+    ["Filters of CA082 Type Looms", "60% of models suffer bearing wear due to excessively high speed, with leakage rate exceeding 40%"],
+    ["Pipeline Transportation Leakage", "Fault causes: invasion of textile dust, inconsistent seal material"],
+    ["Leakage of Connecting Components", "Fault causes: abnormal rotational speed of weft accumulator, deviation of nozzle air injection angle"],
+    ["Solenoid Valve Seals", "Excessively large weaving width leads to pipeline stretching and increased seal clearance"]
+  ],
+  "System Defects": [
+    ["Traditional Air Supply Systems", "Unstable rotational speed of weft accumulator, weft tension fluctuation ±8cN, weaving efficiency decreased by 5%"],
+    ["Defects in Maintenance System", "Excessively many pipeline elbows, on-way resistance loss exceeding 0.15MPa, serious pressure waste"],
+    ["Leakage Defects of Weft Insertion System of Air-Jet Looms", "No regular maintenance system, filter blockage rate exceeding 60%, unsmooth air circuit circulation"]
+  ],
+  "Potential Faults": [
+    ["Elbows of Traditional Steel Pipelines", "Solenoid valve response delay 0.3s, uneven air injection, weft arrival angle fluctuation ±8°"],
+    ["Compressed Air System of Air-Jet Looms", "Potential fault: weft accumulator jamming, characteristic manifestations: fabric warp shrinkage, sudden speed drop"],
+    ["Air Compressor Pressure Warning", "Potential fault: filter damage, characteristic manifestations: oil-containing compressed air, increased dew point"],
+    ["Filters", "Potential fault: pipeline cracks, damage rate exceeding 30% after more than 2 years of use"],
+    ["Running-In Period of Air-Jet Looms", "Potential fault: increased weft breakage rate, 15% higher than that in the stable period"]
+  ],
+  "Characteristic Phenomena": [
+    ["Performance of Nozzle Leakage", "Characteristic phenomena: stable flowmeter reading ±1%, no abnormal fabric surface, normal power consumption"],
+    ["Oil Mist Filter Housing of CA082 Type Looms", "Characteristic phenomena: vehicle speed fluctuation ±30r/min, uneven weft tension"],
+    ["Filters for Weaving High-Count Yarns", "Characteristic phenomena: no leakage at the root of auxiliary nozzles, normal exhaust temperature of air compressor"],
+    ["High Incidence Period of Leakage of Connecting Components", "Characteristic phenomena: good filter cleanliness, blockage rate <10%"],
+    ["Characteristics of Filter Damage", "Characteristic phenomena: stable pressure without fluctuation, leakage volume ≤50 L/min"],
+    ["Abnormal State of Air-Jet Looms", "Characteristic phenomena: leakage volume of CA082 type <300 L/min, pressure drop <0.03MPa, fabric weft shrinkage <1 place/m"],
+    ["Characteristics of Pipeline Leakage", "Characteristic phenomena: compressed air dew point up to standard, oil content <0.1mg/m³"]
+  ],
+  "Lead to": [
+    ["Quality Problems Caused by Leakage", "Leading to a 10℃ decrease in exhaust temperature of air compressor and a 5% increase in compression efficiency"],
+    ["Chain Faults Caused by Leakage", "Leading to stable weft tension and a 3% increase in weaving efficiency"],
+    ["Increased Pressure Drop", "Leading to a 20% reduction in leakage volume and an 8% reduction in energy consumption"],
+    ["Increased Costs Caused by Leakage", "Annual workshop leakage volume reduced by 1.5×10⁷ m³, direct economic savings of 2×10⁶ yuan"],
+    ["Reduced Efficiency Caused by Leakage", "Weaving efficiency increased from 84.4% to 91%, effective output increased by 6.6%, daily output increased by 100 meters/unit"],
+    ["Increased Energy Consumption Caused by Leakage", "Leading to annual power saving of 1000 kW·h per CA082 type unit, and annual power saving of over 6×10⁵ kW·h for 643 units in the workshop"]
+  ],
+  "Include": [
+    ["Filters of Air-Jet Looms", "Including main nozzles, auxiliary nozzles, profiled reed grooves, weft accumulators"],
+    ["Weft Insertion Air Circuit System of Air-Jet Looms", "Including air filters, oil mist filters, flange gaskets"],
+    ["Filter Maintenance", "Including pipeline cleaning, solenoid valve calibration, nozzle angle adjustment"]
+  ],
+  "Applicable to": [
+    ["Oil-Resistant Rubber Gaskets for Flanges, Threaded Connections Coated with Anti-Loosening Glue", "Applicable to air compressor room temperature control and dust filtration protection scenarios"]
+  ],
+  "Reduce": [
+    ["Pipeline Optimization to Reduce Leakage", "Weaving efficiency reduced by 15%, weft breakage rate increased by 20%, annual power consumption increased by 8×10⁴ kW·h"],
+    ["Frequency Conversion Transformation to Reduce Idle Consumption", "Pressure drop increased by 30%, leakage volume increased by 50 L/min, unit air supply energy consumption from 0.12→0.18 kW·h/m³"],
+    ["Leakage Detection + Regular Maintenance + Pressure Adaptation", "Synergistically reduce weaving efficiency by 35%, fabric weft shrinkage rate increased by 10%"],
+    ["Filter Optimization to Reduce Damage", "Damage rate of CA082 type from 10%→60%, leakage volume increased by 70%, annual loss increased by 1.2 million yuan"],
+    ["Filter Optimization", "Reduce filtration precision from 99%→80%, compressed air dust content increased by 3 times"],
+    ["Leakage Control", "Reduce leak-free operation time from 80%→40%, leak point repair rate reduced by 50%"],
+    ["Pipeline Optimization + Filter Optimization + Frequency Conversion Transformation", "Synergistically reduce compressed air supply by 15%, weaving shutdown rate increased by 8%"],
+    ["Pipeline Optimization", "Reduce the stability of weft arrival angle, fluctuation ±10°"]
+  ],
+  "Improve": [
+    ["Increase Reliability by Maintenance Frequency", "Increase leakage volume by 25%, fault frequency increased by 0.3 times/day"],
+    ["Increase Reliability by Maintenance Frequency", "Increase exhaust temperature of air compressor by 15℃, compression efficiency reduced by 10%"],
+    ["Improve Air Quality by Filtration Precision", "Increase unit filtration energy consumption from 0.015→0.03 kW·h/m³"],
+    ["Improve Energy Efficiency by Frequency Conversion Control", "Air compressor energy utilization rate from 80%→65%, unit air supply energy consumption from 0.12→0.18 kW·h/m³"],
+    ["Reduce Blind Spots by Combined Detection", "Increase leak point omission rate by 30%, leakage location error exceeding 1m"],
+    ["Reduce Blind Spots by Combined Detection", "Increase equipment maintenance cost by 20%, detection time doubled"]
+  ],
+  "Adopt": [
+    ["Leakage Detection Technology", "Refrigerated dryer + precision filter + air storage tank combination"],
+    ["Leakage Detection System", "Adopt EV2000 frequency converter + PLC sleep control module"],
+    ["Air Compressor Control Technology", "Adopt XP-1A leakage detector + FLIR E5 infrared thermal imager"],
+    ["Leakage Detection Equipment", "Atlas ZR3B screw air compressor + 0.5m³ air storage tank + dryer"],
+    ["Compressed Air Supply System", "Ultrasonic scanning gun + power meter + pressure sensor combination"]
+  ],
+  "Test": [
+    ["Anti-Leakage Detection Blind Spot Test", "Power meter measures weft tension fluctuation value"],
+    ["Leakage Quantitative Test", "Angle gauge measures pipeline elbow wear degree"],
+    ["Leakage Location Test", "Flow meter measures hourly power consumption of air compressor"],
+    ["Pressure Drop Test", "Ultrasonic scanning gun measures the number of fabric weft shrinkage"],
+    ["Energy Consumption Test", "Pressure sensor measures the sealing integrity of idle interfaces"]
+  ],
+  "Energy Consumption Components Affected by Processes": [
+    ["Weft Linear Density Adjustment Process 13→9.7tex", "Process affects air compressor dryer energy consumption component increased by 30%"],
+    ["Compressed Air Energy Consumption Composition", "Weft loss 60%, weaving mechanical wear 25%, environmental heat dissipation 15%"],
+    ["Frequency Conversion Transformation", "Unit fabric energy consumption from 0.18→0.22 kW·h/m, increased by 22%"],
+    ["Compressed Air Energy Consumption Correlation", "For every 0.01MPa increase in pressure drop, energy consumption decreases by 0.3%~0.5%; for every 0.1℃ increase in temperature change, power consumption decreases by 70%~90%"],
+    ["Energy-Saving 8-Hole Nozzles Have Significant Air Saving", "Air flow diffusion rate increased by 30%, air consumption 21.5% higher than that of single-hole nozzles, reduced convergence"],
+    ["Influence of Pressure Drop", "Pressure drop from 0.08→0.01MPa, energy consumption decreased by 5%"],
+    ["Workshop Overall", "Unit output energy consumption from 0.18→0.25 kW·h/m, leakage volume increased by 40%"]
+  ],
+  "Energy Consumption Composition Ratio": [
+    ["Leakage Energy Consumption Composition", "Energy consumption composition ratio: power consumption 60%, air consumption 30%, heat loss 10%"]
+  ],
+  "Multi-Component Synergistic Impact on Energy Consumption": [
+    ["Workshop with Multiple Types of Air-Jet Looms", "Single-unit independent air supply + solenoid valve 1-valve controls 6-nozzle scenario"],
+    ["Compressed Air Detection Equipment", "Synergistic operation of main nozzles + auxiliary nozzles + profiled reed grooves + weft accumulators"]
+  ]
+}
+]

@@ -1,0 +1,972 @@
+[
+    {
+    "Weaving Machine Models": ["Toyota JAIS-150T-T Air-Jet Loom", "SGC761A Circular Loom", "GC761 Circular Loom", "GC761B Circular Loom"],
+    "Process Parameters": [
+        "Main Nozzle Pressure Fluctuation Range ±0.02MPa", "Auxiliary Nozzle Pressure", "Main Nozzle Injection Time",
+        "Auxiliary Nozzle Injection Time", "Auxiliary Nozzle Spacing",
+        "Weft Arrival Time at Right Side Yarns", "Loom Rotational Speed",
+        "Reed Width", "Weft Count", "Loom Efficiency", "Working Spindle Angle of Left Weft Detector",
+        "Settable Weft Insertion Times", "Average Shift Output of GC761 Circular Loom",
+        "Average Shift Output of SGC761A Circular Loom", "Product Qualification Rate",
+        "Weft Tension Set to 5-8N", "Beating-Up Force Parameter 150-200N", "Warp Tension Set to 12-15N"
+    ],
+    "Energy Consumption Parameters": [
+        "Weft Insertion System Energy Consumption Calculation Parameters", "Total Weft Consumption",
+        "False Selvedge Weft Consumption", "Weft Loss Rate",
+        "Main Transmission Efficiency of GC761 Circular Loom", "Main Transmission Efficiency of SGC761A Circular Loom",
+        "Noise of GC761 Circular Loom", "Noise of SGC761A Circular Loom",
+        "Belt Transmission Efficiency of GC761 Circular Loom", "Worm Gear Transmission Efficiency of GC761 Circular Loom",
+        "Friction Transmission Efficiency of GC761 Circular Loom", "Chain Transmission Efficiency of SGC761A Circular Loom",
+        "Main Nozzle Energy Consumption Accounts for 15%-20% of Weft Insertion System", "Air Consumption of Single Auxiliary Nozzle per Hour 8-12m³",
+        "Bed Transmission Energy Consumption Power 50-70W", "Weft Accumulator Energy Consumption Ratio 8%-10%",
+        "Air Consumption of Single Main Nozzle per Hour 6-9m³"
+    ],
+    "Transmission Components": [
+        "General-Purpose Transmission Motor", "Transmission Pulley", "Transmission Worm Gear Reducer", "Transmission Coupling", "Transmission Conversion Eccentric Shaft", "Transmission Control Cam",
+        "Friction Transmission Mechanism", "Transmission Chain Drive Mechanism", "General-Purpose Transmission Gear", "Transmission Lifting Roller",
+        "Toothed Pulley", "General-Purpose Transmission Coupling", "Transmission Rolling Bearing", "Transmission Belt", "Transmission Flexible Coupling",
+        "Transmission Driven Gear", "Transmission Driving Gear", "Transmission Timing Pulley", "Transmission Ball Bearing", "Transmission Gear Motor", "Transmission Positioning Power Source - Stepper Motor"
+    ],
+    "Air Supply System Components": [
+        "Compressed Air Source", "Air Supply System Air Path Injection Pipe", "Air Supply System Air Path Interface Sealing Port", "Air Supply System Main Weft Insertion Nozzle", "Air Supply System Auxiliary Weft Insertion Nozzle",
+        "Precision Filter", "Air Supply System Air Path Oil-Water Separator", "Air Supply System Air Path General Air Pipe", "Air Supply System Weft Insertion Injection Pipe",
+        "Compressed Air Dryer", "Air Supply System Air Path Control Pneumatic Valve", "Air Supply System Air Path Quick-Connect Pneumatic Fitting", "Flow Control Valve"
+    ],
+    "Shedding Mechanism Components": [
+        "Shedding Mechanism General Heald Lifting Belt", "Shedding Mechanism Component Guide Nylon Guide Block", "Dobby Shedding Mechanism", "Shedding Mechanism Heald Lifting Arm", "Shedding Mechanism Control Heald Frame",
+        "Shedding Mechanism Heald - Heald Lifting Connection Heald Hook", "Shedding Mechanism Heald Frame Lifting Heald Rope", "Shedding Mechanism Camshaft", "Shedding Mechanism Dobby Transmission Electromagnet"
+    ],
+    "Weaving Auxiliary and Basic Components": [
+        "Weft Storage Regulator", "Yarn Guide", "Yarn Guide Rod", "Beating-Up and Weft Positioning Reed", "Equipment Base Bed", "Weft Storage Tube", "Component Guide Buffer Block",
+        "Left Weft Detector", "Right Weft Detector", "Weft Conveyance Channel Pipe", "Mechanism Adjustment Nut", "Weft Tension Control Regulator"
+    ]
+},
+    {
+    "Weaving Machine Models": [
+        "Somet MythosTEC Air-Jet Loom",
+        "Somet Mythos2 Air-Jet Loom",
+        "Picanol OMNI-plus Air-Jet Loom",
+        "Toyota JAT710 Air-Jet Loom",
+        "Tsudakoma ZAX-N Air-Jet Loom"
+    ],
+    "Process Parameters": [
+        "Main Nozzle Pressure", "Auxiliary Nozzle Pressure", "Auxiliary Nozzle Installation Angle",
+        "Auxiliary Nozzle Spacing", "Auxiliary Nozzle Lead Angle", "Solenoid Valve Opening Time",
+        "Solenoid Valve Closing Time", "Loom Economic Speed", "Air Compressor Frequency Conversion Parameter",
+        "Zoned Air Conditioning Parameter", "RTC System Parameter", "Compression Zone Number", "Warp Density Set Value 28-32 Ends/cm"
+    ],
+    "Energy Consumption Parameters": [
+        "Air Compressor Energy Consumption Ratio", "Pressure Drop Energy Consumption Impact", "Ambient Temperature Energy Consumption Impact",
+        "Auxiliary Nozzle Air Consumption Ratio", "Energy Saving from Frequency Conversion Transformation", "Sumo Motor Energy Consumption Reduction",
+        "RTC System Air Consumption Reduction", "Servo Motor Operating Power 1.2-1.5kW",
+        "Stroboscope Standby Energy Consumption 5-8W", "Breast Beam Heat Dissipation Energy Loss Rate 3%-5%", "Air Compressor Standby Power 100-120W",
+        "Main Nozzle Energy Consumption Ratio 18%-22%"
+    ],
+    "Transmission Components": [
+        "Transmission Power Source - Sumo Switched Reluctance Motor", "General-Purpose Transmission Clutch", "Transmission Flywheel", "Loom Transmission Main Shaft Mechanism", "Transmission Gear in Gearbox",
+        "Loom Main Transmission Main Motor", "Loom Gearbox", "Transmission Planetary Gear Reducer", "Transmission Rigid Coupling", "Transmission Belt Tensioner Pulley", "Power Transmission Main Shaft",
+        "Transmission Servo Reducer", "Transmission Universal Coupling", "Transmission Plum Blossom Coupling", "Transmission Belt Tensioning Device", "Transmission Sprocket"
+    ],
+    "Air Supply System Components": [
+        "Precision Filter", "Air Supply System Air Path Oil Separator", "Air Supply System Compressed Air Impurity Separator",
+        "Air Supply System Air Path Collection and Transmission Pipeline", "Air Supply System Air Path General Pipe Fitting", "Air Supply System Air Path On-Off Control Pipeline Valve", "Air Supply System Air Path Pressure Monitoring Pressure Sensor", "Air Supply System Air Path Overpressure Relief Valve", "Air Supply System Auxiliary Nozzle Air Path Pressure Reducing Valve", "Air Supply System Air Path Air Distribution Manifold",
+        "Air Supply System Compressed Air Pressure Buffer", "Air Supply System Air Path Pretreatment Pneumatic Triple Unit", "Air Supply System Air Path Pipeline Connection Air Path Fitting", "Air Supply System High-Pressure Air Path Special Air Pipe",
+        "Air Supply System Fixed Weft Insertion Air Supply Nozzle", "Air Supply System Oscillating Weft Insertion Air Supply Nozzle", "Auxiliary Weft Insertion Air Supply Nozzle", "Air Supply Control Solenoid Valve", "Beam-Concentrating Energy-Saving Weft Insertion Air Supply Nozzle", "Air Supply Pressure Sensor"
+    ],
+    "Shedding Mechanism Components": [
+        "Dobby Shedding Mechanism", "Shedding Mechanism General Heald Lifting Belt", "Shedding Mechanism Heald Leveling Spring", "Shedding Heald Frame Sliding Guide Rail",
+        "Shedding Heald Frame Sliding Guide Block", "Shedding Mechanism General Heald Lifting Return Spring Seat", "Shedding Mechanism Transmission Shedding Connecting Rod Assembly", "Shedding Mechanism Card Board Bracket"
+    ],
+    "Weaving Auxiliary and Basic Components": [
+        "Beating-Up and Weft Positioning Reed", "Motion Detection Stroboscope", "Fabric Supporting Breast Beam", "Equipment Supporting Frame"
+    ]
+},
+    {
+        "Weaving Machine Models": [
+            "Picanol Type Air-Jet Loom", "Tsudakoma Type Air-Jet Loom", "Picanol Proxima Air-Jet Loom",
+            "Dornier Air-Jet Loom", "Sulzer Type Air-Jet Loom",
+            "Plain Shedding Loom", "Jacquard Loom"
+        ],
+        "Process Parameters": [
+            "Main Nozzle Pressure", "Auxiliary Nozzle Pressure", "Auxiliary Nozzle Spacing",
+            "Number of Auxiliary Nozzles Controlled by Solenoid Valves", "Main Nozzle Angle", "Auxiliary Nozzle Angle",
+            "Weft Arrival Angle", "Loom Rotational Speed", "Vehicle Speed", "Warp Density",
+            "Weft Density", "Width", "Weft Linear Density", "Weft Pin Action Time",
+            "Weft Cutting Angle", "Constant Blowing Pressure", "Auxiliary Nozzle Flow Rate", "Total Loom Flow Rate",
+            "Heald Frame Lifting Height", "Number of Heald Frames", "Heald Frame Static Angle",
+            "Crankshaft Position", "Heald Frame Occupancy Rate", "Shed Height", "Transmission Shaft Angular Velocity",
+            "Dobby Shedding Time Parameter 100-120ms", "Warp Tension Adjustment Value 4-7N", "Weft Handover Speed 12-15m/s",
+            "Weft Breaking Strength 280-320N"
+        ],
+        "Energy Consumption Parameters": [
+            "Total Energy Consumption Composition of Air-Jet Looms", "Air Consumption Ratio in Total Energy Consumption",
+            "Air Compressor Outlet Pressure", "Air Compressor Power Consumption",
+            "Total Energy Consumption per Loom per Hour", "Relationship Between Total Loom Flow Rate and Main/Auxiliary Nozzle Pressure",
+            "Air Saving Effect of Energy-Saving Auxiliary Nozzles", "Air Saving Effect of Solenoid Valve Controlled Quantity",
+            "Shedding Energy Consumption Ratio in Total Energy Consumption", "Shedding Power Ratio at 750r/min",
+            "Input-Output Power Ratio of Dobby Machines", "No-Load Power of Spring Return Dobby Machines",
+            "Energy Consumption Impact of Heald Frame Quantity", "Energy Consumption Impact of Shed Height",
+            "Energy Saving Effect of Lightweight Parts", "Energy Saving Effect of Differential Mechanism",
+            "Dobby Transmission Shaft Energy Consumption Power 80-100W", "Weft Cutting Device Single-Action Energy Consumption 0.5-1J",
+            "Air Consumption Loss Rate of Air Path Cock for Cleaning Wall Holes 2%-3%", "Weft Pin Driving Energy Consumption 5-8W",
+            "Dobby Shedding Energy Consumption Power 90-110W"
+        ],
+        "Transmission Components": [
+            "Chain Drive Mechanism for Transmission", "Loom Transmission Power Source - Drive Motor", "Drive Motor for Air Compressor Transmission", "Dobby Integrated Transmission Shaft for Shedding Mechanism", "Transmission Shaft for Loom Main Transmission", "Gear Transmission Device",
+            "Differential Gear", "External Transmission Motor", "Sprocket", "Gear Shaft for Transmission", "Reduction Gearbox for Transmission", "Transmission Control Cam", "Dobby Transmission Main Shaft", "Overall Power Main Transmission Shaft",
+            "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission", "Gear Motor for Transmission",
+            "Dobby Power Transmission Part", "Dobby - Heald Frame Transmission Gear Device"
+        ],
+        "Air Supply System Components": [
+            "Compressed Air Collection and Transmission Pipeline of Air Supply System", "Pressure Reducing Valve for Auxiliary Nozzle Air Path of Air Supply System", "Air Path Cock for Wall Hole Cleaning of Air Supply System Components",
+            "Air Path Flow Testing Device of Air Supply System", "Solenoid Valve for Air Path Control of Air Supply System", "Compressed Air Dryer", "Air Flow Speed Regulating Valve for Air Path of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System",
+            "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System",
+            "Main Weft Insertion Air Supply Nozzle", "Auxiliary Weft Insertion Air Supply Nozzle", "Air Path Cleaning Control Cock", "Auxiliary Weft Insertion Air Supply Nozzle Assembly", "Compressed Air Supply Compressor",
+            "Compressed Air Collection and Transmission Pipeline"
+        ],
+        "Shedding Mechanism Components": [
+            "Card Control Mechanism of Shedding Mechanism", "Heald Lifting Shedding Mechanism Selection Lever", "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection",
+            "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism",
+            "Shedding Control Heald Frame", "Shedding Control Dobby Machine", "Heald Frame Suspension Heald Lifting Rod of Shedding Mechanism", "Shedding Control Card Mechanism", "Heald Lifting Mode Selection Lever of Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Beating-Up and Weft Positioning Reed", "Weft Positioning Weft Pin", "Weft Cutting Device", "Dobby Performance Testing Equipment",
+            "Warp Separator"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Rapier Loom", "High-Speed Rapier Loom Model GA747",
+            "Warp Knitting Machine"
+        ],
+        "Process Parameters": [
+            "Weft Insertion Parameters",
+            "Warp Feeding Parameters",
+            "Electronic Take-Up Parameters",
+            "Start-Stop Parameters",
+            "Weft Storage Parameters",
+            "Temperature Parameters",
+            "Current Parameters",
+            "Digital Signal",
+            "Warp Shrinkage Rate",
+            "Main Shaft Rotational Speed",
+            "High-Low Pressure Time",
+            "Oil Pressure Value",
+            "Motor Thermal Protection Current",
+            "Tension Value Upper and Lower Limits",
+            "Brake Angle Alarm Upper Limit",
+            "Loom Rotational Speed",
+            "Single Working Time",
+            "Shutdown Times",
+            "Shutdown Time",
+            "Workshop Temperature",
+            "Workshop Humidity",
+            "Weft Twist 800-1000 Twists/m"
+        ],
+        "Energy Consumption Parameters": [
+            "Main Motor Overload Current Threshold",
+            "Slow Motor Overload Current Threshold",
+            "Fan Overload Current Threshold",
+            "Servo Driver Energy Consumption",
+            "Frequency Converter Energy Consumption",
+            "Motor Thermal Protection Current Setting Value",
+            "Brake Voltage",
+            "Brake Distance",
+            "Thermal Protection Relay Standby Energy Consumption 1-2W",
+            "Fan Operating Power 200-250W",
+            "Electronic Dobby Shedding Mechanism Energy Consumption Ratio 12%-15%",
+            "Warp Feeding and Take-Up Servo Motor Power Consumption per Hour 1.0-1.2kWh",
+            "Warp Knitting Machine Main Motor Power 2.0-2.5kW"
+        ],
+        "Transmission Components": [
+            "Loom Main Transmission Main Motor", "Transmission Commissioning Power Source - Slow Motor", "Warp Feeding and Take-Up Transmission Servo Motor", "Main Transmission Clutch", "Slow Transmission Clutch", "Weft Direction Transmission Clutch",
+            "General-Purpose Reduction Gearbox for Transmission", "Encoder Transmission Special Coupling", "Take-Up Transmission Shaft", "Warp Feeding Mechanism Transmission Shaft", "Loom Transmission Machine Roller",
+            "Transmission Gear", "Belt Transmission Mechanism for Transmission", "Ball Screw for Transmission", "Timing Belt for Transmission",
+            "Transmission Positioning Power Source - Stepper Motor", "Servo Reduction Gearbox for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission", "Belt Tensioning Device for Transmission",
+            "Transmission Electromagnetic Brake", "Main Transmission Clutch", "Slow Transmission Clutch", "Transmission Brake Device", "Main Transmission Power Motor", "Slow Transmission Auxiliary Motor",
+            "Transmission Support Roller", "Take-Up Transmission Crankshaft", "Warp Feeding Transmission Main Shaft", "Transmission Encoder Coupling"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Mini Pressure Gauge for Air Path Pressure Monitoring of Air Supply System", "Non-Return Valve for Air Path Anti-Backflow of Air Supply System",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System",
+            "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Electronic Dobby Actuator for Shedding Mechanism", "Dobby Shedding Mechanism", "Heald Frame Driving Component of Shedding Mechanism", "Shedding Connecting Rod for Shedding Mechanism Transmission", "Jacquard Needle of Shedding Mechanism",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission", "Shedding Control Electronic Dobby Machine",
+            "Shedding Monitoring Drop Wire", "Shedding Execution Heald Frame"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Servo Motor Control Driver", "Main Control Circuit Board", "Motor Frequency Converter Controller", "Electrical System Transformer", "DC Switching Power Supply", "Motion Detection Encoder",
+            "Position Detection Proximity Switch", "Warp Breakage Sensor", "Weft Condition Detector", "Yarn Tension Sensor", "Lubricating Oil Level Sensor", "Weaving Air Supply Fan",
+            "Hydraulic System Pressure Sensor", "Weft Storage Regulator", "Fabric Selvedge Twisting Mechanism", "Weft Selection Mechanism", "Weft Insertion Rapier Head", "Weft Receiving Rapier Head", "Yarn Tension Adjustment Roller",
+            "Warp Supporting Back Beam", "Fabric Formation Shed Mouth", "Comprehensive Status Sensor", "Electrical Thermal Protection Relay", "Actuator Driving Circuit", "On-Line Warp Cleaner", "Card Bracket"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "3D Flat Loom",
+            "Plastic Weaving Machine", "Plastic Weaving Machine Model PP-800",
+            "Toyota JAT600-190 Air-Jet Loom",
+            "Zucker Model S432 Sizing Machine"
+        ],
+        "Process Parameters": [
+            "Sizing Rate 8%-12%",
+            "Weaving Temperature 25-30℃",
+            "Weft Breaking Strength Parameter 300-350N",
+            "Finishing Process Temperature 60-80℃",
+            "Weft Feeding Speed 8-10m/min"
+        ],
+        "Energy Consumption Parameters": [
+            "Air Consumption per Action of Double-Stroke Cylinder 0.1-0.15m³", "Heald Lifting Cylinder Operating Energy Consumption Power 30-40W",
+            "Advantech Industrial Computer Operating Power 80-100W", "Moisture Regain Detection Device Power Consumption per Hour 0.2-0.3kWh",
+            "Rated Power of Over-Torque Start Motor 2.5-3.0kW",
+            "Air Groove Grinding Device Power Consumption per Hour 0.3-0.5kWh"
+        ],
+        "Transmission Components": [
+            "Over-Torque Motor for Transmission Start", "Electronic Motor for Warp Feeding Transmission", "Motor for Take-Up Transmission", "Reed Beating-Up Transmission Mechanism", "Gear Reduction Box for Transmission", "Trough Transmission Wheel",
+            "Sprocket for Transmission", "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission",
+            "Double-Stroke Transmission Cylinder", "Transmission Brake Device"
+        ],
+        "Air Supply System Components": [
+            "Double-Layer Reed Air Groove of Air Path of Air Supply System", "Air Path Pipeline", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Precision Filter", "Buffer Tank for Compressed Air Pressure Buffering of Air Supply System",
+            "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve", "Air Supply Control Solenoid Valve", "Main Weft Insertion Air Supply Nozzle",
+            "Auxiliary Weft Insertion Air Supply Nozzle"
+        ],
+        "Shedding Mechanism Components": [
+            "Heald Lifting Cylinder of Shedding Mechanism", "Heald Leveling Return Device of Shedding Mechanism", "General-Purpose Heald Lifting Return Spring of Shedding Mechanism", "Fixed Back Beam of Warp Tension Support Type of Shedding Mechanism",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism",
+            "Heald Lifting Drive Cylinder"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Weaving Status Monitoring Sensor", "Loom Main Control Industrial Computer", "Weaving Status Storage Unit", "Beating-Up and Yarn Guide Reed",
+            "Fabric Edge Control Side Spring", "Warp Middle Positioning Middle Spring", "Fabric Compression Roller", "Fabric Formation Shed Mouth", "Sizing Machine Guide Roller",
+            "Weaving Warp Yarn", "Weft Storage Cone", "On-Line Yarn Cleaner", "Electronic Warp Feeding Device", "Fabric Fixed Length and Width Control Device", "Air Groove Precision Grinding Device",
+            "Weaving Intelligent Model Training Equipment", "Yarn Moisture Regain Detection Device", "Yarn Elongation Control Device", "Sealing Buffer Rubber Liner", "Warp Tension Monitoring Sensor"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "GA731 Rapier Loom", "GA731-750 Extra-Wide Rapier Loom", "GA731-800 Extra-Wide Rapier Loom",
+            "GA731-750 Extra-Wide Rapier Loom",
+            "ZAX9100 Air-Jet Loom",
+            "Tsudakoma ZA-202 Air-Jet Loom",
+            "Picanol PAT Air-Jet Loom",
+            "Toyota JAT Air-Jet Loom",
+            "44-Inch Air-Jet Loom"
+        ],
+        "Process Parameters": [
+            "Fabric Width",
+            "Warp Feeding Amount Adjustment Range",
+            "Gap Between Moving Frame and Tension Sensor Connection Seat",
+            "Warp Tension Setting Value",
+            "Shed Movement Amount Setting",
+            "Beating-Up Density Setting",
+            "Crank Angle Range",
+            "Crank Angular Velocity",
+            "Rod Length Parameters",
+            "Deflection Angle Between Swing Arm and Double-Arm Rod",
+            "Heald Frame Guide Rail Offset",
+            "Heald Frame Speed Parameters",
+            "Heald Frame Acceleration Parameters",
+            "Warp Beam Control During Loom Shutdown",
+            "Beating-Up Frequency 300-350 times/min"
+        ],
+        "Energy Consumption Parameters": [
+            "Servo Motor Energy Consumption",
+            "Power Motor Energy Consumption",
+            "Shedding Mechanism Energy Consumption",
+            "Power Transmission Efficiency of Tie Rod Assembly",
+            "Swing Back Beam Transmission Energy Consumption Power 40-60W", "Take-Up Mechanism Power Consumption per Hour 0.8-1.0kWh",
+            "Beating-Up Mechanism Energy Consumption Ratio 20%-25%", "Weft Insertion Mechanism Air Consumption Loss Rate 5%-7%",
+            "Warp Feeding Device Energy Consumption Ratio 10%-12%"
+        ],
+        "Transmission Components": [
+            "Power Motor for Transmission", "Transmission Shaft for Loom Main Transmission", "Output Shaft of Right Warp Feeding Device", "Output Shaft for Left Warp Feeding Device Transmission", "Cam Transmission Mechanism",
+            "Eccentric Link Device", "Belt Transmission Mechanism", "Crank for Transmission", "Connecting Rod for Transmission", "Rocker for Transmission", "Swing Arm for Transmission", "Double-Arm Rod for Transmission",
+            "Clutch for Main Transmission", "Transmission Shaft for Loom Auxiliary Transmission", "Cycloidal Pinwheel Reducer for Transmission",
+            "Gear Motor for Transmission", "Transmission Positioning Power Source - Stepper Motor", "Servo Reducer for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission",
+            "Right Transmission Support Box", "Overall Machine Transmission Main Shaft", "Left Transmission Support Box", "Right Warp Feeding Transmission Output Shaft", "Left Warp Feeding Transmission Output Shaft", "Cam Mechanism for Transmission Control",
+            "Warp Feeding Transmission Worm Gear Box", "Eccentric Link Device for Transmission Conversion", "Spherical Plain Bearing for Transmission Connection", "Weft Transmission Beating-Up Mechanism",
+            "Weft Transmission Weft Insertion Mechanism", "Crank for Transmission Conversion", "Connecting Rod for Transmission Connection", "Swing Rocker for Transmission", "Swing Arm for Transmission", "Double Swing Double-Arm Rod for Transmission",
+            "Take-Up Transmission Cloth Roller", "Warp Feeding Transmission Warp Beam"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Primary Air Filter for Primary Filtration of Air Supply System Air Source", "Medium Efficiency Air Filter for Medium Filtration of Air Supply System Air Source",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System", "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Tie Rod Assembly of Shedding Mechanism", "Dobby Shedding Mechanism", "General-Purpose Heald Lifting Belt of Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Cam of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission",
+            "Shedding Control Dobby Machine", "Shedding Execution Heald Frame", "Guide Rail for Shedding Heald Frame"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "General-Purpose Connecting Tie Rod Assembly 1", "General-Purpose Connecting Tie Rod Assembly 2", "Component Locking Fixing Screw", "Mechanism Fixing Part", "Mechanism Movable Connecting Part", "Electronic Warp Feeding Control Unit",
+            "Servo Motor Control Driver", "Auxiliary Transmission Servo Motor", "Warp Tension Adjustment Swing Back Beam", "Yarn Tension Detection Sensor", "Warp Supporting Fixed Back Beam", "Motion Detection Encoder",
+            "Loom Main Electronic Control Box", "Tension Sensor Connection Seat", "Component Adjustment Moving Frame", "Swing Back Beam Support Base", "Back Beam Fixed Support Seat", "Loom Overall Support Frame",
+            "Weft Condition Detection Sensor", "Fabric Transmission Take-Up Mechanism", "Card Bracket"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Extra-Wide 3D Flat Fabric Loom",
+            "Wide-Space Interval Woven Fabric Loom",
+            "Five-Rapier Loom",
+            "Multi-Rapier Loom",
+            "Single-Layer Variable-Height Interval Fabric Loom",
+            "Promatex Tianma Loom",
+            "30-Layer 3D Loom", "25-Layer 3D Loom"
+        ],
+        "Process Parameters": [
+            "Fabric Width",
+            "Fabric Thickness",
+            "Polyurethane Hardness of Clamping Block",
+            "Compression Bolt Specification",
+            "Number of Warp Layers",
+            "Shedding Method",
+            "Weft Insertion Method",
+            "Weaving Speed",
+            "Main Shaft Rotational Speed",
+            "Distance Between Adjacent Column Yarns",
+            "Warp Density",
+            "Weft Density",
+            "Fabric Shrinkage Rate",
+            "Pile Warp Ratio",
+            "Reed Swing Range",
+            "Conjugate Cam Follower Parameters",
+            "Motion Law of Drag Yarn Rod",
+            "Fuzzy PID Control Parameters",
+            "Warp Tension Measurement Value", "Number of Warp Layers Setting 8-10 Layers"
+        ],
+        "Energy Consumption Parameters": [
+            "Linear Module Operating Power 150-200W", "Cutting Component Power Consumption per Hour 0.5-0.7kWh",
+            "Conveyor Roller Transmission Energy Consumption Power 30-45W", "JZHL-1 Warp Tension Sensor Standby Energy Consumption 2-3W",
+            "Traction Mechanism Transmission Energy Consumption Power 50-70W"
+        ],
+        "Transmission Components": [
+            "Transmission Power Source - Drive Motor", "Transmission Adjustment Power Source - Servo Motor", "Drive Chain for Transmission", "Conveyor Chain for Transmission", "Ball Screw for Transmission", "General-Purpose Coupling for Transmission", "Loom Cam Transmission Shaft", "Reed Seat Transmission Shaft",
+            "Double-Direction Screw for Transmission", "Gear Reducer for Transmission", "Long Rocker for Transmission", "Short Rocker for Transmission", "Sprocket Wheel", "Gear Set for Transmission",
+            "Belt Tensioning Device for Transmission", "Sprocket for Transmission", "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission",
+            "Transmission Drive Motor", "Power Drive Chain", "Material Conveyor Chain", "Transmission Conveyor Roller", "Transmission Guide Screw", "Beating-Up Conjugate Cam Mechanism for Transmission",
+            "Swing Arm for Transmission", "Camshaft for Transmission Control", "Beating-Up Transmission Reed Seat Shaft", "Power Transmission Mechanism", "Weft Transmission Weft Feeding Rapier", "Warp Feeding Transmission Warp Beam"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Exhaust Valve for Air Path of Air Supply System",
+            "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve", "Pneumatic Drive Cylinder"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Warp Tension Support Type Fixed Back Beam of Shedding Mechanism", "Heald Leveling Return Device of Shedding Mechanism", "Heald Leveling Spring of Shedding Mechanism", "Shedding Heald Frame Sliding Guide Rail",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft for Cam Transmission of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism",
+            "Shedding Control Dobby Mechanism", "Shedding Execution Heald Frame"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Fabric Upper Clamping Device", "Fabric Lower Clamping Device", "Component Compression Fixing Bolt", "Mechanism Support Block", "Component Locking Fixing Bolt", "Component Motion Guide Rail", "Linear Motion Module",
+            "Fabric Cutting Component", "Buffer Return Spring", "Material Compression Pressure Plate", "Component Guide Column", "Roller Support Fixed Seat", "Warp Conveyor Mechanism Before Shed", "Warp Conveyor Mechanism After Shed",
+            "Material Feeding Mechanism", "Material Traction Mechanism", "Yarn Traction Guide Rod", "Z₁ Type Warp Constant Tension Mechanism", "Z₂ Type Warp Constant Tension Mechanism", "Yarn/Fabric Cutting Device",
+            "Beating-Up Guide Reed", "Reed Support Reed Seat", "JZHL-1 Warp Tension Detection Sensor", "Labview Warp Tension Data Acquisition Device", "Motion State Detection Encoder",
+            "Fabric Thickness Detection Sensor", "Warp Tension Adjustment Swing Back Beam", "Warp Supporting Fixed Back Beam"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Five-Rapier Loom",
+            "High-Speed Rapier Loom",
+            "High-Speed Air-Jet Loom",
+            "Picanol OptiMax4-R190 Rapier Loom",
+            "Karbeer MPB3.0 Rapier Loom",
+            "Optima 500 3D Loom",
+            "Carbon Fiber 3D Angular Interlock Loom",
+            "3D Multi-Rapier Loom", "3D Multi-Rapier Loom Model 300"
+        ],
+        "Process Parameters": [
+            "Weft Insertion Stroke: 1250mm",
+            "Loom Rotational Speed: 60 rpm, 297r/min, 322r/min, 367r/min, 400r/min, 450r/min, 500r/min, 666r/min, 750r/min",
+            "Rapier Motion Law: Modified Trapezoidal Acceleration, Sinusoidal Acceleration, Quintic Polynomial Acceleration",
+            "Cam Angle Distribution: Main Cam, Secondary Cam, Thread Pressing Cam",
+            "Weft Tension: Initial Tension, Stabilized Tension After Compensation 6N",
+            "Rapier Dimension Parameters: Before Optimization, After Optimization",
+            "Beating-Up Rocker Shaft Swing Angle: Maximum 24°",
+            "Cam Base Circle Radius: Main/Secondary Cam Base Circle Radius 40mm, Thread Pressing Cam Base Circle Radius 30mm",
+            "Roller Parameters: Radius 10mm, Roller Diameter 20mm",
+            "Center Distance: Cam and Rocker Center Distance 60mm, Thread Pressing Cam Center Distance 100mm",
+            "Rocker Length: Main/Secondary Cam Rocker 40mm, Thread Pressing Cam Rocker End Swing Length 65mm, 92.5mm",
+            "Simulation Parameters: Simulation Duration 0.5s, Number of Steps 1000, Integrator GSTIFF, Integration Format SI2, Contact Stiffness 1460.814N/m, Damping Coefficient 50N·s/mm",
+            "Number of Warp Layers: 6 Layers",
+            "Number of Weft Layers: 5 Layers",
+            "Fabric Width: 1200mm, Maximum 3000mm", "Rapier Return Speed 10-12m/s"
+        ],
+        "Energy Consumption Parameters": [
+            "Impact of Rapier Optimization on Energy Consumption: After optimization, the maximum deformation of the rapier is reduced by 22.8%, the maximum stress is reduced by 21.9%, and the mass is increased by 24.1%",
+            "Modal Energy Consumption of Beating-Up Rocker Shaft: First 6 natural frequencies to avoid resonance and reduce additional energy consumption",
+            "Energy Consumption Difference of Rigid-Flexible Coupling: When considering the flexibility of the beating-up rocker shaft, the fluctuation of the bearing force at the end of the box seat shaft is smoother, and the energy consumption loss is reduced by 10%~15%",
+            "Cam Pair Wear Energy Consumption: For every 0.01mm increase in the surface wear of the cam pair, the energy consumption of the beating-up mechanism increases by 0.8%~1.2%",
+            "Tension Compensation Energy Consumption: The energy consumption fluctuation during the tension adjustment of the spring pressure plate is ≤5%, and the stable energy consumption of the weft tension after compensation is reduced by 8%",
+            "Loom Speed Energy Consumption: At 750r/min, the energy consumption of the beating-up mechanism accounts for more than 50% of the total machine energy consumption; at 60 rpm, the weft insertion energy consumption of the five-rapier is 60% lower than that of the single rapier",
+            "Gearbox Operating Energy Consumption Power 100-130W", "Copper Sleeve Friction Energy Consumption Loss Rate 4%-6%",
+            "Rapier Head Motion Energy Consumption 0.8-1.0J/time", "Timing Belt Transmission Energy Consumption Ratio 3%-5%",
+            "Gear Rack Transmission Energy Consumption Loss Rate 3%-5%"
+        ],
+        "Transmission Components": [
+            "Rocker Shaft for Beating-Up Mechanism Transmission", "Loom Cam Transmission Shaft", "Servo Motor", "Gearbox for Transmission", "Gear Rack for Transmission", "Timing Belt for Transmission", "Clutch for Main Transmission",
+            "Sliding Bearing for Transmission", "Electromagnetic Clutch for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission", "Gear Motor for Transmission", "Transmission Positioning Power Source - Stepper Motor",
+            "Servo Reducer for Transmission", "Five Groups of Weft Insertion Transmission Rapiers", "Conjugate Cam for Transmission Control", "Swing Arm for Transmission", "Gear Rack Mechanism for Transmission", "Transmission Gearbox", "Beating-Up Transmission Rocker Shaft",
+            "Transmission Rolling Roller", "Overall Machine Transmission Main Shaft", "Transmission Support Bearing", "Gearbox Transmission Output Shaft", "Transmission Camshaft", "Beating-Up Transmission Reed Seat Shaft",
+            "Transmission Timing Belt", "Warp Feeding Transmission Control Device", "Warp Feeding Transmission Warp Beam"
+        ],
+        "Air Supply System Components": [
+            "Auxiliary Nozzle of Air Path of Air Supply System", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Air Path Pipeline of Air Supply System", "Main Air Tank for Air Storage of Main Air Path of Air Supply System",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System",
+            "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System", "Main Weft Insertion Air Supply Nozzle", "Auxiliary Weft Insertion Air Supply Nozzle"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Warp Tension Support Type Fixed Back Beam of Shedding Mechanism", "Opening Tie Rod for Power Transmission of Shedding Mechanism",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission", "Shedding Control Dobby Mechanism", "Shedding Execution Heald Frame"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Component Compression Spring Pressure Plate", "Weft Breakage Self-Stop Device", "Yarn Tension Compensation Device", "Rapier Fixed Mounting Plate", "Component Motion Guide Rail", "Guide Rail Sliding Block",
+            "Wear-Resistant Copper Sleeve for Transmission", "Rapier Motion Guide Plate", "Fabric Formation Shed Mouth", "Beating-Up Guide Reed", "Yarn Supporting Yarn Frame", "Component Movable Hinge", "Mechanism Virtual Support Component", "JZHL-1 Warp Tension Detection Sensor",
+            "Labview Warp Tension Data Acquisition Device", "Rapier Weft Insertion Head", "Rapier Sliding Guide Rail", "Warp Tension Adjustment Swing Back Beam", "Warp Supporting Fixed Back Beam",
+            "Motion State Detection Encoder", "Rapier Lubrication and Maintenance Device", "Fabric Transmission Take-Up Mechanism", "Transmission Box Seat", "Card Bracket"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "High-Speed Double Rapier Loom", "High-Speed Double Rapier Loom Model GS980",
+            "190cm Width Air-Jet Loom",
+            "Clearance-Containing Rapier Loom",
+            "Picanol OptiMax-i Rapier Loom",
+            "Itema R9500 Rapier Loom"
+        ],
+        "Process Parameters": [
+            "Air Bearing Core Parameters: Throttle Hole Diameter 0.4mm, Air Film Thickness 0.015mm, Aspect Ratio 3, Air Supply Pressure Range 0.05~0.185MPa, Air Supply Flow Parameter 10-15L/min, Bearing Capacity Fitting Formula F=-748.028P²+2929.768P+129.624",
+            "Loom Rotational Speed: Maximum 400r/min, 1200r/min, 200~400r/min, Maximum Rapier Wheel Speed 120r/min, 1500r/min, Rapier Wheel Rotational Angular Velocity 10-15rad/s",
+            "Rapier Parameters: Stroke 950mm, Material Carbon Fiber",
+            "Four-Bar Beating-Up Parameters: Crank Length 36mm, Connecting Rod Length 75mm, Rocker Length 145mm, Center Distance Between Crankshaft and Rocker Shaft 160mm, Reed Seat Angular Displacement Approximately 28°",
+            "Conjugate Cam Parameters: Base Circle Radius 90mm, Roller Radius 30mm, Center Distance 128mm, Push Stroke Angle/Return Stroke Angle 70°, Rocker Length 60mm, Rocker Included Angle 120°, Follower Motion Law is Sine-Cosine Combined Acceleration",
+            "Contact Parameters: Contact Stiffness 1.0×10⁸N/m, Damping Coefficient 5.0×10³N·s/m, Contact Force Exponent 1.5, Penetration Depth 1.0×10⁻³m, Dynamic Friction Coefficient 0.05, Static Friction Coefficient 0.08",
+            "Beating-Up Resistance and Equivalent Torque: Beating-Up Resistance F=1663kg, Equivalent Torque M(t)=3226.89N·m, Beating-Up Resistance Variables 500N/700N/900N",
+            "Clearance Parameters: Minimum Clearance 0<r≤0.1mm, Larger Clearance 0.1mm<r≤0.9mm, Restitution Coefficient 0.7, Initial Collision Velocity 1m/s",
+            "Simulation Parameters: ADAMS Simulation Time 0.2s/0.15s, Step Size 1000; Fluent Mesh Quality Average 0.7, Average Aspect Ratio 2.3; ANSYS Box Mesh Size 4mm",
+            "Weft Handover Performance: Inching Weft Insertion 40 Times, Continuous Weft Insertion 2h, Weft Handover Success Rate 92%~96%",
+            "Air Bearing Air Supply Flow 12-16L/min"
+        ],
+        "Energy Consumption Parameters": [
+            "Optimization Effect of Weft Insertion Transmission Box: Mass reduced by 7.63%, Maximum Deformation reduced by 32.02%, Maximum Stress reduced by 19.51%",
+            "Air Bearing Energy Consumption Correlation: Air consumption is moderate when the throttle hole diameter is 0.4mm, energy consumption is stable when the air supply pressure is 0.05~0.1MPa, avoiding excessive gear wear",
+            "Rapier Optimization Energy Consumption: Deformation in T₀ stage 4.92mm→4.9mm, Deformation in T₁ stage 1.18mm→0.81mm, reducing vibration energy consumption",
+            "Speed and Driving Torque: The peak driving torque is about 140N·m at 400r/min, and the peak decreases at 200r/min; for every 100r/min increase in speed, the fluctuation amplitude of the driving torque increases by 2.25%",
+            "Reed Inertial Force: The fluctuation amplitude is 293.11N at 400r/min and 88.45N at 200r/min; the increase in inertial force will lead to an increase in weft breakage rate",
+            "Material Energy Consumption Difference: The driving torque of carbon steel is about 1.57 times that of aluminum alloy, and magnesium alloy has lower energy consumption than aluminum alloy; aluminum alloy is preferred",
+            "Clearance Energy Consumption Impact: When r>0.1mm, the bearing contact collision force exceeds 25000N, the frame impact load exceeds 40000N, and the energy consumption loss increases by 15%~20%",
+            "Equivalent Torque Energy Consumption: When the beating-up resistance is 3226.89N·m, the energy consumption is stable without obvious fluctuation",
+            "Height Adjustment Screw Transmission Energy Consumption Power 25-35W", "Bevel Gear 1/2 Transmission Energy Consumption Loss Rate 5%-7%",
+            "Air Bearing Air Consumption per Hour 5-8m³", "Four-Bar Beating-Up Mechanism Energy Consumption Ratio 25%-30%",
+            "Swing Arm Shaft Transmission Energy Consumption Power 40-60W"
+        ],
+        "Transmission Components": [
+            "Gear for Main Shaft Transmission", "Large Gear Reducer for Transmission", "Conjugate Cam for Transmission", "Loom Cam Transmission Shaft", "Swing Arm for Transmission", "Swing Arm Transmission Shaft", "Connecting Rod for Transmission", "Connecting Rod Transmission Shaft",
+            "Sector Wheel for Rocker Transmission", "Cylindrical Gear for Transmission", "Cylindrical Gear Shaft for Transmission", "Bevel Gear 1/2", "Rapier Wheel for Rapier Transmission", "Crankshaft for Transmission",
+            "Rocker Shaft for Loom Transmission", "Worm Reducer for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission", "Belt Tensioning Device for Transmission", "Sprocket for Transmission", "Gearbox for Transmission",
+            "Carbon Fiber Weft Insertion Transmission Rapier", "Rapier Transmission Rapier Wheel", "Height Adjustment Transmission Screw", "Screw Transmission Height Adjustment Nut", "Weft Insertion Transmission Support Box", "Conjugate Cam for Transmission Control",
+            "Swing Arm for Transmission", "Connecting Rod for Transmission Connection", "Transmission Rocker Sector Wheel", "Transmission Cylindrical Gear", "Transmission Bevel Gear (Driving)", "Transmission Bevel Gear (Driven)", "Main Shaft Transmission Gear",
+            "Transmission Reducer Large Gear", "Transmission Camshaft", "Swing Arm Support Transmission Shaft", "Gear Support Transmission Shaft", "Connecting Rod Connection Transmission Shaft", "Transmission Wear-Reducing Roller", "Beating-Up Transmission Main Shaft",
+            "Overall Machine Transmission Main Shaft", "Transmission Conversion Crankshaft", "Beating-Up Transmission Connecting Rod", "Connecting Rod Transmission Bearing", "Crankshaft Transmission Bearing", "Beating-Up Transmission Four-Bar Mechanism"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline of Air Supply System", "Pressure Valve for Air Path Pressure Control of Air Supply System", "Total Air Supply Pressure Adjustment Device of Air Supply System", "Precision Filter",
+            "Auxiliary Air Tank for Air Storage of Auxiliary Air Path of Air Supply System", "Pressure Sensor for Air Path Pressure Monitoring of Air Supply System",
+            "Compressed Air Dryer", "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve",
+            "Air Film Support Air Bearing", "Air Supply Pressure Control Valve", "Air Film Pressure Detection Sensor"
+        ],
+        "Shedding Mechanism Components": [
+            "Electronic Dobby Actuator for Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Warp Tension Support Type Fixed Back Beam of Shedding Mechanism", "Heald Leveling Return Device of Shedding Mechanism", "Electronic Drop Wire Sensor of Shedding Mechanism", "Shedding Controller",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Component Motion Guide Rail", "Component Clearance Adjustment Nut", "Bearing Mounting Hole Seat", "Reed Support Reed Seat", "Beating-Up Guide Reed", "Reed Seat Support Foot",
+            "Mechanism Balance Counterweight", "Component Fixed Press Strip", "3D Printed Air Bearing Air Cavity", "Air Flow Control Orifice Plate"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Rapier Loom",
+            "Interval Fabric 3D Loom",
+            "Interval Fabric Double Rapier Loom", "Interval Fabric Double Rapier Loom Type YTS15",
+            "Loom with Conjugate Cam and Four-Bar Combined Parallel Beating-Up Mechanism",
+            "Lenardo 9700E High-Speed Flannel Rapier Loom",
+            "Dornier 3D Loom",
+            "Optima 3D Series 500 3D Loom",
+            "JA11-VC High-Grade Flannel Air-Jet Loom",
+            "YTS13 3D Double-Layer Rapier Loom",
+            "Carbon Fiber 3D Loom"
+        ],
+        "Process Parameters": [
+            "Core Parameters of Beating-Up Mechanism: Swing Arm Length 290mm, Connecting Rod Length 110mm, Rocker Length 200mm, Swing Arm Angular Stroke 33.49°, Cam Push Stroke Angle 90°, Cam Return Stroke Angle 90°, Reed Horizontal Stroke 160mm, Distance from Reed Front Dead Center to Fabric Pressure Plate Front End 10mm",
+            "Cam Rotational Speed Parameters: 80~300r/min, Recommended Maximum 180r/min, Avoid 260r/min, 343r/min, 430r/min",
+            "Shedding Mechanism Parameters: Heald Frame Displacement 80mm, Swing Arm Angle 90°, Heald Frame Motion Law Sinusoidal Acceleration, Heald Frame Lifting Time 0.2-0.3s, Servo Motor Speed Adapted to Main Shaft Speed",
+            "Simulation Parameters: ADAMS Simulation Time 0.5s/0.2s; Gear Meshing Frequency f=nz/60",
+            "Servo Motor Shedding Speed Parameter 50-70r/min", "Cam Return Speed 60-80r/min"
+        ],
+        "Energy Consumption Parameters": [
+            "Speed Energy Consumption: Energy consumption is stable when cam ≤180r/min; Energy consumption fluctuates by 15%~20% when exceeding 180r/min",
+            "Box Body Energy Consumption: After optimization, mass is reduced by 7.63%, and operating energy consumption is reduced by 6%~8%",
+            "Spring Damping Unit Energy Consumption Loss Rate 2%-3%", "Flexible Foundation Vibration Energy Consumption 10-15W",
+            "Dynamic Vibration Absorber Operating Power 8-12W", "Pile Warp Beam Driving Energy Consumption Power 60-80W",
+            "Flexible Foundation Vibration Damping Energy Consumption Loss Rate 1%-2%"
+        ],
+        "Transmission Components": [
+            "Loom Cam Transmission Shaft", "Swing Arm Transmission Shaft", "Rocker Transmission Shaft", "Reduction Gear for Transmission", "Flywheel for Transmission", "Servo Motor", "Connecting Rod for Transmission", "Swing Arm for Transmission", "Rocker for Transmission",
+            "Pulley for Transmission", "Transmission Shaft for Loom Auxiliary Transmission", "Rigid Coupling for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission",
+            "Gear Motor for Transmission", "Conjugate Cam for Transmission Control", "Swing Arm for Transmission", "Connecting Rod for Transmission Connection", "Swing Rocker for Transmission", "Push Rod for Transmission", "Wear-Reducing Roller for Transmission", "Beating-Up Transmission Support Box",
+            "Drive Arm for Transmission", "Heald Frame Connecting Rod for Shedding Transmission", "Universal Connecting Rod for Transmission", "Drive Servo Motor for Transmission", "Fabric Transmission Take-Up Device", "Ground Warp Transmission Warp Beam", "Pile Warp Transmission Warp Beam", "Overall Machine Transmission Main Shaft",
+            "Transmission Camshaft", "Swing Arm Transmission Support Shaft", "Rocker Transmission Support Shaft", "Reduction Gear for Transmission", "Balance Flywheel for Transmission", "Balance Counterweight Block for Transmission", "Buffer Damping Unit for Transmission", "Dynamic Vibration Absorber for Transmission"
+        ],
+        "Air Supply System Components": [
+            "Mini Air Storage Tank for Compressed Air Storage of Air Supply System", "Simple Air Path Pipeline of Air Supply System", "Mini Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System",
+            "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Servo Motor Shedding Mechanism", "Card Control Mechanism of Shedding Mechanism", "Card Sensor of Shedding Mechanism", "Servo Shedding Controller", "Servo Motor Mechanism for Shedding Control", "Shedding Execution Heald Frame",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Beating-Up Guide Reed", "Reed Support Reed Seat", "Yarn Tension Adjustment Device", "Warp Separating Device", "Yarn Tension Compensation Roller", "Fabric Guide Roller", "Card Bracket",
+            "Position/Thickness Detection Laser Sensor", "Fabric Compression Pressure Plate", "Component Fixing Bolt (M16x50)", "Equipment Support Flexible Foundation", "Conjugate Cam Lubrication and Maintenance Device"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Rapier Loom",
+            "RF20N Rapier Loom", "RF20N-190 Rapier Loom",
+            "OptiMax-i Rapier Loom",
+            "BestMax Rapier Loom",
+            "R9500 Rapier Loom",
+            "GS980 F Rapier Loom",
+            "Dornier P2 Series Rapier Loom",
+            "CG6500-F Towel Rapier Loom",
+            "VSi-22 Double-Layer Double Rapier Loom",
+            "Rapier Loom with Electronic Weft Insertion Mechanism",
+            "High-Speed Rapier Loom"
+        ],
+        "Process Parameters": [
+            "Core Weft Insertion Parameters: Width 1900mm/2600mm/3800mm, Weft Handover Stroke D=50mm, Off-Width Stroke Sout=120mm/140mm/160mm, Maximum Rapier Displacement Smax=Sout+0.5W+D, Rapier reaches maximum displacement when main shaft is at 180°",
+            "Weft Handover Parameters: Offset Coefficient e=0.5, Relative Speed Fluctuation in Handover Section ≤5%, Weft Handover Time 0.08-0.12s",
+            "Core Beating-Up Parameters: Rotational Speed 200~800r/min, Cam Push Stroke Angle 71°, Return Stroke Angle 71°, Dwell Angle 220°~255°, Maximum Rocker Swing Angle 28.579°, Main Cam Polar Radius 117.792mm/80mm, Secondary Cam Polar Radius 117.5mm/80.245mm, Roller Diameter 75mm, Rocker Length 77.5mm, Rocker Included Angle 109°, Center Distance Between Cam and Rocker 165.5mm",
+            "Dynamic Reed Parameters: Before Optimization Amax=10528.48rad/s²/Amin=-9265.03rad/s²; After Optimization Amax=8475.18rad/s²/Amin=-9266.70rad/s², Beating-Up Inertial Force Q=J×A",
+            "Transmission Parameters: Transmission Shaft Torsional Resistance 20Nm→16Nm, Gear Meshing Frequency f=nz/60"
+        ],
+        "Energy Consumption Parameters": [
+            "Material Energy Consumption: The driving torque of magnesium alloy components is 22.59% lower than that of aluminum alloy",
+            "Transmission Energy Consumption: Transmission shaft torsional resistance is reduced by 20%, and energy consumption is reduced by 20%",
+            "Speed Energy Consumption: The driving torque fluctuation at 500r/min is 2.26% higher than that at 400r/min; the beating-up energy consumption accounts for more than 50% of the total machine at 750r/min",
+            "Vibration Energy Consumption: Bolts from 4→8, additional dynamic vibration absorber",
+            "Flexible Component Energy Consumption: The energy consumption of flexible reed is stable at 400r/min; the energy consumption fluctuates by 20%~25% when exceeding 600r/min",
+            "Bevel Gear Transmission Energy Consumption Power 40-50W", "Rapier Wheel Energy Consumption per Hour 0.3-0.5kWh",
+            "Jacquard Machine Operating Power 1.5-2.0kW", "Weft Handover Device Energy Consumption Ratio 2%-4%", "Bevel Gear Lubrication Energy Consumption Loss Rate 2%-3%"
+        ],
+        "Transmission Components": [
+            "Transmission Shaft for Loom Main Transmission", "Conjugate Cam Transmission Shaft for Loom", "Swing Shaft for Transmission", "Crank for Transmission", "Connecting Rod for Transmission", "Rocker for Transmission", "Swing Arm for Transmission", "Pinion Gear/Ring Gear for Transmission",
+            "Bevel Gear for Transmission", "Transmission Adjustment Power Source - Servo Motor", "Reduction Gear for Transmission", "Brake Disc for Transmission Brake", "General-Purpose Coupling for Transmission", "Timing Belt for Transmission", "Bearing for Rapier Transmission Mechanism", "Bevel Gear Shaft for Transmission",
+            "Transmission Positioning Power Source - Stepper Motor", "Servo Reducer for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission", "Belt Tensioning Device for Transmission", "Transmission Drive Servo Motor", "Transmission Meshing Pinion",
+            "Transmission Meshing Ring Gear", "Transmission Conversion Crank", "Transmission Connection Connecting Rod", "Transmission Swing Rocker", "Transmission Steering Bevel Gear", "Weft Insertion Transmission Rapier", "Weft Insertion Transmission Rapier Head", "Transmission Articulated Four-Bar Mechanism", "Transmission Gear Mechanism",
+            "Transmission Control Conjugate Cam", "Transmission Wear-Reducing Roller", "Transmission Swing Arm", "Beating-Up Transmission Reed Seat Foot", "Beating-Up Transmission Reed Seat", "Beating-Up Transmission Reed", "Beating-Up Transmission Swing Shaft", "Transmission Wear-Reducing Roller", "Rapier Transmission Guide Plate",
+            "Weft Insertion Transmission Rapier Belt", "Rapier Belt Transmission Channel", "Fabric Transmission Take-Up Device", "Ground Warp Transmission Warp Beam", "Pile Warp Transmission Warp Beam", "Transmission Drive Arm", "Transmission Heald Frame Connecting Rod", "Transmission Universal Connecting Rod", "Weft Insertion Transmission Weft Handover Device",
+            "Beating-Up Transmission Swing Shaft Assembly", "Transmission Conjugate Camshaft Assembly", "Overall Machine Transmission Main Shaft", "Weft Insertion Transmission Rapier Belt Tensioning Device"
+        ],
+        "Air Supply System Components": [
+            "Standard Air Storage Tank for Compressed Air Storage of Air Supply System", "Leak-Proof Special Air Pipe for Air Path of Air Supply System", "Precision Pressure Regulating Valve for Air Path of Precision Air Supply System", "Electronic Dobby Mechanism for Shedding Control", "Jacquard Machine for Shedding Control", "Drop Wire Device for Shedding Monitoring",
+            "Compressed Air Dryer", "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve", "Auxiliary Swing Back Beam for Shedding", "Auxiliary Fixed Back Beam for Shedding"
+        ],
+        "Shedding Mechanism Components": [
+            "Electronic Dobby Actuator for Shedding Mechanism", "Servo Motor Shedding Mechanism", "Heald Leveling Return Device of Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Warp Tension Support Type Fixed Back Beam of Shedding Mechanism",
+            "Jacquard Machine Needle Bed of Shedding Mechanism", "Jacquard Controller", "Shedding Execution Heald Frame",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Component Motion Guide Rail Beam", "Component Motion Fixed Guide Rail", "Yarn Tension Adjustment Device", "Warp Separating Device", "Yarn Tension Compensation Roller", "Fabric Guide Roller", "Yarn Tension Detection Sensor"
+        ]
+    },
+    {
+            "Weaving Machine Models": [
+                "Somet MythosTEC Air-Jet Loom",
+                "Picanol OMNI-plus Air-Jet Loom",
+                "Toyota JAT710 Air-Jet Loom",
+                "Tsudakoma ZAX-N Air-Jet Loom",
+                "Diamond Wire Mesh Weaving Machine", "Diamond Wire Mesh Weaving Machine Type DW-500",
+                "PS209e-190 Air-Jet Loom",
+                "ZA203-280 Air-Jet Loom",
+                "ZAX-190 Air-Jet Loom",
+                "CA082 Air-Jet Loom",
+                "ZAX-e190 Air-Jet Loom",
+                "ZA205i-190 Air-Jet Loom",
+                "ZA203-190 Air-Jet Loom",
+                "JA610-190 Air-Jet Loom",
+                "CA082-190-6C2C-E Air-Jet Loom",
+                "JA Type Air-Jet Loom"
+            ],
+            "Process Parameters": [
+                "Main Nozzle Pressure: Around 0.4MPa",
+                "Auxiliary Nozzle Pressure: Main Nozzle Pressure + 0.05~0.1MPa",
+                "Auxiliary Nozzle Installation Angle: Injection Angle α≈8°, Spray Direction Angle β≈5°",
+                "Auxiliary Nozzle Spacing: 60~80mm",
+                "Auxiliary Nozzle Lead Angle: 10°~20°",
+                "Air Compressor Frequency Conversion Parameters: Minimum Operating Frequency 20Hz, PID Regulation Proportional Gain 2.5, Integral Gain 0.5",
+                "Zoned Air Conditioning Parameters: Working Area Relative Humidity ≥75%, Operating Area Relative Humidity 60%~65%",
+                "RTC Weft Real-Time Control Parameters: Only Program Pressure and Time, Air Consumption Reduced by 10%~40%",
+                "Diamond Wire Mesh Weaving Machine Parameters: Flat Plate Rotational Speed n=550r/min, Size b=7mm/h=50mm, Steel Wire Diameter d=4mm, Pitch s=100mm, Curvature Radius R=2.5d, Yield Limit σₛ=400MPa, Service Factor k_A=1.15, Transmission Efficiency η=0.87, Friction Coefficient f=0.2, Compression Zone Number m=6",
+                "CA082-190-6C2C-E Loom Parameters: Vehicle Speed 600r/min±10r/min, Warp/Weft Yarn T/R14.6tex/2×C29.2tex, Warp/Weft Density 32.4 ends/cm×22.8 picks/cm, Width 170cm, Weft Insertion Timing 60°, Weft Insertion Time Interval 80°, Auxiliary Nozzle Time 68~96°",
+                "JA Type Main Nozzle Parameters: Injection Pipe Length 120mm, Inner Diameter 8mm, Air Supply Pressure 0.05~0.45MPa, Reynolds Number Re=3000~1.28×10⁵, On-Way Resistance Coefficient λ=1.68×10⁻²",
+                "Leakage Detection Parameters: Pressure 0.517~0.612MPa, Leakage Volume Range 0~1000L/min, Repeat Measurement 3 Times and Take Average Value, Workshop Temperature 32℃",
+                "Leakage Volume Fitting Formula: Q=28.49286+889.54762ΔP, Q=68.91434Δt-35.71044",
+                "Power Consumption Fitting Formula: Q'=0.171+5.325ΔP, Q'=0.41254Δt-0.21334",
+                "Steel Wire Weaving Speed 5-7m/min"
+            ],
+            "Energy Consumption Parameters": [
+                "Air Compressor Energy Consumption Ratio: Accounts for more than 90% of the total electrical energy of the air supply system",
+                "Pressure Drop Energy Consumption Impact: For every 0.01MPa increase in pressure drop, power consumption increases by 0.3%~0.5%",
+                "Ambient Temperature Energy Consumption Impact: For every 11℃ increase in air compressor room temperature, compression efficiency decreases by 3%; at 40℃, efficiency is 8.6% lower than at 25℃",
+                "Auxiliary Nozzle Air Consumption Ratio: Accounts for 70% of total air consumption, main + auxiliary nozzles account for 90% of weft insertion system air consumption",
+                "Energy Saving from Frequency Conversion Transformation: Handan Shengmian Textile Air Compressor Saves 8.4×10⁵kW·h of Electricity Annually After Frequency Conversion",
+                "Sumo Switched Reluctance Motor Energy Consumption: 10% lower than traditional clutch + brake drive, and another 10%+ saving with oil cooling",
+                "RTC System Air Consumption: Reduced by 10%~40%",
+                "Diamond Wire Mesh Weaving Machine Energy Consumption: Wire Feeding Energy Consumption P₁=1.323kW, Plastic Deformation Energy Consumption P₂=0.491kW, Friction Energy Consumption P₃=0.689kW, Inclined Plane Ejection Energy Consumption P₄=0.922kW, Total Energy Consumption P=4.527kW",
+                "CA082 Loom Energy Consumption: 1 Drag 5 + Type A Auxiliary Nozzle Minimum Air Consumption 835L/min, 1 Drag 3 + Type A 810L/min, Type B 780L/min, Type C 755L/min",
+                "Single Loom Energy Consumption: When producing plain fine cloth, air consumption is 70.0m³/h, converted to electricity 5.49kW, single unit annual power consumption 3.458×10⁴kW·h, total power consumption of 24 units 82.99×10⁴kW·h, annual electricity cost saving 79,500 yuan",
+                "JA Type Main Nozzle Energy Consumption: At air supply pressure 0.4MPa, total pressure drop 0.2946MPa, on-way resistance pressure drop 0.0782MPa, local resistance pressure drop 0.2164MPa, outlet flow velocity 320m/s",
+                "Leakage Energy Consumption Loss: PS209e-190 Type Single Unit Annual Extra Power Consumption 4186kW·h, ZAX-e190 Type 3002kW·h, CA082 Type Over 3188kW·h, Annual Workshop Leakage 2.3×10⁷m³, Economic Loss 3.22435 Million yuan",
+                "Front/Rear Steel Wire Tension Energy Consumption Loss Rate 3%-4%",
+                "Sleeve Transmission Energy Consumption Power 30-40W", "SMC Flow Meter Energy Consumption 1-2W", "Pressure Regulating Box Air Consumption Loss Rate 2%-3%",
+                "Sleeve Lubrication Energy Consumption Loss Rate 1%-2%"
+            ],
+        "Transmission Components": [
+            "Transmission Power Source - Sumo Switched Reluctance Motor", "General-Purpose Clutch for Transmission", "Flywheel for Transmission", "Main Shaft Mechanism", "Main Motor for Main Transmission of Diamond Wire Mesh Weaving Machine",
+             "Transmission Main Shaft of Diamond Wire Mesh Weaving Machine", "Gear for Transmission of Diamond Wire Mesh Weaving Machine", "Weaving Roller for Transmission of Wire Mesh Weaving Machine", "Chain for Mesh Sheet Transmission",
+            "Sprocket for Transmission", "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission"
+        ],
+        "Air Supply System Components": [
+            "Precision Filter", "Oil Separator for Oil Separation of Air Path of Air Supply System", "Separator for Impurity Separation of Compressed Air of Air Supply System", "Air Collection and Transmission Pipeline of Air Path of Air Supply System", "Air Supply Pressure Detection Sensor", "Anemometer for Air Supply Wind Speed Detection",
+            "General Pipe Fitting for Air Path of Air Supply System", "Pipeline Valve for On-Off Control of Air Path of Air Supply System", "Pressure Sensor for Air Path Pressure Monitoring of Air Supply System", "Overpressure Relief Valve for Air Path of Air Supply System", "Pressure Reducing Valve for Auxiliary Nozzle Air Path of Air Supply System", "Main Air Tank for Air Storage of Main Air Path of Air Supply System", "Auxiliary Air Tank for Air Storage of Auxiliary Air Path of Air Supply System",
+            "Metal Mesh Cleaning Air Nozzle for Cleaning Components of Air Supply System", "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Air Supply Fixed Main Nozzle Unit", "Air Supply Oscillating Main Nozzle Unit", "Air Supply Auxiliary Nozzle Array", "Air Supply Control Solenoid Valve Group", "Beam-Concentrating Energy-Saving Air Supply Main Nozzle",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System",
+            "Air Supply Air Filter", "Air Supply Pressure Regulating Box", "Air Supply Main Air Storage Tank", "Air Supply Auxiliary Air Storage Tank", "Air Supply Flow Monitoring Flow Meter", "Standard Air Supply Main Nozzle Unit", "Air Supply Pressure Detection Sensor", "Air Supply Wind Speed Detection Anemometer"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Warp Tension Buffer Type Swing Back Beam of Shedding Mechanism", "Warp Tension Support Type Fixed Back Beam of Shedding Mechanism", "Wire Heald Frame for Warp Bearing of Shedding Mechanism", "Heavy Heald Lifting Return Spring of Shedding Mechanism",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Weft Insertion Guide Profiled Reed", "Operating State Monitoring Stroboscope", "Fabric Supporting Breast Beam", "Front Steel Wire for Warp Guide", "Rear Steel Wire for Warp Tension", "Overall Machine Power Main Shaft", "Component Connection Sleeve", "Structure Installation Flat Plate", "Yarn Tension Adjustment Mechanism",
+            "Equipment Supporting Frame", "Weft Cutting Device", "Weft Storage Weft Accumulator", "Weft Flight Weft Detection Unit", "Warp/Steel Wire Guide",
+            "Transmission Box of Diamond Wire Mesh Weaving Machine", "Sleeve of Diamond Wire Mesh Weaving Machine", "Card Bracket"
+        ]
+        },
+    {
+            "Weaving Machine Models": [
+                "New Type Loom", "New Type Air-Jet Loom Type JZ-800",
+                "Air-Jet Loom"
+            ],
+            "Process Parameters": [
+                "Heald Frame Lifting Height",
+                "Number of Heald Frames",
+                "Heald Frame Static Angle",
+                "Crankshaft Position",
+                "Loom Rotational Speed",
+                "Number of Warp Yarns",
+                "Shed Height",
+                "Heald Frame Motion Speed Parameter 0.3-0.5m/s",
+                "Loom Start-Stop Time Parameter 0.5-1s", "Heald Frame Lifting Speed 0.4-0.6m/s"
+            ],
+            "Energy Consumption Parameters": [
+                "Shedding Energy Consumption Ratio in Total Energy Consumption",
+                "Shedding Power Ratio at 750r/min",
+                "No-Load Power of Spring Return Dobby Machine",
+                "Energy Consumption Impact of Heald Frame Quantity",
+                "Energy Consumption Impact of Shed Height",
+                "Energy Saving Effect of Lightweight Parts",
+                "Energy Saving Effect of Differential Mechanism",
+                "Input-Output Power Ratio of Dobby Machine",
+                "Dobby Machine Testing Equipment Operating Power 80-100W", "Heald Lifting Selection Lever Transmission Energy Consumption 5-8W",
+                "Card Mechanism Standby Energy Consumption 2-3W", "Differential Gear Energy Consumption Ratio 4%-6%",
+                "Card Mechanism Transmission Energy Consumption Power 10-15W"
+            ],
+         "Transmission Components": [
+            "Loom Transmission Power Source - Drive Motor", "Transmission Shaft for Loom Main Transmission", "Gear Transmission Device", "Control Cam", "General-Purpose Coupling for Transmission",
+            "External Transmission Motor", "Roller for Card Transmission", "Main Transmission Cam of Dobby Machine", "Transmission Shaft of Dobby Machine", "Main Transmission Shaft of Overall Machine Shedding System",
+            "Gear Motor for Transmission", "Transmission Positioning Power Source - Stepper Motor", "Servo Reducer for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission",
+            "General-Purpose Transmission Part of Dobby Machine"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline of Air Supply System", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Main Nozzle Flow Guide Sleeve of Air Path of Air Supply System", "High-Pressure Filter for Impurity Filtration of High-Pressure Air Path of Air Supply System",
+            "Compressed Air Dryer", "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve for Air Path of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Card Control Mechanism of Shedding Mechanism", "Heald Lifting Shedding Mechanism Selection Lever", "Heald Leveling Return Device of Shedding Mechanism", "Positioning Pin for Card Positioning and Fixing of Shedding Mechanism", "Heald Frame Positioning Reference Block",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism", "Transmission Cam for Shedding Control",
+            "Spring Return Dobby Machine for Shedding Control", "Shedding Execution Heald Frame", "Auxiliary Heald Lifting Rod for Shedding", "Pattern Card Mechanism for Shedding", "Heald Lifting Selection Rod for Shedding Heald Frame", "Dobby Machine Testing Equipment for Shedding System",
+            "Dobby Machine Position Sensor for Shedding System", "Transmission Gear of Integrated Dobby Machine for Shedding Mechanism", "Gear Transmission Device for Shedding System", "Differential Gear for Shedding Transmission", "Transmission Shaft of Integrated Dobby Machine for Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": []
+        },
+    {
+            "Weaving Machine Models": [
+                "Sulzer Textil L9400 Air-Jet Loom", "Sulzer Textil L9500 Air-Jet Loom"
+            ],
+            "Process Parameters": [
+                "Maximum Weft Insertion Rate",
+                "Maximum Fabric Width",
+                "Weft Accumulator Parameters",
+                "Air Pressure Adjustment",
+                "Compressed Air Pressure Parameter 0.4-0.6MPa",
+                "Fabric Weave Density Warp Density 30-35 ends/cm", "Fabric Weave Density Weft Density 22-26 picks/cm"
+            ],
+            "Energy Consumption Parameters": [
+                "PowerLeno Device Power Consumption per Hour 0.6-0.8kWh", "Air Consumption Loss Rate of New Compressed Air Distribution System 5%-7%",
+                "Air Consumption of Relay Nozzle per Unit 6-9m³/h", "Power of Automatic Weft Waste Handling Equipment 100-120W",
+                "Energy Consumption of Automatic Weft Breakage Handling Component 8-12W", "Energy Consumption Ratio of Special Additional Devices 5%-7%"
+            ],
+         "Transmission Components": [
+            "Main Motor for Main Transmission of Loom", "Gear for Transmission", "Clutch for Main Transmission", "Gear Shaft for Transmission",
+            "Belt Tensioning Device for Transmission", "Sprocket for Transmission", "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission"
+        ],
+        "Air Supply System Components": [
+            "Precision Filter", "Compressed Air Dryer", "Filter Element Matching Dryer of Air Supply System", "Dehumidification Air Path", "Redundant Backup Component of Air Supply System", "Weft Insertion Timing Monitoring System of Air Supply", "Weft Insertion Efficiency Monitor of Air Supply",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System", "Special Air Pipe for High-Pressure Air Path of Air Supply System",
+            "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System", "Intelligent Distribution Control System of Air Supply", "Relay Nozzle Array of Air Supply", "Weft Insertion Timing Monitoring System of Air Supply", "Weft Insertion Efficiency Monitor of Air Supply"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Lightweight Heald Lifting Belt of Shedding Mechanism", "Leno Selvedge Shedding Control Unit",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Weft Pre-Storage Weft Accumulator", "Equipment Supporting Rigid Frame", "Weft Waste Recovery Device", "Weft Breakage Repair Execution Unit", "Air Path Pipeline Cleaning System", "Card Bracket"
+        ]
+        },
+    {
+        "Weaving Machine Models": [
+            "Picanol DELTA-190 Air-Jet Loom", "Picanol DELTA-210 Air-Jet Loom",
+            "Tsudakoma Model",
+            "Picanol Model"
+        ],
+        "Process Parameters": [
+            "Main Nozzle Pressure",
+            "Auxiliary Nozzle Pressure",
+            "Auxiliary Nozzle Spacing",
+            "Number of Auxiliary Nozzles Controlled by Solenoid Valves",
+            "Main Nozzle Angle",
+            "Auxiliary Nozzle Angle",
+            "Loom Rotational Speed",
+            "Fabric Parameters",
+            "Weft Pin Action Time",
+            "Weft Cutting Angle",
+            "Constant Blowing Pressure",
+            "Weft Arrival Angle",
+            "Auxiliary Nozzle Flow Rate", "Auxiliary Nozzle Injection Time 65-85°"
+        ],
+        "Energy Consumption Parameters": [
+            "Total Energy Consumption Composition of Air-Jet Looms",
+            "Air Consumption Ratio in Total Energy Consumption",
+            "Auxiliary Nozzle Air Consumption Ratio",
+            "Air Compressor Power Consumption",
+            "Total Energy Consumption per Loom per Hour",
+            "Relationship Between Total Loom Flow Rate and Main/Auxiliary Nozzle Pressure",
+            "Air Saving Effect of Energy-Saving Auxiliary Nozzles",
+            "Air Saving Effect of Solenoid Valve Controlled Quantity",
+            "Impact of Main Nozzle Pressure on Weft Arrival Angle",
+            "Impact of Auxiliary Nozzle Pressure on Weft Arrival Angle",
+            "Pitot Tube Detection Energy Consumption 1-2W", "CYR-2D Differential Pressure Transmitter Operating Power 5-8W",
+            "Extension Nozzle Air Consumption Ratio 3%-5%", "Auxiliary Nozzle Pressure Reducing Valve Energy Consumption Loss Rate 2%-3%",
+            "Air Consumption Loss Rate of Air Path Cock for Cleaning Wall Holes 1%-2%"
+        ],
+    "Transmission Components": [
+        "Gear Reducer for Transmission", "Loom Transmission Power Source - Drive Motor", "Transmission Shaft for Loom Transmission", "Input Shaft for Reducer Transmission", "Bearing for Loom Transmission",
+        "Timing Pulley for Transmission", "Ball Bearing for Transmission", "Gear Motor for Transmission", "Transmission Positioning Power Source - Stepper Motor", "Servo Reducer for Transmission"
+    ],
+    "Air Supply System Components": [
+        "Compressed Air Collection and Transmission Pipeline of Air Supply System", "Pressure Reducing Valve for Auxiliary Nozzle Air Path of Air Supply System", "Air Path Cock for Wall Hole Cleaning of Air Supply System Components", "Weft Insertion Auxiliary Nozzle Array of Air Supply", "Electromagnetic Directional Valve for Air Supply Control",
+        "Extension Nozzle of Air Path of Air Supply System", "Extended Pipe Matching Extension Nozzle of Air Supply System", "Collection and Transmission Pipeline Joint for Connection of Air Supply System Collection and Transmission Pipeline", "Air Storage Tank for Air Supply Energy Storage and Pressure Stabilization", "Pressure Regulating Pressure Reducing Valve for Air Supply",
+        "Compressed Air Dryer", "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve for Air Path of Air Supply System", "Cleaning Cock Valve for Air Supply Pipeline",
+        "Integrated Auxiliary Nozzle Module of Air Supply", "Power Screw Air Compressor of Air Supply", "High-Pressure Transmission Pipeline System of Air Supply", "Main Weft Insertion Nozzle of Air Supply", "Extended Weft Insertion Nozzle of Air Supply", "Refrigerated Air Dryer of Air Supply",
+        "Air Flow Velocity Pitot Tube of Air Supply", "Differential Pressure Transmitter Sensor of Air Supply", "Profiled Reed for Weft Insertion of Air Supply", "Weft Cutting Execution Unit of Air Supply"
+    ],
+    "Shedding Mechanism Components": [
+        "Dobby Shedding Mechanism", "General-Purpose Heald Lifting Belt of Shedding Mechanism", "Connecting Rod for Dobby Transmission of Shedding Mechanism", "Buffer Block of Heald Frame of Shedding Mechanism",
+        "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism"
+    ],
+    "Weaving Auxiliary and Basic Components": [
+        "Weft Positioning Pin of Air Supply"
+    ]
+    },
+    {
+            "Weaving Machine Models": [
+                "Profiled Reed Type Air-Jet Loom", "Profiled Reed Type Air-Jet Loom Model G1790",
+                "Tsudakoma ZA Type Air-Jet Loom",
+                "Nissan LA Type Air-Jet Loom",
+                "Toyota JA Type Air-Jet Loom",
+                "Picanol OMNIplus Summum Air-Jet Loom",
+                "Itema A9500 Air-Jet Loom",
+                "Toyota JAT810 Air-Jet Loom",
+                "Tsudakoma ZAX9200 Air-Jet Loom",
+                "G1788 Air-Jet Loom",
+                "ASGA701 Air-Jet Loom",
+                "WG2000 Air-Jet Loom",
+                "RFJA20E Air-Jet Loom"
+            ],
+            "Process Parameters": [
+                "Auxiliary Nozzle Injection Frequency 50-80 times/min",
+                "Profiled Reed Tooth Pitch Parameter 2-3mm",
+                "Weft Insertion Speed 10-15m/s",
+                "Flow Field Simulation Pressure 0.3-0.5MPa", "Flow Field Simulation Speed 250-300m/s"
+            ],
+            "Energy Consumption Parameters": [
+                "Optimized Energy Consumption of Single Round Hole Auxiliary Nozzle",
+                "Optimized Energy Consumption of Double Round Hole Auxiliary Nozzle",
+                "Optimized Energy Consumption of Rectangular Hole Auxiliary Nozzle",
+                "Weft Traction Force Energy Consumption",
+                "Refrigerated Dryer Operating Power 300-350W", "DLF-3 Charge Voltage Filter Integrating Amplifier Energy Consumption 2-3W",
+                "BZ2668 Dynamic Strain Gauge Power Consumption per Hour 0.1-0.2kWh", "Air Consumption of Rectangular Hole Auxiliary Nozzle is 10%-15% Lower Than That of Single Round Hole",
+                "Energy Consumption Ratio of Refrigerated Dryer to Air Compressor 8%-10%"
+            ],
+        "Transmission Components": [
+            "Loom Transmission Power Source - Drive Motor", "Main Motor for Main Transmission of Loom", "General-Purpose Coupling for Transmission", "Loom Cam Transmission Shaft", "Reed Seat Transmission Shaft", "Reed Seat Transmission Connecting Rod", "Bearing for Cam Transmission",
+            "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission", "Belt Tensioning Device for Transmission", "Sprocket for Transmission", "Gearbox for Transmission", "Transmission Servo Weft Accumulator", "Transmission Warp Rear Tension Control Mechanism",
+            "Transmission Crankshaft Connecting Rod Type Side Shear Mechanism", "Transmission Photoelectric Weft Detection Sensor Assembly"
+        ],
+        "Air Supply System Components": [
+            "Filter for Impurity Filtration of Air Path of Air Supply System", "Pressure Regulating Valve for Air Path of Air Supply System", "Extension Nozzle of Air Path of Air Supply System", "Weft Insertion Auxiliary Nozzle Array of Air Supply", "Weft Insertion Profiled Reed of Air Supply", "Main Weft Insertion Nozzle of Air Supply", "Extended Weft Insertion Nozzle of Air Supply",
+            "Compressed Air Transmission Pipeline of Air Supply System", "Condenser Matching Refrigerated Dryer of Air Supply System", "High-Pressure Filter for Impurity Filtration of High-Pressure Air Path of Air Supply System", "Power Screw Air Compressor of Air Supply", "Air Storage Tank for Air Supply Energy Storage and Pressure Stabilization", "Refrigerated Air Dryer of Air Supply",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System", "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System",
+            "Multi-Stage Precision Filter of Air Supply", "Proportional Pressure Regulating Valve of Air Supply", "Air Flow Velocity Pitot Tube of Air Supply"
+        ],
+        "Shedding Mechanism Components": [
+            "Shedding Execution Heald Frame", "Heald Lifting Rod for Suspension Support of Simple Shedding Mechanism Heald Frame", "Manual Heald Leveling Return Device of Shedding Mechanism",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Profiled Reed Cleaning Device", "Pressure Signal Conditioner", "BZ2668 Dynamic Strain Gauge", "FD-1 Tension Gauge",
+            "Loom Status Data Analysis Platform", "Flow Field Simulation Software", "Transmission Warp Front Tension Control Mechanism", "Card Bracket"
+        ]
+        },
+    {
+        "Weaving Machine Models": [
+            "JA Type Air-Jet Loom", "JA21 Type Air-Jet Loom"
+        ],
+        "Process Parameters": [
+            "Main Nozzle Air Supply Pressure: 0.05~0.45MPa",
+            "Injection Pipe Parameters: Length 120mm, Inner Diameter 8mm",
+            "Reynolds Number: 3000~1.28×10⁵",
+            "On-Way Resistance Coefficient: 1.68×10⁻²",
+            "Total Pressure Drop: 0.041MPa~0.3293MPa",
+            "Air Flow Mach Number: Subsonic→Sonic",
+            "Air Flow Static Pressure: Equal to Atmospheric Pressure at Subsonic Speed, Higher Than Atmospheric Pressure at Supersonic Speed", "Main Nozzle Injection Time 70-90°"
+        ],
+        "Energy Consumption Parameters": [
+            "On-Way Resistance Pressure Drop: Accounts for 20.5%~24.7% of Total Pressure Drop",
+            "Local Resistance Pressure Drop: Accounts for 75.3%~79.5% of Total Pressure Drop",
+            "Air Flow Density: 1.186kg/m³~1.609kg/m³",
+            "Comprehensive Local Resistance Coefficient: 2.557~4.342",
+            "Air Intake Pipe Air Consumption Loss Rate 3%-4%", "Flow Meter Operating Energy Consumption 1-2W",
+            "Full-Load Air Consumption of JA Type Main Nozzle 10-13m³/h", "Air Storage Tank Pressure Maintenance Energy Consumption 5-8W",
+            "Air Intake Pipe Energy Consumption Loss Rate 2%-3%"
+        ],
+        "Transmission Components": [
+            "Main Motor for Main Transmission of Loom", "Gear for Transmission", "General-Purpose Coupling for Transmission", "Special Bearing for JA Type Loom Transmission", "Support Seat for Main Shaft Transmission",
+            "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission", "Gear Motor for Transmission"
+        ],
+        "Air Supply System Components": [
+            "JA Type Main Nozzle of Air Path of Air Supply System", "Air Intake Pipe for Air Source Introduction of Air Supply System", "Compressed Air Dryer", "Precision Filter",
+            "Special Joint for JA Type Nozzle of Air Supply System", "Drain Pipe Matching Dryer of Air Supply System", "JA Type Main Nozzle for Weft Insertion of Air Supply", "Air Supply Pressure Detection Sensor", "Air Supply Air Flow Velocity Detector", "Air Supply Compressed Air Flow Meter", "Air Flow Guide Sleeve of Air Supply Main Nozzle",
+            "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve for Air Path of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Shedding Execution Heald Frame", "Electronic Dobby Actuator for Shedding Mechanism", "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection",
+            "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": []
+    },
+    {
+        "Weaving Machine Models": [
+            "Plain Shedding Loom", "Plain Shedding Loom Model GA615", "Jacquard Loom"
+        ],
+        "Process Parameters": [
+            "Heald Frame Lifting Height: 58mm, 68mm, 78mm",
+            "Number of Heald Frames: 2 pieces, 4 pieces, 6 pieces",
+            "Heald Frame Static Angle: 100°",
+            "Crankshaft Position: Power Input Required Starting from 230°, Shed Closed at 360°",
+            "Loom Rotational Speed: 266~750r/min",
+            "Heald Frame Occupancy Rate: No Warp Yarns, 5000 Warp Yarns, 7000 Warp Yarns",
+            "Angular Velocity of Dobby Transmission Shaft: Constant Speed W for Spring Return Type, Variable Speed W(t) for Rotational Type",
+            "Dobby Shedding Time 110-130ms"
+        ],
+        "Energy Consumption Parameters": [
+            "Shedding Energy Consumption Ratio: 30%~40%",
+            "Shedding Power Ratio at 750r/min: >50%",
+            "No-Load Power of Spring Return Dobby Machine: 600W at 660r/min",
+            "Input-Output Power Ratio: Input Power is Much Larger Than Output Power at 297~450r/min",
+            "Energy Saving Effect of Lightweight Parts: Cellulose-Reinforced Plastic Heald Frame, Maximum and Minimum Input Power Reduced by 70%+",
+            "Energy Saving Effect of Differential Mechanism: Maximum Energy Value Reduced by 60%~70%",
+            "External Motor Standby Power 30-40W", "Heald Lifting Rod Transmission Energy Consumption 5-7W",
+            "Control Cam Friction Energy Consumption Loss Rate 2%-3%", "Main Cam Transmission Energy Consumption Ratio 5%-8%"
+        ],
+        "Transmission Components": [
+            "Integrated Dobby Transmission Shaft for Shedding Mechanism", "Transmission Shaft for Loom Main Transmission", "Gear Transmission Device", "Main Motor for Loom Main Transmission", "External Transmission Motor",
+            "Clutch for Main Transmission", "Differential Gear Shaft for Transmission", "Shedding Power Transmission Shaft", "Loom Main Shaft Transmission System", "Motion Compensation Differential Gear Set", "Precision Gearbox for Heald Frame Transmission",
+            "Transmission Positioning Power Source - Stepper Motor", "Servo Reducer for Transmission", "Universal Coupling for Transmission", "Plum Blossom Coupling for Transmission", "Belt Tensioning Device for Transmission",
+            "Loom Servo Drive Motor", "Variable Speed Gear Set for Dobby Machine"
+        ],
+        "Air Supply System Components": [
+            "Air Path Pipeline of Air Supply System", "Pressure Regulating Valve for Air Path Pressure Adjustment of Air Supply System", "Pipe Fixing Clip for Air Path of Air Supply System", "Micro Air Pump for Micro Air Source Generation of Air Supply System",
+            "Buffer for Compressed Air Pressure Buffering of Air Supply System", "Pneumatic Triple Unit for Air Path Pretreatment of Air Supply System", "Air Path Fitting for Pipeline Connection of Air Supply System", "Special Air Pipe for High-Pressure Air Path of Air Supply System", "Exhaust Muffler for Air Path Exhaust Noise Reduction of Air Supply System"
+        ],
+        "Shedding Mechanism Components": [
+            "Dobby Shedding Mechanism", "Card Control Mechanism of Shedding Mechanism", "Heald Lifting Shedding Mechanism Selection Lever", "Electronic Dobby Shedding Controller", "Heald Frame Linkage Heald Lifting Rod", "Mechanical Card Storage Device",
+            "Heald Leveling Return Device of Shedding Mechanism", "Shedding Connecting Rod for Differential Transmission of Shedding Mechanism", "Card Installation Fixing Frame of Shedding Mechanism", "Heald Frame Motion Control Cam", "Main Drive Cam for Shedding",
+            "Shedding Heald Frame Sliding Guide Block", "General-Purpose Heald Lifting Return Spring Seat of Shedding Mechanism", "Shedding Connecting Rod Assembly for Shedding Mechanism Transmission",
+            "Support Bearing of Integrated Dobby Machine for Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "Dobby Machine Comprehensive Performance Tester", "Warp Bearing Heald Frame", "Card Bracket"
+        ]
+    },
+    {
+        "Weaving Machine Models": [
+            "Tsudakoma Loom",
+            "Air-Jet Loom"
+        ],
+        "Process Parameters": [
+            "Main Nozzle Pressure: 0.18~0.42MPa",
+            "Auxiliary Nozzle Pressure: Main Nozzle Pressure + 0.05~0.1MPa",
+            "Weft Flight Angle: Main/Auxiliary Parameter Optimization Target ~225°, Shortening Flight Angle Can Save Energy, Weft Flight Angle Target Value 220-230°",
+            "Weft Insertion Time 80-100ms",
+            "Auxiliary Nozzle Lead Angle 15-20°",
+            "Loom Rotational Speed 500-600r/min"
+        ],
+        "Energy Consumption Parameters": [
+            "Air Compressor Energy Consumption: Monthly Consumption 254200~439600kWh",
+            "Air-Jet Loom Energy Consumption: Monthly Consumption 140290~174460kWh, Accounting for 39.7%~86.1% of Air Compressor Energy Consumption",
+            "Weft Stop Pin Driving Energy Consumption 3-5W", "Stroboscope Operating Power 15-20W",
+            "Tension Sensor Energy Consumption 1-2W", "Full-Load Air Consumption of Auxiliary Nozzle 8-11m³/h"
+        ],
+        "Transmission Components": [
+            "Loom Transmission Power Source - Drive Motor", "Gear for Transmission", "Drive Chain for Loom Transmission", "Pin for Main Shaft Transmission Positioning",
+            "Sprocket for Transmission", "Gearbox for Transmission", "Driven Gear for Transmission", "Driving Gear for Transmission", "Timing Pulley for Transmission", "Ball Bearing for Transmission"
+        ],
+        "Air Supply System Components": [
+            "General Main Nozzle of Air Path of Air Supply System", "Auxiliary Nozzle of Air Path of Air Supply System", "Solenoid Valve for Air Path Control of Air Supply System", "Air Path Pipeline of Air Supply System", "Compressed Air Generation Device of Air Supply", "Compressed Air Energy Storage Device of Air Supply",
+            "Compressed Air Dryer", "Solenoid Valve Centralized Control Box of Air Supply System", "Nozzle Solenoid Valve", "Main Weft Insertion Nozzle of Air Supply", "Auxiliary Weft Insertion Nozzle of Air Supply", "Air Flow Control Solenoid Valve of Air Supply",
+            "Pneumatic Valve for Air Path Control of Air Supply System", "Quick-Connect Pneumatic Fitting for Air Path of Air Supply System", "Flow Control Valve for Air Path of Air Supply System", "Weft Positioning Weft Stop Pin of Air Supply"
+        ],
+        "Shedding Mechanism Components": [
+            "Shedding Execution Heald Frame", "Simple Dobby Shedding Mechanism", "Manual Heald Lifting Rod for Suspension Support of Shedding Mechanism Heald Frame",
+            "Heald of Shedding Mechanism - Heald Hook for Heald Lifting Connection", "Heald Rope for Heald Frame Lifting of Shedding Mechanism", "Camshaft of Shedding Mechanism", "Electromagnet for Dobby Transmission of Shedding Mechanism"
+        ],
+        "Weaving Auxiliary and Basic Components": [
+            "System Dynamic Detector", "Weft Tension Monitoring Sensor", "Precision Filter"
+        ]
+    }
+
+
+
+
+
+]
